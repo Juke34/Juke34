@@ -56,6 +56,20 @@
 </p>
 
 ---
+
+### ⚡ Recent Activity
+
+<details>
+  <summary>GitHub</summary>
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details>
+
+---
+
 <!--
 **Juke34/Juke34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
