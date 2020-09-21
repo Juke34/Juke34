@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Juke34/github-readme-stats" title="GitHub Readme Stats"><img src="https://github-readme-stats.Juke34.vercel.app/api?username=Juke34&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" width=60.40%" height="220" alt="github stats" /></a>
-  <a href="https://github.com/Juke34/github-readme-stats" title="GitHub Readme Stats"><img src="https://github-readme-stats.Juke34.vercel.app/api/top-langs?username=Juke34&layout=compact&hide_border=true&theme=tokyonight&langs_count=10" width="39%" height="220" alt="top languages" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Readme Stats"><img src="https://github-readme-stats.vercel.app/api?username=Juke34&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" width=60.40%" height="220" alt="github stats" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Readme Stats"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juke34&layout=compact&hide_border=true&theme=tokyonight&langs_count=10" width="39%" height="220" alt="top languages" /></a>
 </p>
 
 ---
