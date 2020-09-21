@@ -34,7 +34,6 @@
   <a href="https://github.com/topics/git" title="Git"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git logo" width="36" height="36" /></a>
   <a href="https://github.com/topics/github" title="GitHub"><img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="github logo" width="36" height="36" /></a>
   <a href="https://github.com/topics/linux" title="Linux"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux logo" width="36" height="36" /></a>
-
   <a href="https://github.com/topics/terminal" title="Terminal"><img src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" alt="terminal logo" width="36" height="36" /></a>
   <a href="https://github.com/topics/sublime-text" title="Sublime Text"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" alt="sublime-text logo" width="36" height="36" /></a>
     <a href="https://github.com/topics/sublime-text" title="Atom"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" alt="atom logo" width="36" height="36" /></a>
