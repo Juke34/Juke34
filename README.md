@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Jacques 👨‍💻</h1>
-<h3 align="center">~today is a nice day, isn't it?~</h3>
+<h3 align="center">🌻 What a wonderful day today 🌻</h3>
 
 ---
 
