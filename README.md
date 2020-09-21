@@ -36,7 +36,10 @@
   <a href="https://github.com/topics/linux" title="Linux"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux logo" width="36" height="36" /></a>
   <a href="https://github.com/topics/terminal" title="Terminal"><img src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" alt="terminal logo" width="36" height="36" /></a>
   <a href="https://github.com/topics/sublime-text" title="Sublime Text"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" alt="sublime-text logo" width="36" height="36" /></a>
-    <a href="https://github.com/topics/sublime-text" title="Atom"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" alt="atom logo" width="36" height="36" /></a>
+  <a href="https://github.com/topics/sublime-text" title="Atom"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" alt="atom logo" width="36" height="36" /></a>
+  <a href="https://github.com/topics/sublime-text" title="Nextflow"><img src="https://github.com/nextflow-io/trademark/blob/master/nextflow2014_no-bg.png" alt="nextflow logo" width="120" height="30" /></a>
+  <a href="https://github.com/topics/sublime-text" title="Snakemake"><img src="https://raw.githubusercontent.com/snakemake/snakemake/6fcdc8a22db5522e232638bff16da9b50996eb45/images/logo.svg" alt="snakemake logo" width="36" height="36" /></a>
+  <a href="https://github.com/topics/sublime-text" title="Bioconda"><img src="http://bioconda.github.io/_images/bioconda.png" alt="bioconda logo" width="120" height="25" /></a>
 </p>
 
 ---
