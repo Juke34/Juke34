@@ -19,7 +19,7 @@
   - DisCO - A fast tool to quantify the single indel errors in assemblies
 - 🗨️ Ask me anything about:
   - Bioinformatics, Annotation, Assembly, GFF/GTF file format, tools in which I participated in the development
-- ✨ Fun fact: I have the same first name as my father
+- ✨ Fun fact: I like picking mushrooms and DIY
 
 ---
 
