@@ -43,7 +43,7 @@
 ### 🎶 Now Playing
 
 <p align="center">
-  <a href="https://open.spotify.com/user/keujmat" title="My Spotify profile"><img src="https://novatorem.Juke34.vercel.app/api/spotify" alt="spotify player" width="51%" height="100%" /></a>
+  <a href="https://open.spotify.com/user/keujmat" title="My Spotify profile"><img src="https://novatorem.juke34.vercel.app/api/spotify" alt="spotify player" width="51%" height="100%" /></a>
 </p>
 
 ---
