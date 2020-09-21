@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Juke34/github-readme-stats" title="GitHub Readme Stats"><img src="https://github-readme-stats.Juke34.vercel.app/api?username=Juke34&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" width=60.40%" height="220" alt="github stats" /></a>
+  <a href="https://github.com/Juke34/github-readme-stats" title="GitHub Readme Stats"><img src="https://github-readme-stats.rivenirvana.vercel.app/api?username=Juke34&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" width=60.40%" height="220" alt="github stats" /></a>
 </p>
 
 ---
