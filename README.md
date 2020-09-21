@@ -40,6 +40,7 @@
   <a href="https://github.com/topics/sublime-text" title="Nextflow"><img src="https://github.com/nextflow-io/trademark/blob/master/nextflow2014_no-bg.png" alt="nextflow logo" width="120" height="30" /></a>
   <a href="https://github.com/topics/snakemake" title="Snakemake"><img src="https://raw.githubusercontent.com/snakemake/snakemake/6fcdc8a22db5522e232638bff16da9b50996eb45/images/logo.svg" alt="snakemake logo" width="36" height="36" /></a>
   <a href="https://github.com/topics/bioconda" title="Bioconda"><img src="http://bioconda.github.io/_images/bioconda.png" alt="bioconda logo" width="120" height="25" /></a>
+  <a href="https://github.com/topics/slack" title="slack"><img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" width="36" height="36" /></a>
 </p>
 
 ---
