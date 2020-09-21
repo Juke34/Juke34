@@ -13,15 +13,6 @@
 
 ---
 
-<h3 align="center">📫 How to reach me 💬</h3>
-
-<p align="center">
-  <a href="mailto:jacques.dainat@gmail.com" title="jacques.dainat@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="mailto:jacques.dainat@nbis.se" title="jacques.dainat@nbis.se"><img src="https://github.com/Juke34/Juke34/raw/master/img/nbislogo-green.svg" width="62" height="31"/></a>
-</p>
-
----
-
 ### :octocat: Personal
 
 - 🚀 I’m currently 🔭 working on and 🌱 learning about:
