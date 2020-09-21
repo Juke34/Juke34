@@ -57,27 +57,6 @@
 </p>
 
 ---
-
-### ⚡ Recent Activity
-
-<details>
-  <summary>GitHub</summary>
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-
----
-
-This profile readme is generated with the use of:
-
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-- [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
-- [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
-- [novatorem/novatorem](https://github.com/novatorem/novatorem)
-
 <!--
 **Juke34/Juke34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
