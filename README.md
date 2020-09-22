@@ -14,9 +14,9 @@
 
 ### :octocat: Personal
 
-- 🚀 I’m currently 🔭 working on and 🌱 learning about:
-  - **My children**, I'm in parental leave until November
-  - DisCO - A fast tool to quantify the single indel errors in assemblies
+- 🚀 I’m currently:
+  - 🚼 taking care of my children, I'm in parental leave until November
+  - 🔭 developing DisCO - A fast tool to quantify the single indel errors in assemblies
 - 🗨️ Ask me anything about:
   - Bioinformatics, Annotation, Assembly, GFF/GTF file format, tools in which I participated in the development
 - ✨ Fun fact: I like picking mushrooms and DIY
