@@ -63,11 +63,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24537](https://github.com//bioconda/bioconda-recipes/pull/24537) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-2. ❗️ Opened issue [#166](https://github.com//ebi-pf-team/interproscan/issues/166) in [ebi-pf-team/interproscan](https://github.com//ebi-pf-team/interproscan)
-3. 🗣 Commented on [#24392](https://github.com//bioconda/bioconda-recipes/issues/24392) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-4. 🗣 Commented on [#24392](https://github.com//bioconda/bioconda-recipes/issues/24392) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-5. ❗️ Closed issue [#71](https://github.com//NBISweden/AGAT/issues/71) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#32](https://github.com//NBISweden/GAAS/issues/32) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
+2. 🗣 Commented on [#32](https://github.com//NBISweden/GAAS/issues/32) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
+3. 💪 Opened PR [#24537](https://github.com//bioconda/bioconda-recipes/pull/24537) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+4. ❗️ Opened issue [#166](https://github.com//ebi-pf-team/interproscan/issues/166) in [ebi-pf-team/interproscan](https://github.com//ebi-pf-team/interproscan)
+5. 🗣 Commented on [#24392](https://github.com//bioconda/bioconda-recipes/issues/24392) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 <!--END_SECTION:activity-->
 
 </details>
