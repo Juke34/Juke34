@@ -63,10 +63,10 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24552](https://github.com//bioconda/bioconda-recipes/pull/24552) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-2. 🗣 Commented on [#24537](https://github.com//bioconda/bioconda-recipes/issues/24537) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+1. 🗣 Commented on [#506](https://github.com//tseemann/prokka/issues/506) in [tseemann/prokka](https://github.com//tseemann/prokka)
+2. 💪 Opened PR [#24552](https://github.com//bioconda/bioconda-recipes/pull/24552) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 3. 🗣 Commented on [#24537](https://github.com//bioconda/bioconda-recipes/issues/24537) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-4. 🗣 Commented on [#32](https://github.com//NBISweden/GAAS/issues/32) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
+4. 🗣 Commented on [#24537](https://github.com//bioconda/bioconda-recipes/issues/24537) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 5. 🗣 Commented on [#32](https://github.com//NBISweden/GAAS/issues/32) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
 <!--END_SECTION:activity-->
 
