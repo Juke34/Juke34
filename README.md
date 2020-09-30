@@ -63,11 +63,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com//NBISweden/GAAS/pull/32) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
-2. 💪 Opened PR [#72](https://github.com//NBISweden/AGAT/pull/72) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. ❌ Closed PR [#24552](https://github.com//bioconda/bioconda-recipes/pull/24552) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-4. 🗣 Commented on [#24552](https://github.com//bioconda/bioconda-recipes/issues/24552) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-5. 🗣 Commented on [#506](https://github.com//tseemann/prokka/issues/506) in [tseemann/prokka](https://github.com//tseemann/prokka)
+1. 🗣 Commented on [#74](https://github.com//NBISweden/AGAT/issues/74) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🎉 Merged PR [#32](https://github.com//NBISweden/GAAS/pull/32) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
+3. 💪 Opened PR [#72](https://github.com//NBISweden/AGAT/pull/72) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. ❌ Closed PR [#24552](https://github.com//bioconda/bioconda-recipes/pull/24552) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+5. 🗣 Commented on [#24552](https://github.com//bioconda/bioconda-recipes/issues/24552) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 <!--END_SECTION:activity-->
 
 </details>
