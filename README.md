@@ -63,10 +63,10 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com//NBISweden/EMBLmyGFF3/issues/6) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
-2. 💪 Opened PR [#24732](https://github.com//bioconda/bioconda-recipes/pull/24732) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-3. ❗️ Closed issue [#55](https://github.com//NBISweden/EMBLmyGFF3/issues/55) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
-4. 🗣 Commented on [#55](https://github.com//NBISweden/EMBLmyGFF3/issues/55) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+1. 🗣 Commented on [#79](https://github.com//NBISweden/AGAT/issues/79) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🗣 Commented on [#6](https://github.com//NBISweden/EMBLmyGFF3/issues/6) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+3. 💪 Opened PR [#24732](https://github.com//bioconda/bioconda-recipes/pull/24732) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+4. ❗️ Closed issue [#55](https://github.com//NBISweden/EMBLmyGFF3/issues/55) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
 5. 🗣 Commented on [#55](https://github.com//NBISweden/EMBLmyGFF3/issues/55) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
 <!--END_SECTION:activity-->
 
