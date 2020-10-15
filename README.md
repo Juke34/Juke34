@@ -63,11 +63,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24732](https://github.com//bioconda/bioconda-recipes/pull/24732) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-2. 🗣 Commented on [#80](https://github.com//NBISweden/AGAT/issues/80) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🗣 Commented on [#121](https://github.com//oushujun/EDTA/issues/121) in [oushujun/EDTA](https://github.com//oushujun/EDTA)
-4. 🗣 Commented on [#79](https://github.com//NBISweden/AGAT/issues/79) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🗣 Commented on [#6](https://github.com//NBISweden/EMBLmyGFF3/issues/6) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+1. 🗣 Commented on [#56](https://github.com//NBISweden/EMBLmyGFF3/issues/56) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+2. 🎉 Merged PR [#24732](https://github.com//bioconda/bioconda-recipes/pull/24732) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+3. 🗣 Commented on [#80](https://github.com//NBISweden/AGAT/issues/80) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🗣 Commented on [#121](https://github.com//oushujun/EDTA/issues/121) in [oushujun/EDTA](https://github.com//oushujun/EDTA)
+5. 🗣 Commented on [#79](https://github.com//NBISweden/AGAT/issues/79) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
