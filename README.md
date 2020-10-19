@@ -63,11 +63,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#56](https://github.com//NBISweden/EMBLmyGFF3/issues/56) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
-2. 🗣 Commented on [#17](https://github.com//zhangrengang/TEsorter/issues/17) in [zhangrengang/TEsorter](https://github.com//zhangrengang/TEsorter)
-3. ❗️ Opened issue [#17](https://github.com//zhangrengang/TEsorter/issues/17) in [zhangrengang/TEsorter](https://github.com//zhangrengang/TEsorter)
-4. 🗣 Commented on [#56](https://github.com//NBISweden/EMBLmyGFF3/issues/56) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
-5. 🎉 Merged PR [#24732](https://github.com//bioconda/bioconda-recipes/pull/24732) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+1. ❗️ Closed issue [#74](https://github.com//NBISweden/AGAT/issues/74) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. ❗️ Closed issue [#56](https://github.com//NBISweden/EMBLmyGFF3/issues/56) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+3. 🗣 Commented on [#17](https://github.com//zhangrengang/TEsorter/issues/17) in [zhangrengang/TEsorter](https://github.com//zhangrengang/TEsorter)
+4. ❗️ Opened issue [#17](https://github.com//zhangrengang/TEsorter/issues/17) in [zhangrengang/TEsorter](https://github.com//zhangrengang/TEsorter)
+5. 🗣 Commented on [#56](https://github.com//NBISweden/EMBLmyGFF3/issues/56) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
 <!--END_SECTION:activity-->
 
 </details>
