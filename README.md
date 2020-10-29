@@ -64,10 +64,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#122](https://github.com//oushujun/EDTA/issues/122) in [oushujun/EDTA](https://github.com//oushujun/EDTA)
-2. 💪 Opened PR [#21](https://github.com//zhangrengang/TEsorter/pull/21) in [zhangrengang/TEsorter](https://github.com//zhangrengang/TEsorter)
-3. ❗️ Closed issue [#12](https://github.com//zhangrengang/TEsorter/issues/12) in [zhangrengang/TEsorter](https://github.com//zhangrengang/TEsorter)
-4. 🗣 Commented on [#12](https://github.com//zhangrengang/TEsorter/issues/12) in [zhangrengang/TEsorter](https://github.com//zhangrengang/TEsorter)
-5. ❌ Closed PR [#19](https://github.com//zhangrengang/TEsorter/pull/19) in [zhangrengang/TEsorter](https://github.com//zhangrengang/TEsorter)
+2. 💪 Opened PR [#25089](https://github.com//bioconda/bioconda-recipes/pull/25089) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+3. 🗣 Commented on [#122](https://github.com//oushujun/EDTA/issues/122) in [oushujun/EDTA](https://github.com//oushujun/EDTA)
+4. 💪 Opened PR [#21](https://github.com//zhangrengang/TEsorter/pull/21) in [zhangrengang/TEsorter](https://github.com//zhangrengang/TEsorter)
+5. ❗️ Closed issue [#12](https://github.com//zhangrengang/TEsorter/issues/12) in [zhangrengang/TEsorter](https://github.com//zhangrengang/TEsorter)
 <!--END_SECTION:activity-->
 
 </details>
