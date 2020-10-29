@@ -63,11 +63,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#19](https://github.com//zhangrengang/TEsorter/pull/19) in [zhangrengang/TEsorter](https://github.com//zhangrengang/TEsorter)
-2. 💪 Opened PR [#20](https://github.com//zhangrengang/TEsorter/pull/20) in [zhangrengang/TEsorter](https://github.com//zhangrengang/TEsorter)
-3. 💪 Opened PR [#19](https://github.com//zhangrengang/TEsorter/pull/19) in [zhangrengang/TEsorter](https://github.com//zhangrengang/TEsorter)
-4. 🗣 Commented on [#83](https://github.com//NBISweden/AGAT/issues/83) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🗣 Commented on [#80](https://github.com//NBISweden/AGAT/issues/80) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 💪 Opened PR [#21](https://github.com//zhangrengang/TEsorter/pull/21) in [zhangrengang/TEsorter](https://github.com//zhangrengang/TEsorter)
+2. ❗️ Closed issue [#12](https://github.com//zhangrengang/TEsorter/issues/12) in [zhangrengang/TEsorter](https://github.com//zhangrengang/TEsorter)
+3. 🗣 Commented on [#12](https://github.com//zhangrengang/TEsorter/issues/12) in [zhangrengang/TEsorter](https://github.com//zhangrengang/TEsorter)
+4. ❌ Closed PR [#19](https://github.com//zhangrengang/TEsorter/pull/19) in [zhangrengang/TEsorter](https://github.com//zhangrengang/TEsorter)
+5. 💪 Opened PR [#20](https://github.com//zhangrengang/TEsorter/pull/20) in [zhangrengang/TEsorter](https://github.com//zhangrengang/TEsorter)
 <!--END_SECTION:activity-->
 
 </details>
