@@ -63,11 +63,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#85](https://github.com//NBISweden/AGAT/pull/85) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 🎉 Merged PR [#72](https://github.com//NBISweden/AGAT/pull/72) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. ❗️ Closed issue [#84](https://github.com//NBISweden/AGAT/issues/84) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🗣 Commented on [#121](https://github.com//oushujun/EDTA/issues/121) in [oushujun/EDTA](https://github.com//oushujun/EDTA)
-5. 🗣 Commented on [#84](https://github.com//NBISweden/AGAT/issues/84) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#84](https://github.com//NBISweden/AGAT/issues/84) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. ❗️ Closed issue [#83](https://github.com//NBISweden/AGAT/issues/83) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🎉 Merged PR [#85](https://github.com//NBISweden/AGAT/pull/85) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 💪 Opened PR [#85](https://github.com//NBISweden/AGAT/pull/85) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🎉 Merged PR [#72](https://github.com//NBISweden/AGAT/pull/72) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
