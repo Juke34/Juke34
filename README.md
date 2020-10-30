@@ -64,10 +64,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#121](https://github.com//oushujun/EDTA/issues/121) in [oushujun/EDTA](https://github.com//oushujun/EDTA)
-2. 🗣 Commented on [#25089](https://github.com//bioconda/bioconda-recipes/issues/25089) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-3. 🗣 Commented on [#122](https://github.com//oushujun/EDTA/issues/122) in [oushujun/EDTA](https://github.com//oushujun/EDTA)
-4. 💪 Opened PR [#25089](https://github.com//bioconda/bioconda-recipes/pull/25089) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-5. 🗣 Commented on [#122](https://github.com//oushujun/EDTA/issues/122) in [oushujun/EDTA](https://github.com//oushujun/EDTA)
+2. 🗣 Commented on [#121](https://github.com//oushujun/EDTA/issues/121) in [oushujun/EDTA](https://github.com//oushujun/EDTA)
+3. 🗣 Commented on [#25089](https://github.com//bioconda/bioconda-recipes/issues/25089) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+4. 🗣 Commented on [#122](https://github.com//oushujun/EDTA/issues/122) in [oushujun/EDTA](https://github.com//oushujun/EDTA)
+5. 💪 Opened PR [#25089](https://github.com//bioconda/bioconda-recipes/pull/25089) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 <!--END_SECTION:activity-->
 
 </details>
