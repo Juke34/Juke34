@@ -63,11 +63,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25146](https://github.com//bioconda/bioconda-recipes/pull/25146) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+1. 🗣 Commented on [#25148](https://github.com//bioconda/bioconda-recipes/issues/25148) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 2. 🗣 Commented on [#25148](https://github.com//bioconda/bioconda-recipes/issues/25148) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-3. 🗣 Commented on [#25148](https://github.com//bioconda/bioconda-recipes/issues/25148) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-4. 💪 Opened PR [#25148](https://github.com//bioconda/bioconda-recipes/pull/25148) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-5. 🗣 Commented on [#25089](https://github.com//bioconda/bioconda-recipes/issues/25089) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+3. 🎉 Merged PR [#25146](https://github.com//bioconda/bioconda-recipes/pull/25146) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+4. 🗣 Commented on [#25148](https://github.com//bioconda/bioconda-recipes/issues/25148) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+5. 🗣 Commented on [#25148](https://github.com//bioconda/bioconda-recipes/issues/25148) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 <!--END_SECTION:activity-->
 
 </details>
