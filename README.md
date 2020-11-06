@@ -63,10 +63,10 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25163](https://github.com//bioconda/bioconda-recipes/pull/25163) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-2. 🗣 Commented on [#25148](https://github.com//bioconda/bioconda-recipes/issues/25148) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-3. 🗣 Commented on [#25148](https://github.com//bioconda/bioconda-recipes/issues/25148) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-4. 🎉 Merged PR [#25146](https://github.com//bioconda/bioconda-recipes/pull/25146) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+1. ❗️ Closed issue [#1](https://github.com//Juke34/SamReadViewer/issues/1) in [Juke34/SamReadViewer](https://github.com//Juke34/SamReadViewer)
+2. 🗣 Commented on [#1](https://github.com//Juke34/SamReadViewer/issues/1) in [Juke34/SamReadViewer](https://github.com//Juke34/SamReadViewer)
+3. 🎉 Merged PR [#25163](https://github.com//bioconda/bioconda-recipes/pull/25163) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+4. 🗣 Commented on [#25148](https://github.com//bioconda/bioconda-recipes/issues/25148) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 5. 🗣 Commented on [#25148](https://github.com//bioconda/bioconda-recipes/issues/25148) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 <!--END_SECTION:activity-->
 
