@@ -63,11 +63,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57](https://github.com//NBISweden/EMBLmyGFF3/issues/57) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
-2. 🗣 Commented on [#24295](https://github.com//bioconda/bioconda-recipes/issues/24295) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-3. 🗣 Commented on [#122](https://github.com//oushujun/EDTA/issues/122) in [oushujun/EDTA](https://github.com//oushujun/EDTA)
-4. ❗️ Closed issue [#1](https://github.com//Juke34/SamReadViewer/issues/1) in [Juke34/SamReadViewer](https://github.com//Juke34/SamReadViewer)
-5. 🗣 Commented on [#1](https://github.com//Juke34/SamReadViewer/issues/1) in [Juke34/SamReadViewer](https://github.com//Juke34/SamReadViewer)
+1. ❗️ Opened issue [#28](https://github.com//djhn75/RNAEditor/issues/28) in [djhn75/RNAEditor](https://github.com//djhn75/RNAEditor)
+2. 🗣 Commented on [#57](https://github.com//NBISweden/EMBLmyGFF3/issues/57) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+3. 🗣 Commented on [#24295](https://github.com//bioconda/bioconda-recipes/issues/24295) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+4. 🗣 Commented on [#122](https://github.com//oushujun/EDTA/issues/122) in [oushujun/EDTA](https://github.com//oushujun/EDTA)
+5. ❗️ Closed issue [#1](https://github.com//Juke34/SamReadViewer/issues/1) in [Juke34/SamReadViewer](https://github.com//Juke34/SamReadViewer)
 <!--END_SECTION:activity-->
 
 </details>
