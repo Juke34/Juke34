@@ -63,11 +63,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#46](https://github.com//bgruening/conda_r_skeleton_helper/pull/46) in [bgruening/conda_r_skeleton_helper](https://github.com//bgruening/conda_r_skeleton_helper)
-2. ❗️ Opened issue [#45](https://github.com//bgruening/conda_r_skeleton_helper/issues/45) in [bgruening/conda_r_skeleton_helper](https://github.com//bgruening/conda_r_skeleton_helper)
-3. 🎉 Merged PR [#1](https://github.com//Juke34/RNAEditor/pull/1) in [Juke34/RNAEditor](https://github.com//Juke34/RNAEditor)
-4. 💪 Opened PR [#1](https://github.com//Juke34/RNAEditor/pull/1) in [Juke34/RNAEditor](https://github.com//Juke34/RNAEditor)
-5. ❗️ Opened issue [#29](https://github.com//djhn75/RNAEditor/issues/29) in [djhn75/RNAEditor](https://github.com//djhn75/RNAEditor)
+1. 💪 Opened PR [#13245](https://github.com//conda-forge/staged-recipes/pull/13245) in [conda-forge/staged-recipes](https://github.com//conda-forge/staged-recipes)
+2. 🗣 Commented on [#45](https://github.com//bgruening/conda_r_skeleton_helper/issues/45) in [bgruening/conda_r_skeleton_helper](https://github.com//bgruening/conda_r_skeleton_helper)
+3. 💪 Opened PR [#46](https://github.com//bgruening/conda_r_skeleton_helper/pull/46) in [bgruening/conda_r_skeleton_helper](https://github.com//bgruening/conda_r_skeleton_helper)
+4. ❗️ Opened issue [#45](https://github.com//bgruening/conda_r_skeleton_helper/issues/45) in [bgruening/conda_r_skeleton_helper](https://github.com//bgruening/conda_r_skeleton_helper)
+5. 🎉 Merged PR [#1](https://github.com//Juke34/RNAEditor/pull/1) in [Juke34/RNAEditor](https://github.com//Juke34/RNAEditor)
 <!--END_SECTION:activity-->
 
 </details>
