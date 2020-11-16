@@ -63,11 +63,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//Juke34/RNAEditor/pull/1) in [Juke34/RNAEditor](https://github.com//Juke34/RNAEditor)
-2. 💪 Opened PR [#1](https://github.com//Juke34/RNAEditor/pull/1) in [Juke34/RNAEditor](https://github.com//Juke34/RNAEditor)
-3. ❗️ Opened issue [#29](https://github.com//djhn75/RNAEditor/issues/29) in [djhn75/RNAEditor](https://github.com//djhn75/RNAEditor)
-4. ❗️ Opened issue [#28](https://github.com//djhn75/RNAEditor/issues/28) in [djhn75/RNAEditor](https://github.com//djhn75/RNAEditor)
-5. 🗣 Commented on [#57](https://github.com//NBISweden/EMBLmyGFF3/issues/57) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+1. ❗️ Opened issue [#45](https://github.com//bgruening/conda_r_skeleton_helper/issues/45) in [bgruening/conda_r_skeleton_helper](https://github.com//bgruening/conda_r_skeleton_helper)
+2. 🎉 Merged PR [#1](https://github.com//Juke34/RNAEditor/pull/1) in [Juke34/RNAEditor](https://github.com//Juke34/RNAEditor)
+3. 💪 Opened PR [#1](https://github.com//Juke34/RNAEditor/pull/1) in [Juke34/RNAEditor](https://github.com//Juke34/RNAEditor)
+4. ❗️ Opened issue [#29](https://github.com//djhn75/RNAEditor/issues/29) in [djhn75/RNAEditor](https://github.com//djhn75/RNAEditor)
+5. ❗️ Opened issue [#28](https://github.com//djhn75/RNAEditor/issues/28) in [djhn75/RNAEditor](https://github.com//djhn75/RNAEditor)
 <!--END_SECTION:activity-->
 
 </details>
