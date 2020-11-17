@@ -63,11 +63,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13250](https://github.com//conda-forge/staged-recipes/pull/13250) in [conda-forge/staged-recipes](https://github.com//conda-forge/staged-recipes)
-2. 💪 Opened PR [#13249](https://github.com//conda-forge/staged-recipes/pull/13249) in [conda-forge/staged-recipes](https://github.com//conda-forge/staged-recipes)
-3. ❌ Closed PR [#13245](https://github.com//conda-forge/staged-recipes/pull/13245) in [conda-forge/staged-recipes](https://github.com//conda-forge/staged-recipes)
-4. 💪 Opened PR [#13245](https://github.com//conda-forge/staged-recipes/pull/13245) in [conda-forge/staged-recipes](https://github.com//conda-forge/staged-recipes)
-5. 🗣 Commented on [#45](https://github.com//bgruening/conda_r_skeleton_helper/issues/45) in [bgruening/conda_r_skeleton_helper](https://github.com//bgruening/conda_r_skeleton_helper)
+1. 🗣 Commented on [#13249](https://github.com//conda-forge/staged-recipes/issues/13249) in [conda-forge/staged-recipes](https://github.com//conda-forge/staged-recipes)
+2. 💪 Opened PR [#13250](https://github.com//conda-forge/staged-recipes/pull/13250) in [conda-forge/staged-recipes](https://github.com//conda-forge/staged-recipes)
+3. 💪 Opened PR [#13249](https://github.com//conda-forge/staged-recipes/pull/13249) in [conda-forge/staged-recipes](https://github.com//conda-forge/staged-recipes)
+4. ❌ Closed PR [#13245](https://github.com//conda-forge/staged-recipes/pull/13245) in [conda-forge/staged-recipes](https://github.com//conda-forge/staged-recipes)
+5. 💪 Opened PR [#13245](https://github.com//conda-forge/staged-recipes/pull/13245) in [conda-forge/staged-recipes](https://github.com//conda-forge/staged-recipes)
 <!--END_SECTION:activity-->
 
 </details>
