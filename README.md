@@ -63,11 +63,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#86](https://github.com//NBISweden/AGAT/issues/86) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. ❗️ Closed issue [#57](https://github.com//NBISweden/EMBLmyGFF3/issues/57) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
 2. 🗣 Commented on [#86](https://github.com//NBISweden/AGAT/issues/86) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 💪 Opened PR [#13288](https://github.com//conda-forge/staged-recipes/pull/13288) in [conda-forge/staged-recipes](https://github.com//conda-forge/staged-recipes)
-4. 🗣 Commented on [#59](https://github.com//NBISweden/EMBLmyGFF3/issues/59) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
-5. 🗣 Commented on [#58](https://github.com//NBISweden/EMBLmyGFF3/issues/58) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+3. 🗣 Commented on [#86](https://github.com//NBISweden/AGAT/issues/86) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 💪 Opened PR [#13288](https://github.com//conda-forge/staged-recipes/pull/13288) in [conda-forge/staged-recipes](https://github.com//conda-forge/staged-recipes)
+5. 🗣 Commented on [#59](https://github.com//NBISweden/EMBLmyGFF3/issues/59) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
 <!--END_SECTION:activity-->
 
 </details>
