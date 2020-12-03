@@ -63,10 +63,10 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#121](https://github.com//oushujun/EDTA/issues/121) in [oushujun/EDTA](https://github.com//oushujun/EDTA)
+1. 💪 Opened PR [#14](https://github.com//soedinglab/metaeuk/pull/14) in [soedinglab/metaeuk](https://github.com//soedinglab/metaeuk)
 2. 🗣 Commented on [#121](https://github.com//oushujun/EDTA/issues/121) in [oushujun/EDTA](https://github.com//oushujun/EDTA)
-3. ❗️ Closed issue [#57](https://github.com//NBISweden/EMBLmyGFF3/issues/57) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
-4. 🗣 Commented on [#86](https://github.com//NBISweden/AGAT/issues/86) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🗣 Commented on [#121](https://github.com//oushujun/EDTA/issues/121) in [oushujun/EDTA](https://github.com//oushujun/EDTA)
+4. ❗️ Closed issue [#57](https://github.com//NBISweden/EMBLmyGFF3/issues/57) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
 5. 🗣 Commented on [#86](https://github.com//NBISweden/AGAT/issues/86) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
