@@ -64,10 +64,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#121](https://github.com//oushujun/EDTA/issues/121) in [oushujun/EDTA](https://github.com//oushujun/EDTA)
-2. ❗️ Closed issue [#57](https://github.com//NBISweden/EMBLmyGFF3/issues/57) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
-3. 🗣 Commented on [#86](https://github.com//NBISweden/AGAT/issues/86) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🗣 Commented on [#121](https://github.com//oushujun/EDTA/issues/121) in [oushujun/EDTA](https://github.com//oushujun/EDTA)
+3. ❗️ Closed issue [#57](https://github.com//NBISweden/EMBLmyGFF3/issues/57) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
 4. 🗣 Commented on [#86](https://github.com//NBISweden/AGAT/issues/86) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 💪 Opened PR [#13288](https://github.com//conda-forge/staged-recipes/pull/13288) in [conda-forge/staged-recipes](https://github.com//conda-forge/staged-recipes)
+5. 🗣 Commented on [#86](https://github.com//NBISweden/AGAT/issues/86) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
