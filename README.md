@@ -63,10 +63,10 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com//danrlu/Nextflow_cheatsheet/issues/2) in [danrlu/Nextflow_cheatsheet](https://github.com//danrlu/Nextflow_cheatsheet)
-2. ❗️ Opened issue [#2](https://github.com//danrlu/Nextflow_cheatsheet/issues/2) in [danrlu/Nextflow_cheatsheet](https://github.com//danrlu/Nextflow_cheatsheet)
-3. 💪 Opened PR [#14](https://github.com//soedinglab/metaeuk/pull/14) in [soedinglab/metaeuk](https://github.com//soedinglab/metaeuk)
-4. 🗣 Commented on [#121](https://github.com//oushujun/EDTA/issues/121) in [oushujun/EDTA](https://github.com//oushujun/EDTA)
+1. ❗️ Opened issue [#13](https://github.com//ekg/bamaddrg/issues/13) in [ekg/bamaddrg](https://github.com//ekg/bamaddrg)
+2. 🗣 Commented on [#2](https://github.com//danrlu/Nextflow_cheatsheet/issues/2) in [danrlu/Nextflow_cheatsheet](https://github.com//danrlu/Nextflow_cheatsheet)
+3. ❗️ Opened issue [#2](https://github.com//danrlu/Nextflow_cheatsheet/issues/2) in [danrlu/Nextflow_cheatsheet](https://github.com//danrlu/Nextflow_cheatsheet)
+4. 💪 Opened PR [#14](https://github.com//soedinglab/metaeuk/pull/14) in [soedinglab/metaeuk](https://github.com//soedinglab/metaeuk)
 5. 🗣 Commented on [#121](https://github.com//oushujun/EDTA/issues/121) in [oushujun/EDTA](https://github.com//oushujun/EDTA)
 <!--END_SECTION:activity-->
 
