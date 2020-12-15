@@ -63,11 +63,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#13](https://github.com//ekg/bamaddrg/issues/13) in [ekg/bamaddrg](https://github.com//ekg/bamaddrg)
-2. 🗣 Commented on [#13](https://github.com//ekg/bamaddrg/issues/13) in [ekg/bamaddrg](https://github.com//ekg/bamaddrg)
-3. ❗️ Opened issue [#13](https://github.com//ekg/bamaddrg/issues/13) in [ekg/bamaddrg](https://github.com//ekg/bamaddrg)
-4. 🗣 Commented on [#2](https://github.com//danrlu/Nextflow_cheatsheet/issues/2) in [danrlu/Nextflow_cheatsheet](https://github.com//danrlu/Nextflow_cheatsheet)
-5. ❗️ Opened issue [#2](https://github.com//danrlu/Nextflow_cheatsheet/issues/2) in [danrlu/Nextflow_cheatsheet](https://github.com//danrlu/Nextflow_cheatsheet)
+1. 💪 Opened PR [#25806](https://github.com//bioconda/bioconda-recipes/pull/25806) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+2. ❗️ Closed issue [#13](https://github.com//ekg/bamaddrg/issues/13) in [ekg/bamaddrg](https://github.com//ekg/bamaddrg)
+3. 🗣 Commented on [#13](https://github.com//ekg/bamaddrg/issues/13) in [ekg/bamaddrg](https://github.com//ekg/bamaddrg)
+4. ❗️ Opened issue [#13](https://github.com//ekg/bamaddrg/issues/13) in [ekg/bamaddrg](https://github.com//ekg/bamaddrg)
+5. 🗣 Commented on [#2](https://github.com//danrlu/Nextflow_cheatsheet/issues/2) in [danrlu/Nextflow_cheatsheet](https://github.com//danrlu/Nextflow_cheatsheet)
 <!--END_SECTION:activity-->
 
 </details>
