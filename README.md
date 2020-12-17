@@ -63,11 +63,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#502](https://github.com//tseemann/prokka/issues/502) in [tseemann/prokka](https://github.com//tseemann/prokka)
+1. 🗣 Commented on [#25806](https://github.com//bioconda/bioconda-recipes/issues/25806) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 2. 🗣 Commented on [#502](https://github.com//tseemann/prokka/issues/502) in [tseemann/prokka](https://github.com//tseemann/prokka)
-3. 💪 Opened PR [#25806](https://github.com//bioconda/bioconda-recipes/pull/25806) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-4. ❗️ Closed issue [#13](https://github.com//ekg/bamaddrg/issues/13) in [ekg/bamaddrg](https://github.com//ekg/bamaddrg)
-5. 🗣 Commented on [#13](https://github.com//ekg/bamaddrg/issues/13) in [ekg/bamaddrg](https://github.com//ekg/bamaddrg)
+3. 🗣 Commented on [#502](https://github.com//tseemann/prokka/issues/502) in [tseemann/prokka](https://github.com//tseemann/prokka)
+4. 💪 Opened PR [#25806](https://github.com//bioconda/bioconda-recipes/pull/25806) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+5. ❗️ Closed issue [#13](https://github.com//ekg/bamaddrg/issues/13) in [ekg/bamaddrg](https://github.com//ekg/bamaddrg)
 <!--END_SECTION:activity-->
 
 </details>
