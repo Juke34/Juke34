@@ -63,11 +63,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#60](https://github.com//NBISweden/EMBLmyGFF3/issues/60) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
-2. 🗣 Commented on [#25806](https://github.com//bioconda/bioconda-recipes/issues/25806) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-3. 🗣 Commented on [#502](https://github.com//tseemann/prokka/issues/502) in [tseemann/prokka](https://github.com//tseemann/prokka)
+1. 🗣 Commented on [#87](https://github.com//NBISweden/AGAT/issues/87) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🗣 Commented on [#60](https://github.com//NBISweden/EMBLmyGFF3/issues/60) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+3. 🗣 Commented on [#25806](https://github.com//bioconda/bioconda-recipes/issues/25806) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 4. 🗣 Commented on [#502](https://github.com//tseemann/prokka/issues/502) in [tseemann/prokka](https://github.com//tseemann/prokka)
-5. 💪 Opened PR [#25806](https://github.com//bioconda/bioconda-recipes/pull/25806) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+5. 🗣 Commented on [#502](https://github.com//tseemann/prokka/issues/502) in [tseemann/prokka](https://github.com//tseemann/prokka)
 <!--END_SECTION:activity-->
 
 </details>
