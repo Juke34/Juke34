@@ -65,9 +65,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#92](https://github.com//NBISweden/AGAT/issues/92) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 2. 🗣 Commented on [#92](https://github.com//NBISweden/AGAT/issues/92) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 💪 Opened PR [#26209](https://github.com//bioconda/bioconda-recipes/pull/26209) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-4. 🗣 Commented on [#91](https://github.com//NBISweden/AGAT/issues/91) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🗣 Commented on [#90](https://github.com//NBISweden/AGAT/issues/90) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🗣 Commented on [#92](https://github.com//NBISweden/AGAT/issues/92) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 💪 Opened PR [#26209](https://github.com//bioconda/bioconda-recipes/pull/26209) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+5. 🗣 Commented on [#91](https://github.com//NBISweden/AGAT/issues/91) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
