@@ -63,11 +63,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21601](https://github.com//bioconda/bioconda-recipes/issues/21601) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+1. 🗣 Commented on [#3](https://github.com//NBISweden/workshop-RNAseq/issues/3) in [NBISweden/workshop-RNAseq](https://github.com//NBISweden/workshop-RNAseq)
 2. 🗣 Commented on [#21601](https://github.com//bioconda/bioconda-recipes/issues/21601) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-3. ❗️ Opened issue [#3](https://github.com//NBISweden/workshop-RNAseq/issues/3) in [NBISweden/workshop-RNAseq](https://github.com//NBISweden/workshop-RNAseq)
-4. 🗣 Commented on [#50](https://github.com//NBISweden/pipelines-nextflow/issues/50) in [NBISweden/pipelines-nextflow](https://github.com//NBISweden/pipelines-nextflow)
-5. 🗣 Commented on [#21601](https://github.com//bioconda/bioconda-recipes/issues/21601) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+3. 🗣 Commented on [#21601](https://github.com//bioconda/bioconda-recipes/issues/21601) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+4. ❗️ Opened issue [#3](https://github.com//NBISweden/workshop-RNAseq/issues/3) in [NBISweden/workshop-RNAseq](https://github.com//NBISweden/workshop-RNAseq)
+5. 🗣 Commented on [#50](https://github.com//NBISweden/pipelines-nextflow/issues/50) in [NBISweden/pipelines-nextflow](https://github.com//NBISweden/pipelines-nextflow)
 <!--END_SECTION:activity-->
 
 </details>
