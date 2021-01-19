@@ -63,11 +63,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#94](https://github.com//NBISweden/AGAT/issues/94) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 🗣 Commented on [#89](https://github.com//NBISweden/AGAT/issues/89) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. ❗️ Opened issue [#95](https://github.com//NBISweden/AGAT/issues/95) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🗣 Commented on [#21601](https://github.com//bioconda/bioconda-recipes/issues/21601) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-5. 🗣 Commented on [#50](https://github.com//NBISweden/pipelines-nextflow/issues/50) in [NBISweden/pipelines-nextflow](https://github.com//NBISweden/pipelines-nextflow)
+1. 🗣 Commented on [#91](https://github.com//NBISweden/AGAT/issues/91) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🗣 Commented on [#94](https://github.com//NBISweden/AGAT/issues/94) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🗣 Commented on [#89](https://github.com//NBISweden/AGAT/issues/89) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. ❗️ Opened issue [#95](https://github.com//NBISweden/AGAT/issues/95) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🗣 Commented on [#21601](https://github.com//bioconda/bioconda-recipes/issues/21601) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 <!--END_SECTION:activity-->
 
 </details>
