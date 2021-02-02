@@ -63,11 +63,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#39](https://github.com//ExaScience/elprep/pull/39) in [ExaScience/elprep](https://github.com//ExaScience/elprep)
-2. 🗣 Commented on [#39](https://github.com//ExaScience/elprep/issues/39) in [ExaScience/elprep](https://github.com//ExaScience/elprep)
-3. ❗️ Opened issue [#40](https://github.com//ExaScience/elprep/issues/40) in [ExaScience/elprep](https://github.com//ExaScience/elprep)
-4. 💪 Opened PR [#39](https://github.com//ExaScience/elprep/pull/39) in [ExaScience/elprep](https://github.com//ExaScience/elprep)
-5. ❗️ Closed issue [#90](https://github.com//NBISweden/AGAT/issues/90) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. ❗️ Opened issue [#97](https://github.com//NBISweden/AGAT/issues/97) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. ❌ Closed PR [#39](https://github.com//ExaScience/elprep/pull/39) in [ExaScience/elprep](https://github.com//ExaScience/elprep)
+3. 🗣 Commented on [#39](https://github.com//ExaScience/elprep/issues/39) in [ExaScience/elprep](https://github.com//ExaScience/elprep)
+4. ❗️ Opened issue [#40](https://github.com//ExaScience/elprep/issues/40) in [ExaScience/elprep](https://github.com//ExaScience/elprep)
+5. 💪 Opened PR [#39](https://github.com//ExaScience/elprep/pull/39) in [ExaScience/elprep](https://github.com//ExaScience/elprep)
 <!--END_SECTION:activity-->
 
 </details>
