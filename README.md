@@ -63,11 +63,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#39](https://github.com//ExaScience/elprep/pull/39) in [ExaScience/elprep](https://github.com//ExaScience/elprep)
-2. ❗️ Closed issue [#90](https://github.com//NBISweden/AGAT/issues/90) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🗣 Commented on [#1](https://github.com//nextflow-io/hack17-varcall/issues/1) in [nextflow-io/hack17-varcall](https://github.com//nextflow-io/hack17-varcall)
-4. 🗣 Commented on [#12](https://github.com//conda-forge/r-magick-feedstock/issues/12) in [conda-forge/r-magick-feedstock](https://github.com//conda-forge/r-magick-feedstock)
-5. 🗣 Commented on [#25655](https://github.com//bioconda/bioconda-recipes/issues/25655) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+1. ❗️ Opened issue [#40](https://github.com//ExaScience/elprep/issues/40) in [ExaScience/elprep](https://github.com//ExaScience/elprep)
+2. 💪 Opened PR [#39](https://github.com//ExaScience/elprep/pull/39) in [ExaScience/elprep](https://github.com//ExaScience/elprep)
+3. ❗️ Closed issue [#90](https://github.com//NBISweden/AGAT/issues/90) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🗣 Commented on [#1](https://github.com//nextflow-io/hack17-varcall/issues/1) in [nextflow-io/hack17-varcall](https://github.com//nextflow-io/hack17-varcall)
+5. 🗣 Commented on [#12](https://github.com//conda-forge/r-magick-feedstock/issues/12) in [conda-forge/r-magick-feedstock](https://github.com//conda-forge/r-magick-feedstock)
 <!--END_SECTION:activity-->
 
 </details>
