@@ -63,11 +63,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#28](https://github.com//a2iEditing/RNAEditingIndexer/issues/28) in [a2iEditing/RNAEditingIndexer](https://github.com//a2iEditing/RNAEditingIndexer)
-2. ❗️ Closed issue [#40](https://github.com//ExaScience/elprep/issues/40) in [ExaScience/elprep](https://github.com//ExaScience/elprep)
-3. 🗣 Commented on [#40](https://github.com//ExaScience/elprep/issues/40) in [ExaScience/elprep](https://github.com//ExaScience/elprep)
-4. ❗️ Opened issue [#97](https://github.com//NBISweden/AGAT/issues/97) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. ❌ Closed PR [#39](https://github.com//ExaScience/elprep/pull/39) in [ExaScience/elprep](https://github.com//ExaScience/elprep)
+1. ❗️ Closed issue [#91](https://github.com//NBISweden/AGAT/issues/91) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. ❗️ Opened issue [#28](https://github.com//a2iEditing/RNAEditingIndexer/issues/28) in [a2iEditing/RNAEditingIndexer](https://github.com//a2iEditing/RNAEditingIndexer)
+3. ❗️ Closed issue [#40](https://github.com//ExaScience/elprep/issues/40) in [ExaScience/elprep](https://github.com//ExaScience/elprep)
+4. 🗣 Commented on [#40](https://github.com//ExaScience/elprep/issues/40) in [ExaScience/elprep](https://github.com//ExaScience/elprep)
+5. ❗️ Opened issue [#97](https://github.com//NBISweden/AGAT/issues/97) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
