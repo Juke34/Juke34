@@ -63,11 +63,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com//icruz1989/Datura-stramonium-genome-project/pull/1) in [icruz1989/Datura-stramonium-genome-project](https://github.com//icruz1989/Datura-stramonium-genome-project)
-2. 💪 Opened PR [#98](https://github.com//NBISweden/AGAT/pull/98) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🗣 Commented on [#41](https://github.com//ExaScience/elprep/issues/41) in [ExaScience/elprep](https://github.com//ExaScience/elprep)
-4. ❗️ Opened issue [#41](https://github.com//ExaScience/elprep/issues/41) in [ExaScience/elprep](https://github.com//ExaScience/elprep)
-5. ❗️ Closed issue [#91](https://github.com//NBISweden/AGAT/issues/91) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#20](https://github.com//a2iEditing/RNAEditingIndexer/issues/20) in [a2iEditing/RNAEditingIndexer](https://github.com//a2iEditing/RNAEditingIndexer)
+2. 💪 Opened PR [#1](https://github.com//icruz1989/Datura-stramonium-genome-project/pull/1) in [icruz1989/Datura-stramonium-genome-project](https://github.com//icruz1989/Datura-stramonium-genome-project)
+3. 💪 Opened PR [#98](https://github.com//NBISweden/AGAT/pull/98) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🗣 Commented on [#41](https://github.com//ExaScience/elprep/issues/41) in [ExaScience/elprep](https://github.com//ExaScience/elprep)
+5. ❗️ Opened issue [#41](https://github.com//ExaScience/elprep/issues/41) in [ExaScience/elprep](https://github.com//ExaScience/elprep)
 <!--END_SECTION:activity-->
 
 </details>
