@@ -63,11 +63,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#99](https://github.com//NBISweden/AGAT/issues/99) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 🗣 Commented on [#53](https://github.com//NBISweden/EMBLmyGFF3/issues/53) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
-3. 🗣 Commented on [#99](https://github.com//NBISweden/AGAT/issues/99) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🗣 Commented on [#20](https://github.com//a2iEditing/RNAEditingIndexer/issues/20) in [a2iEditing/RNAEditingIndexer](https://github.com//a2iEditing/RNAEditingIndexer)
-5. 💪 Opened PR [#1](https://github.com//icruz1989/Datura-stramonium-genome-project/pull/1) in [icruz1989/Datura-stramonium-genome-project](https://github.com//icruz1989/Datura-stramonium-genome-project)
+1. 🗣 Commented on [#100](https://github.com//NBISweden/AGAT/issues/100) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🗣 Commented on [#99](https://github.com//NBISweden/AGAT/issues/99) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🗣 Commented on [#53](https://github.com//NBISweden/EMBLmyGFF3/issues/53) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+4. 🗣 Commented on [#99](https://github.com//NBISweden/AGAT/issues/99) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🗣 Commented on [#20](https://github.com//a2iEditing/RNAEditingIndexer/issues/20) in [a2iEditing/RNAEditingIndexer](https://github.com//a2iEditing/RNAEditingIndexer)
 <!--END_SECTION:activity-->
 
 </details>
