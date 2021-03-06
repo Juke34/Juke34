@@ -63,11 +63,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#101](https://github.com//NBISweden/AGAT/issues/101) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. ❗️ Closed issue [#101](https://github.com//NBISweden/AGAT/issues/101) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 2. 🗣 Commented on [#101](https://github.com//NBISweden/AGAT/issues/101) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 3. 🗣 Commented on [#101](https://github.com//NBISweden/AGAT/issues/101) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🎉 Merged PR [#61](https://github.com//NBISweden/EMBLmyGFF3/pull/61) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
-5. ❗️ Closed issue [#53](https://github.com//NBISweden/EMBLmyGFF3/issues/53) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+4. 🗣 Commented on [#101](https://github.com//NBISweden/AGAT/issues/101) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🎉 Merged PR [#61](https://github.com//NBISweden/EMBLmyGFF3/pull/61) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
 <!--END_SECTION:activity-->
 
 </details>
