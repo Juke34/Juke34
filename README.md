@@ -63,11 +63,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com//outbreak-info/outbreak.api/issues/7) in [outbreak-info/outbreak.api](https://github.com//outbreak-info/outbreak.api)
-2. 🗣 Commented on [#102](https://github.com//NBISweden/AGAT/issues/102) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#7](https://github.com//outbreak-info/outbreak.api/issues/7) in [outbreak-info/outbreak.api](https://github.com//outbreak-info/outbreak.api)
+2. ❗️ Opened issue [#7](https://github.com//outbreak-info/outbreak.api/issues/7) in [outbreak-info/outbreak.api](https://github.com//outbreak-info/outbreak.api)
 3. 🗣 Commented on [#102](https://github.com//NBISweden/AGAT/issues/102) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. ❗️ Closed issue [#101](https://github.com//NBISweden/AGAT/issues/101) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🗣 Commented on [#101](https://github.com//NBISweden/AGAT/issues/101) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🗣 Commented on [#102](https://github.com//NBISweden/AGAT/issues/102) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. ❗️ Closed issue [#101](https://github.com//NBISweden/AGAT/issues/101) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
