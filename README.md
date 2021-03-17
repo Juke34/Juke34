@@ -63,11 +63,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#105](https://github.com//NBISweden/AGAT/pull/105) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 🗣 Commented on [#104](https://github.com//NBISweden/AGAT/issues/104) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🗣 Commented on [#102](https://github.com//NBISweden/AGAT/issues/102) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🗣 Commented on [#102](https://github.com//NBISweden/AGAT/issues/102) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🗣 Commented on [#7](https://github.com//outbreak-info/outbreak.api/issues/7) in [outbreak-info/outbreak.api](https://github.com//outbreak-info/outbreak.api)
+1. ❗️ Closed issue [#104](https://github.com//NBISweden/AGAT/issues/104) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🎉 Merged PR [#105](https://github.com//NBISweden/AGAT/pull/105) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🗣 Commented on [#103](https://github.com//NBISweden/AGAT/issues/103) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 💪 Opened PR [#105](https://github.com//NBISweden/AGAT/pull/105) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🗣 Commented on [#104](https://github.com//NBISweden/AGAT/issues/104) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
