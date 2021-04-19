@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#354](https://github.com//Gaius-Augustus/BRAKER/issues/354) in [Gaius-Augustus/BRAKER](https://github.com//Gaius-Augustus/BRAKER)
-2. 🎉 Merged PR [#114](https://github.com//NBISweden/AGAT/pull/114) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 💪 Opened PR [#114](https://github.com//NBISweden/AGAT/pull/114) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🗣 Commented on [#28067](https://github.com//bioconda/bioconda-recipes/issues/28067) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-5. 💪 Opened PR [#28067](https://github.com//bioconda/bioconda-recipes/pull/28067) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+1. 🗣 Commented on [#21601](https://github.com//bioconda/bioconda-recipes/issues/21601) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+2. 🗣 Commented on [#354](https://github.com//Gaius-Augustus/BRAKER/issues/354) in [Gaius-Augustus/BRAKER](https://github.com//Gaius-Augustus/BRAKER)
+3. 🎉 Merged PR [#114](https://github.com//NBISweden/AGAT/pull/114) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 💪 Opened PR [#114](https://github.com//NBISweden/AGAT/pull/114) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🗣 Commented on [#28067](https://github.com//bioconda/bioconda-recipes/issues/28067) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 <!--END_SECTION:activity-->
 
 </details>
