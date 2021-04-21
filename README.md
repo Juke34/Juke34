@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#354](https://github.com//Gaius-Augustus/BRAKER/issues/354) in [Gaius-Augustus/BRAKER](https://github.com//Gaius-Augustus/BRAKER)
+1. ❗️ Opened issue [#30](https://github.com//a2iEditing/RNAEditingIndexer/issues/30) in [a2iEditing/RNAEditingIndexer](https://github.com//a2iEditing/RNAEditingIndexer)
 2. 🗣 Commented on [#354](https://github.com//Gaius-Augustus/BRAKER/issues/354) in [Gaius-Augustus/BRAKER](https://github.com//Gaius-Augustus/BRAKER)
 3. 🗣 Commented on [#354](https://github.com//Gaius-Augustus/BRAKER/issues/354) in [Gaius-Augustus/BRAKER](https://github.com//Gaius-Augustus/BRAKER)
 4. 🗣 Commented on [#354](https://github.com//Gaius-Augustus/BRAKER/issues/354) in [Gaius-Augustus/BRAKER](https://github.com//Gaius-Augustus/BRAKER)
-5. 🗣 Commented on [#21601](https://github.com//bioconda/bioconda-recipes/issues/21601) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+5. 🗣 Commented on [#354](https://github.com//Gaius-Augustus/BRAKER/issues/354) in [Gaius-Augustus/BRAKER](https://github.com//Gaius-Augustus/BRAKER)
 <!--END_SECTION:activity-->
 
 </details>
