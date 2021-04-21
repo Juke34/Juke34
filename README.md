@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#115](https://github.com//NBISweden/AGAT/pull/115) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. ❗️ Closed issue [#109](https://github.com//NBISweden/AGAT/issues/109) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. ❗️ Closed issue [#102](https://github.com//NBISweden/AGAT/issues/102) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. ❗️ Opened issue [#30](https://github.com//a2iEditing/RNAEditingIndexer/issues/30) in [a2iEditing/RNAEditingIndexer](https://github.com//a2iEditing/RNAEditingIndexer)
-5. 🗣 Commented on [#354](https://github.com//Gaius-Augustus/BRAKER/issues/354) in [Gaius-Augustus/BRAKER](https://github.com//Gaius-Augustus/BRAKER)
+1. 🎉 Merged PR [#115](https://github.com//NBISweden/AGAT/pull/115) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 💪 Opened PR [#115](https://github.com//NBISweden/AGAT/pull/115) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. ❗️ Closed issue [#109](https://github.com//NBISweden/AGAT/issues/109) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. ❗️ Closed issue [#102](https://github.com//NBISweden/AGAT/issues/102) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. ❗️ Opened issue [#30](https://github.com//a2iEditing/RNAEditingIndexer/issues/30) in [a2iEditing/RNAEditingIndexer](https://github.com//a2iEditing/RNAEditingIndexer)
 <!--END_SECTION:activity-->
 
 </details>
