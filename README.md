@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#115](https://github.com//NBISweden/AGAT/pull/115) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 💪 Opened PR [#115](https://github.com//NBISweden/AGAT/pull/115) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. ❗️ Closed issue [#109](https://github.com//NBISweden/AGAT/issues/109) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. ❗️ Closed issue [#102](https://github.com//NBISweden/AGAT/issues/102) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. ❗️ Opened issue [#30](https://github.com//a2iEditing/RNAEditingIndexer/issues/30) in [a2iEditing/RNAEditingIndexer](https://github.com//a2iEditing/RNAEditingIndexer)
+1. 🗣 Commented on [#25](https://github.com//zhangrengang/TEsorter/issues/25) in [zhangrengang/TEsorter](https://github.com//zhangrengang/TEsorter)
+2. 🎉 Merged PR [#115](https://github.com//NBISweden/AGAT/pull/115) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 💪 Opened PR [#115](https://github.com//NBISweden/AGAT/pull/115) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. ❗️ Closed issue [#109](https://github.com//NBISweden/AGAT/issues/109) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. ❗️ Closed issue [#102](https://github.com//NBISweden/AGAT/issues/102) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
