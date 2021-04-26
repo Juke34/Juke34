@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#117](https://github.com//NBISweden/AGAT/issues/117) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 🎉 Merged PR [#121](https://github.com//NBISweden/AGAT/pull/121) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 💪 Opened PR [#121](https://github.com//NBISweden/AGAT/pull/121) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🎉 Merged PR [#120](https://github.com//NBISweden/AGAT/pull/120) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. ❗️ Closed issue [#119](https://github.com//NBISweden/AGAT/issues/119) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#73](https://github.com//UCLOrengoGroup/cath-tools/issues/73) in [UCLOrengoGroup/cath-tools](https://github.com//UCLOrengoGroup/cath-tools)
+2. ❗️ Closed issue [#117](https://github.com//NBISweden/AGAT/issues/117) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🎉 Merged PR [#121](https://github.com//NBISweden/AGAT/pull/121) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 💪 Opened PR [#121](https://github.com//NBISweden/AGAT/pull/121) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🎉 Merged PR [#120](https://github.com//NBISweden/AGAT/pull/120) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
