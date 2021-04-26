@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46](https://github.com//NBISweden/GAAS/issues/46) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
-2. 🗣 Commented on [#47](https://github.com//NBISweden/GAAS/issues/47) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
-3. ❗️ Opened issue [#122](https://github.com//NBISweden/AGAT/issues/122) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🗣 Commented on [#73](https://github.com//UCLOrengoGroup/cath-tools/issues/73) in [UCLOrengoGroup/cath-tools](https://github.com//UCLOrengoGroup/cath-tools)
-5. ❗️ Closed issue [#117](https://github.com//NBISweden/AGAT/issues/117) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 💪 Opened PR [#123](https://github.com//NBISweden/AGAT/pull/123) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🗣 Commented on [#46](https://github.com//NBISweden/GAAS/issues/46) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
+3. 🗣 Commented on [#47](https://github.com//NBISweden/GAAS/issues/47) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
+4. ❗️ Opened issue [#122](https://github.com//NBISweden/AGAT/issues/122) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🗣 Commented on [#73](https://github.com//UCLOrengoGroup/cath-tools/issues/73) in [UCLOrengoGroup/cath-tools](https://github.com//UCLOrengoGroup/cath-tools)
 <!--END_SECTION:activity-->
 
 </details>
