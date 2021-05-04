@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com//NBISweden/GUESSmyLT/issues/17) in [NBISweden/GUESSmyLT](https://github.com//NBISweden/GUESSmyLT)
-2. 🎉 Merged PR [#28313](https://github.com//bioconda/bioconda-recipes/pull/28313) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-3. 🎉 Merged PR [#125](https://github.com//NBISweden/AGAT/pull/125) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 💪 Opened PR [#125](https://github.com//NBISweden/AGAT/pull/125) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🎉 Merged PR [#124](https://github.com//NBISweden/AGAT/pull/124) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#126](https://github.com//NBISweden/AGAT/issues/126) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🗣 Commented on [#17](https://github.com//NBISweden/GUESSmyLT/issues/17) in [NBISweden/GUESSmyLT](https://github.com//NBISweden/GUESSmyLT)
+3. 🎉 Merged PR [#28313](https://github.com//bioconda/bioconda-recipes/pull/28313) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+4. 🎉 Merged PR [#125](https://github.com//NBISweden/AGAT/pull/125) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 💪 Opened PR [#125](https://github.com//NBISweden/AGAT/pull/125) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
