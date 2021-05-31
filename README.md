@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#135](https://github.com//NBISweden/AGAT/issues/135) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. ❗️ Opened issue [#6](https://github.com//Amine-Namouchi/snpToolkit/issues/6) in [Amine-Namouchi/snpToolkit](https://github.com//Amine-Namouchi/snpToolkit)
-3. 🗣 Commented on [#57](https://github.com//NBISweden/pipelines-nextflow/issues/57) in [NBISweden/pipelines-nextflow](https://github.com//NBISweden/pipelines-nextflow)
-4. 🗣 Commented on [#57](https://github.com//NBISweden/pipelines-nextflow/issues/57) in [NBISweden/pipelines-nextflow](https://github.com//NBISweden/pipelines-nextflow)
-5. ❗️ Closed issue [#132](https://github.com//NBISweden/AGAT/issues/132) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🎉 Merged PR [#136](https://github.com//NBISweden/AGAT/pull/136) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 💪 Opened PR [#137](https://github.com//NBISweden/AGAT/pull/137) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 💪 Opened PR [#136](https://github.com//NBISweden/AGAT/pull/136) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🗣 Commented on [#135](https://github.com//NBISweden/AGAT/issues/135) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. ❗️ Opened issue [#6](https://github.com//Amine-Namouchi/snpToolkit/issues/6) in [Amine-Namouchi/snpToolkit](https://github.com//Amine-Namouchi/snpToolkit)
 <!--END_SECTION:activity-->
 
 </details>
