@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#135](https://github.com//NBISweden/AGAT/issues/135) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 💪 Opened PR [#78](https://github.com//danielecook/Awesome-Bioinformatics/pull/78) in [danielecook/Awesome-Bioinformatics](https://github.com//danielecook/Awesome-Bioinformatics)
 2. 🗣 Commented on [#135](https://github.com//NBISweden/AGAT/issues/135) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 3. 🗣 Commented on [#135](https://github.com//NBISweden/AGAT/issues/135) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 4. 🗣 Commented on [#135](https://github.com//NBISweden/AGAT/issues/135) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🎉 Merged PR [#137](https://github.com//NBISweden/AGAT/pull/137) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🗣 Commented on [#135](https://github.com//NBISweden/AGAT/issues/135) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
