@@ -65,10 +65,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#143](https://github.com//NBISweden/AGAT/issues/143) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 💪 Opened PR [#141](https://github.com//NBISweden/AGAT/pull/141) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🗣 Commented on [#29043](https://github.com//bioconda/bioconda-recipes/issues/29043) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-4. 💪 Opened PR [#29043](https://github.com//bioconda/bioconda-recipes/pull/29043) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-5. ❗️ Opened issue [#38](https://github.com//BioInfoTools/BBMap/issues/38) in [BioInfoTools/BBMap](https://github.com//BioInfoTools/BBMap)
+2. 🗣 Commented on [#143](https://github.com//NBISweden/AGAT/issues/143) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 💪 Opened PR [#141](https://github.com//NBISweden/AGAT/pull/141) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🗣 Commented on [#29043](https://github.com//bioconda/bioconda-recipes/issues/29043) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+5. 💪 Opened PR [#29043](https://github.com//bioconda/bioconda-recipes/pull/29043) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 <!--END_SECTION:activity-->
 
 </details>
