@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#65](https://github.com//NBISweden/EMBLmyGFF3/issues/65) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
-2. 🗣 Commented on [#149](https://github.com//NBISweden/AGAT/issues/149) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🗣 Commented on [#148](https://github.com//NBISweden/AGAT/issues/148) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🗣 Commented on [#147](https://github.com//NBISweden/AGAT/issues/147) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🗣 Commented on [#147](https://github.com//NBISweden/AGAT/issues/147) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. ❗️ Closed issue [#65](https://github.com//NBISweden/EMBLmyGFF3/issues/65) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+2. 🗣 Commented on [#65](https://github.com//NBISweden/EMBLmyGFF3/issues/65) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+3. 💪 Opened PR [#5](https://github.com//pbasting/RATT-with-GFF/pull/5) in [pbasting/RATT-with-GFF](https://github.com//pbasting/RATT-with-GFF)
+4. 🗣 Commented on [#65](https://github.com//NBISweden/EMBLmyGFF3/issues/65) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+5. 🗣 Commented on [#149](https://github.com//NBISweden/AGAT/issues/149) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
