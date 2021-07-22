@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#224](https://github.com//seq-lang/seq/issues/224) in [seq-lang/seq](https://github.com//seq-lang/seq)
-2. 💪 Opened PR [#29660](https://github.com//bioconda/bioconda-recipes/pull/29660) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-3. ❗️ Reopened issue [#150](https://github.com//NBISweden/AGAT/issues/150) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🗣 Commented on [#150](https://github.com//NBISweden/AGAT/issues/150) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. ❗️ Closed issue [#150](https://github.com//NBISweden/AGAT/issues/150) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 💪 Opened PR [#153](https://github.com//pditommaso/awesome-pipeline/pull/153) in [pditommaso/awesome-pipeline](https://github.com//pditommaso/awesome-pipeline)
+2. ❗️ Opened issue [#224](https://github.com//seq-lang/seq/issues/224) in [seq-lang/seq](https://github.com//seq-lang/seq)
+3. 💪 Opened PR [#29660](https://github.com//bioconda/bioconda-recipes/pull/29660) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+4. ❗️ Reopened issue [#150](https://github.com//NBISweden/AGAT/issues/150) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🗣 Commented on [#150](https://github.com//NBISweden/AGAT/issues/150) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
