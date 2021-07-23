@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29712](https://github.com//bioconda/bioconda-recipes/pull/29712) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-2. 💪 Opened PR [#153](https://github.com//pditommaso/awesome-pipeline/pull/153) in [pditommaso/awesome-pipeline](https://github.com//pditommaso/awesome-pipeline)
-3. ❗️ Opened issue [#224](https://github.com//seq-lang/seq/issues/224) in [seq-lang/seq](https://github.com//seq-lang/seq)
-4. 💪 Opened PR [#29660](https://github.com//bioconda/bioconda-recipes/pull/29660) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-5. ❗️ Reopened issue [#150](https://github.com//NBISweden/AGAT/issues/150) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#22802](https://github.com//bioconda/bioconda-recipes/issues/22802) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+2. 💪 Opened PR [#29712](https://github.com//bioconda/bioconda-recipes/pull/29712) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+3. 💪 Opened PR [#153](https://github.com//pditommaso/awesome-pipeline/pull/153) in [pditommaso/awesome-pipeline](https://github.com//pditommaso/awesome-pipeline)
+4. ❗️ Opened issue [#224](https://github.com//seq-lang/seq/issues/224) in [seq-lang/seq](https://github.com//seq-lang/seq)
+5. 💪 Opened PR [#29660](https://github.com//bioconda/bioconda-recipes/pull/29660) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 <!--END_SECTION:activity-->
 
 </details>
