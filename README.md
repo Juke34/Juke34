@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#216](https://github.com//ebi-pf-team/interproscan/issues/216) in [ebi-pf-team/interproscan](https://github.com//ebi-pf-team/interproscan)
-2. 🗣 Commented on [#22802](https://github.com//bioconda/bioconda-recipes/issues/22802) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-3. 💪 Opened PR [#29712](https://github.com//bioconda/bioconda-recipes/pull/29712) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-4. 💪 Opened PR [#153](https://github.com//pditommaso/awesome-pipeline/pull/153) in [pditommaso/awesome-pipeline](https://github.com//pditommaso/awesome-pipeline)
-5. ❗️ Opened issue [#224](https://github.com//seq-lang/seq/issues/224) in [seq-lang/seq](https://github.com//seq-lang/seq)
+1. 🗣 Commented on [#151](https://github.com//NBISweden/AGAT/issues/151) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. ❗️ Opened issue [#216](https://github.com//ebi-pf-team/interproscan/issues/216) in [ebi-pf-team/interproscan](https://github.com//ebi-pf-team/interproscan)
+3. 🗣 Commented on [#22802](https://github.com//bioconda/bioconda-recipes/issues/22802) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+4. 💪 Opened PR [#29712](https://github.com//bioconda/bioconda-recipes/pull/29712) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+5. 💪 Opened PR [#153](https://github.com//pditommaso/awesome-pipeline/pull/153) in [pditommaso/awesome-pipeline](https://github.com//pditommaso/awesome-pipeline)
 <!--END_SECTION:activity-->
 
 </details>
