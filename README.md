@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#151](https://github.com//NBISweden/AGAT/issues/151) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 💪 Opened PR [#152](https://github.com//NBISweden/AGAT/pull/152) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 2. 🗣 Commented on [#151](https://github.com//NBISweden/AGAT/issues/151) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. ❗️ Opened issue [#216](https://github.com//ebi-pf-team/interproscan/issues/216) in [ebi-pf-team/interproscan](https://github.com//ebi-pf-team/interproscan)
-4. 🗣 Commented on [#22802](https://github.com//bioconda/bioconda-recipes/issues/22802) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-5. 💪 Opened PR [#29712](https://github.com//bioconda/bioconda-recipes/pull/29712) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+3. 🗣 Commented on [#151](https://github.com//NBISweden/AGAT/issues/151) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. ❗️ Opened issue [#216](https://github.com//ebi-pf-team/interproscan/issues/216) in [ebi-pf-team/interproscan](https://github.com//ebi-pf-team/interproscan)
+5. 🗣 Commented on [#22802](https://github.com//bioconda/bioconda-recipes/issues/22802) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 <!--END_SECTION:activity-->
 
 </details>
