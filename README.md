@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#154](https://github.com//NBISweden/AGAT/issues/154) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 🗣 Commented on [#64](https://github.com//NBISweden/pipelines-nextflow/issues/64) in [NBISweden/pipelines-nextflow](https://github.com//NBISweden/pipelines-nextflow)
+1. 🗣 Commented on [#156](https://github.com//NBISweden/AGAT/issues/156) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🗣 Commented on [#154](https://github.com//NBISweden/AGAT/issues/154) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 3. 🗣 Commented on [#64](https://github.com//NBISweden/pipelines-nextflow/issues/64) in [NBISweden/pipelines-nextflow](https://github.com//NBISweden/pipelines-nextflow)
 4. 🗣 Commented on [#64](https://github.com//NBISweden/pipelines-nextflow/issues/64) in [NBISweden/pipelines-nextflow](https://github.com//NBISweden/pipelines-nextflow)
-5. ❗️ Reopened issue [#157](https://github.com//NBISweden/AGAT/issues/157) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🗣 Commented on [#64](https://github.com//NBISweden/pipelines-nextflow/issues/64) in [NBISweden/pipelines-nextflow](https://github.com//NBISweden/pipelines-nextflow)
 <!--END_SECTION:activity-->
 
 </details>
