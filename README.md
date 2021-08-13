@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com//NBISweden/GUESSmyLT/issues/18) in [NBISweden/GUESSmyLT](https://github.com//NBISweden/GUESSmyLT)
-2. 🗣 Commented on [#158](https://github.com//NBISweden/AGAT/issues/158) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🗣 Commented on [#161](https://github.com//NBISweden/AGAT/issues/161) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🎉 Merged PR [#160](https://github.com//NBISweden/AGAT/pull/160) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 💪 Opened PR [#160](https://github.com//NBISweden/AGAT/pull/160) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#161](https://github.com//NBISweden/AGAT/issues/161) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🗣 Commented on [#161](https://github.com//NBISweden/AGAT/issues/161) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🗣 Commented on [#18](https://github.com//NBISweden/GUESSmyLT/issues/18) in [NBISweden/GUESSmyLT](https://github.com//NBISweden/GUESSmyLT)
+4. 🗣 Commented on [#158](https://github.com//NBISweden/AGAT/issues/158) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🗣 Commented on [#161](https://github.com//NBISweden/AGAT/issues/161) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
