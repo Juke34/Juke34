@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#158](https://github.com//NBISweden/AGAT/issues/158) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. ❗️ Opened issue [#162](https://github.com//NBISweden/AGAT/issues/162) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🗣 Commented on [#9988](https://github.com//bioconda/bioconda-recipes/issues/9988) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-4. 🗣 Commented on [#158](https://github.com//NBISweden/AGAT/issues/158) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🗣 Commented on [#18](https://github.com//NBISweden/GUESSmyLT/issues/18) in [NBISweden/GUESSmyLT](https://github.com//NBISweden/GUESSmyLT)
+1. 🗣 Commented on [#66](https://github.com//NBISweden/EMBLmyGFF3/issues/66) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+2. 🗣 Commented on [#158](https://github.com//NBISweden/AGAT/issues/158) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. ❗️ Opened issue [#162](https://github.com//NBISweden/AGAT/issues/162) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🗣 Commented on [#9988](https://github.com//bioconda/bioconda-recipes/issues/9988) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+5. 🗣 Commented on [#158](https://github.com//NBISweden/AGAT/issues/158) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
