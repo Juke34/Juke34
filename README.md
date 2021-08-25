@@ -16,10 +16,10 @@
 ### :octocat: Personal
 
 - 🚀 I’m currently:
-  - 🚼 taking care of my children, I'm in parental leave until November
-  - 🔭 developing DisCO - A fast tool to quantify the single indel errors in assemblies
+  - working on RNA editing
+  - developing Nextflow pipelines
 - 🗨️ Ask me anything about:
-  - Bioinformatics, Annotation, Assembly, GFF/GTF file format, tools in which I participated in the development
+  - Bioinformatics, Annotation, Assembly, GFF/GTF file formats, AGAT, EMBLmyGFF3, GUESSmyLT
 - ✨ Fun fact: I like picking mushrooms and DIY
 
 ---
