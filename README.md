@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#165](https://github.com//NBISweden/AGAT/issues/165) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 🎉 Merged PR [#164](https://github.com//NBISweden/AGAT/pull/164) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. ❗️ Closed issue [#68](https://github.com//NBISweden/EMBLmyGFF3/issues/68) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
-4. 💪 Opened PR [#164](https://github.com//NBISweden/AGAT/pull/164) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🗣 Commented on [#68](https://github.com//NBISweden/EMBLmyGFF3/issues/68) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+1. 🗣 Commented on [#166](https://github.com//NBISweden/AGAT/issues/166) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🗣 Commented on [#162](https://github.com//NBISweden/AGAT/issues/162) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🗣 Commented on [#165](https://github.com//NBISweden/AGAT/issues/165) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🎉 Merged PR [#164](https://github.com//NBISweden/AGAT/pull/164) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. ❗️ Closed issue [#68](https://github.com//NBISweden/EMBLmyGFF3/issues/68) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
 <!--END_SECTION:activity-->
 
 </details>
