@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30353](https://github.com//bioconda/bioconda-recipes/issues/30353) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-2. 💪 Opened PR [#30353](https://github.com//bioconda/bioconda-recipes/pull/30353) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-3. 💪 Opened PR [#5](https://github.com//univieCUBE/gepard/pull/5) in [univieCUBE/gepard](https://github.com//univieCUBE/gepard)
-4. 🗣 Commented on [#11](https://github.com//BeeBiome-consortium/beebiome-data-portal/issues/11) in [BeeBiome-consortium/beebiome-data-portal](https://github.com//BeeBiome-consortium/beebiome-data-portal)
-5. 💪 Opened PR [#14](https://github.com//BeeBiome-consortium/beebiome-data-portal/pull/14) in [BeeBiome-consortium/beebiome-data-portal](https://github.com//BeeBiome-consortium/beebiome-data-portal)
+1. 🗣 Commented on [#12](https://github.com//ekg/bamaddrg/issues/12) in [ekg/bamaddrg](https://github.com//ekg/bamaddrg)
+2. 🗣 Commented on [#30353](https://github.com//bioconda/bioconda-recipes/issues/30353) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+3. 💪 Opened PR [#30353](https://github.com//bioconda/bioconda-recipes/pull/30353) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+4. 💪 Opened PR [#5](https://github.com//univieCUBE/gepard/pull/5) in [univieCUBE/gepard](https://github.com//univieCUBE/gepard)
+5. 🗣 Commented on [#11](https://github.com//BeeBiome-consortium/beebiome-data-portal/issues/11) in [BeeBiome-consortium/beebiome-data-portal](https://github.com//BeeBiome-consortium/beebiome-data-portal)
 <!--END_SECTION:activity-->
 
 </details>
