@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#66](https://github.com//NBISweden/pipelines-nextflow/issues/66) in [NBISweden/pipelines-nextflow](https://github.com//NBISweden/pipelines-nextflow)
-2. 🗣 Commented on [#78](https://github.com//agshumate/Liftoff/issues/78) in [agshumate/Liftoff](https://github.com//agshumate/Liftoff)
-3. 💪 Opened PR [#2](https://github.com//guigolab/FA-nf/pull/2) in [guigolab/FA-nf](https://github.com//guigolab/FA-nf)
-4. 🗣 Commented on [#12](https://github.com//ekg/bamaddrg/issues/12) in [ekg/bamaddrg](https://github.com//ekg/bamaddrg)
-5. 🗣 Commented on [#30353](https://github.com//bioconda/bioconda-recipes/issues/30353) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+1. 🗣 Commented on [#66](https://github.com//NBISweden/pipelines-nextflow/issues/66) in [NBISweden/pipelines-nextflow](https://github.com//NBISweden/pipelines-nextflow)
+2. ❗️ Opened issue [#66](https://github.com//NBISweden/pipelines-nextflow/issues/66) in [NBISweden/pipelines-nextflow](https://github.com//NBISweden/pipelines-nextflow)
+3. 🗣 Commented on [#78](https://github.com//agshumate/Liftoff/issues/78) in [agshumate/Liftoff](https://github.com//agshumate/Liftoff)
+4. 💪 Opened PR [#2](https://github.com//guigolab/FA-nf/pull/2) in [guigolab/FA-nf](https://github.com//guigolab/FA-nf)
+5. 🗣 Commented on [#12](https://github.com//ekg/bamaddrg/issues/12) in [ekg/bamaddrg](https://github.com//ekg/bamaddrg)
 <!--END_SECTION:activity-->
 
 </details>
