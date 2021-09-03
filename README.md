@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com//BeeBiome-consortium/beebiome-data-portal/issues/11) in [BeeBiome-consortium/beebiome-data-portal](https://github.com//BeeBiome-consortium/beebiome-data-portal)
-2. 🗣 Commented on [#66](https://github.com//NBISweden/pipelines-nextflow/issues/66) in [NBISweden/pipelines-nextflow](https://github.com//NBISweden/pipelines-nextflow)
-3. ❗️ Opened issue [#66](https://github.com//NBISweden/pipelines-nextflow/issues/66) in [NBISweden/pipelines-nextflow](https://github.com//NBISweden/pipelines-nextflow)
-4. 🗣 Commented on [#78](https://github.com//agshumate/Liftoff/issues/78) in [agshumate/Liftoff](https://github.com//agshumate/Liftoff)
-5. 💪 Opened PR [#2](https://github.com//guigolab/FA-nf/pull/2) in [guigolab/FA-nf](https://github.com//guigolab/FA-nf)
+1. 🗣 Commented on [#78](https://github.com//agshumate/Liftoff/issues/78) in [agshumate/Liftoff](https://github.com//agshumate/Liftoff)
+2. 🗣 Commented on [#11](https://github.com//BeeBiome-consortium/beebiome-data-portal/issues/11) in [BeeBiome-consortium/beebiome-data-portal](https://github.com//BeeBiome-consortium/beebiome-data-portal)
+3. 🗣 Commented on [#66](https://github.com//NBISweden/pipelines-nextflow/issues/66) in [NBISweden/pipelines-nextflow](https://github.com//NBISweden/pipelines-nextflow)
+4. ❗️ Opened issue [#66](https://github.com//NBISweden/pipelines-nextflow/issues/66) in [NBISweden/pipelines-nextflow](https://github.com//NBISweden/pipelines-nextflow)
+5. 🗣 Commented on [#78](https://github.com//agshumate/Liftoff/issues/78) in [agshumate/Liftoff](https://github.com//agshumate/Liftoff)
 <!--END_SECTION:activity-->
 
 </details>
