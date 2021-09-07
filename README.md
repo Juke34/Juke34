@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#176](https://github.com//NBISweden/AGAT/pull/176) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 🗣 Commented on [#175](https://github.com//NBISweden/AGAT/issues/175) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🗣 Commented on [#175](https://github.com//NBISweden/AGAT/issues/175) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🎉 Merged PR [#176](https://github.com//NBISweden/AGAT/pull/176) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. ❗️ Closed issue [#175](https://github.com//NBISweden/AGAT/issues/175) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 💪 Opened PR [#176](https://github.com//NBISweden/AGAT/pull/176) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 4. 🗣 Commented on [#175](https://github.com//NBISweden/AGAT/issues/175) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🗣 Commented on [#78](https://github.com//agshumate/Liftoff/issues/78) in [agshumate/Liftoff](https://github.com//agshumate/Liftoff)
+5. 🗣 Commented on [#175](https://github.com//NBISweden/AGAT/issues/175) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
