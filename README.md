@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#63](https://github.com//NBISweden/GAAS/issues/63) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
-2. 💪 Opened PR [#62](https://github.com//NBISweden/GAAS/pull/62) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
-3. 🗣 Commented on [#61](https://github.com//NBISweden/GAAS/issues/61) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
-4. ❗️ Closed issue [#18](https://github.com//NBISweden/GAAS/issues/18) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
-5. 🗣 Commented on [#18](https://github.com//NBISweden/GAAS/issues/18) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
+1. ❗️ Opened issue [#67](https://github.com//NBISweden/pipelines-nextflow/issues/67) in [NBISweden/pipelines-nextflow](https://github.com//NBISweden/pipelines-nextflow)
+2. ❗️ Opened issue [#63](https://github.com//NBISweden/GAAS/issues/63) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
+3. 💪 Opened PR [#62](https://github.com//NBISweden/GAAS/pull/62) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
+4. 🗣 Commented on [#61](https://github.com//NBISweden/GAAS/issues/61) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
+5. ❗️ Closed issue [#18](https://github.com//NBISweden/GAAS/issues/18) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
 <!--END_SECTION:activity-->
 
 </details>
