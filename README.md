@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#19](https://github.com//BeeBiome-consortium/beebiome-data-portal/pull/19) in [BeeBiome-consortium/beebiome-data-portal](https://github.com//BeeBiome-consortium/beebiome-data-portal)
-2. 💪 Opened PR [#19](https://github.com//BeeBiome-consortium/beebiome-data-portal/pull/19) in [BeeBiome-consortium/beebiome-data-portal](https://github.com//BeeBiome-consortium/beebiome-data-portal)
-3. ❗️ Opened issue [#67](https://github.com//NBISweden/pipelines-nextflow/issues/67) in [NBISweden/pipelines-nextflow](https://github.com//NBISweden/pipelines-nextflow)
-4. ❗️ Opened issue [#63](https://github.com//NBISweden/GAAS/issues/63) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
-5. 💪 Opened PR [#62](https://github.com//NBISweden/GAAS/pull/62) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
+1. 💪 Opened PR [#20](https://github.com//BeeBiome-consortium/beebiome-data-portal/pull/20) in [BeeBiome-consortium/beebiome-data-portal](https://github.com//BeeBiome-consortium/beebiome-data-portal)
+2. ❌ Closed PR [#19](https://github.com//BeeBiome-consortium/beebiome-data-portal/pull/19) in [BeeBiome-consortium/beebiome-data-portal](https://github.com//BeeBiome-consortium/beebiome-data-portal)
+3. 💪 Opened PR [#19](https://github.com//BeeBiome-consortium/beebiome-data-portal/pull/19) in [BeeBiome-consortium/beebiome-data-portal](https://github.com//BeeBiome-consortium/beebiome-data-portal)
+4. ❗️ Opened issue [#67](https://github.com//NBISweden/pipelines-nextflow/issues/67) in [NBISweden/pipelines-nextflow](https://github.com//NBISweden/pipelines-nextflow)
+5. ❗️ Opened issue [#63](https://github.com//NBISweden/GAAS/issues/63) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
 <!--END_SECTION:activity-->
 
 </details>
