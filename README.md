@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com//BeeBiome-consortium/beebiome-data-portal/issues/20) in [BeeBiome-consortium/beebiome-data-portal](https://github.com//BeeBiome-consortium/beebiome-data-portal)
-2. 💪 Opened PR [#20](https://github.com//BeeBiome-consortium/beebiome-data-portal/pull/20) in [BeeBiome-consortium/beebiome-data-portal](https://github.com//BeeBiome-consortium/beebiome-data-portal)
-3. ❌ Closed PR [#19](https://github.com//BeeBiome-consortium/beebiome-data-portal/pull/19) in [BeeBiome-consortium/beebiome-data-portal](https://github.com//BeeBiome-consortium/beebiome-data-portal)
-4. 💪 Opened PR [#19](https://github.com//BeeBiome-consortium/beebiome-data-portal/pull/19) in [BeeBiome-consortium/beebiome-data-portal](https://github.com//BeeBiome-consortium/beebiome-data-portal)
-5. ❗️ Opened issue [#67](https://github.com//NBISweden/pipelines-nextflow/issues/67) in [NBISweden/pipelines-nextflow](https://github.com//NBISweden/pipelines-nextflow)
+1. 🗣 Commented on [#177](https://github.com//NBISweden/AGAT/issues/177) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🗣 Commented on [#20](https://github.com//BeeBiome-consortium/beebiome-data-portal/issues/20) in [BeeBiome-consortium/beebiome-data-portal](https://github.com//BeeBiome-consortium/beebiome-data-portal)
+3. 💪 Opened PR [#20](https://github.com//BeeBiome-consortium/beebiome-data-portal/pull/20) in [BeeBiome-consortium/beebiome-data-portal](https://github.com//BeeBiome-consortium/beebiome-data-portal)
+4. ❌ Closed PR [#19](https://github.com//BeeBiome-consortium/beebiome-data-portal/pull/19) in [BeeBiome-consortium/beebiome-data-portal](https://github.com//BeeBiome-consortium/beebiome-data-portal)
+5. 💪 Opened PR [#19](https://github.com//BeeBiome-consortium/beebiome-data-portal/pull/19) in [BeeBiome-consortium/beebiome-data-portal](https://github.com//BeeBiome-consortium/beebiome-data-portal)
 <!--END_SECTION:activity-->
 
 </details>
