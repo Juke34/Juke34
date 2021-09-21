@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#89](https://github.com//NBISweden/AGAT/issues/89) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 🗣 Commented on [#177](https://github.com//NBISweden/AGAT/issues/177) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🗣 Commented on [#20](https://github.com//BeeBiome-consortium/beebiome-data-portal/issues/20) in [BeeBiome-consortium/beebiome-data-portal](https://github.com//BeeBiome-consortium/beebiome-data-portal)
-4. 💪 Opened PR [#20](https://github.com//BeeBiome-consortium/beebiome-data-portal/pull/20) in [BeeBiome-consortium/beebiome-data-portal](https://github.com//BeeBiome-consortium/beebiome-data-portal)
-5. ❌ Closed PR [#19](https://github.com//BeeBiome-consortium/beebiome-data-portal/pull/19) in [BeeBiome-consortium/beebiome-data-portal](https://github.com//BeeBiome-consortium/beebiome-data-portal)
+1. 🗣 Commented on [#179](https://github.com//NBISweden/AGAT/issues/179) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🗣 Commented on [#178](https://github.com//NBISweden/AGAT/issues/178) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🗣 Commented on [#89](https://github.com//NBISweden/AGAT/issues/89) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🗣 Commented on [#177](https://github.com//NBISweden/AGAT/issues/177) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🗣 Commented on [#20](https://github.com//BeeBiome-consortium/beebiome-data-portal/issues/20) in [BeeBiome-consortium/beebiome-data-portal](https://github.com//BeeBiome-consortium/beebiome-data-portal)
 <!--END_SECTION:activity-->
 
 </details>
