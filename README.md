@@ -65,10 +65,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#22802](https://github.com//bioconda/bioconda-recipes/issues/22802) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-2. 🗣 Commented on [#76](https://github.com//KarchinLab/open-cravat/issues/76) in [KarchinLab/open-cravat](https://github.com//KarchinLab/open-cravat)
-3. 💪 Opened PR [#180](https://github.com//NBISweden/AGAT/pull/180) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. ❗️ Closed issue [#166](https://github.com//NBISweden/AGAT/issues/166) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🗣 Commented on [#179](https://github.com//NBISweden/AGAT/issues/179) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🗣 Commented on [#22802](https://github.com//bioconda/bioconda-recipes/issues/22802) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+3. 🗣 Commented on [#22802](https://github.com//bioconda/bioconda-recipes/issues/22802) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+4. 🗣 Commented on [#76](https://github.com//KarchinLab/open-cravat/issues/76) in [KarchinLab/open-cravat](https://github.com//KarchinLab/open-cravat)
+5. 💪 Opened PR [#180](https://github.com//NBISweden/AGAT/pull/180) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
