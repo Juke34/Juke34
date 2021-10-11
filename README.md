@@ -65,10 +65,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#20](https://github.com//NBISweden/GUESSmyLT/issues/20) in [NBISweden/GUESSmyLT](https://github.com//NBISweden/GUESSmyLT)
-2. 🗣 Commented on [#22802](https://github.com//bioconda/bioconda-recipes/issues/22802) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+2. 🗣 Commented on [#20](https://github.com//NBISweden/GUESSmyLT/issues/20) in [NBISweden/GUESSmyLT](https://github.com//NBISweden/GUESSmyLT)
 3. 🗣 Commented on [#22802](https://github.com//bioconda/bioconda-recipes/issues/22802) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 4. 🗣 Commented on [#22802](https://github.com//bioconda/bioconda-recipes/issues/22802) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-5. 🗣 Commented on [#20](https://github.com//NBISweden/GUESSmyLT/issues/20) in [NBISweden/GUESSmyLT](https://github.com//NBISweden/GUESSmyLT)
+5. 🗣 Commented on [#22802](https://github.com//bioconda/bioconda-recipes/issues/22802) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 <!--END_SECTION:activity-->
 
 </details>
