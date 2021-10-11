@@ -64,9 +64,9 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22802](https://github.com//bioconda/bioconda-recipes/issues/22802) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-2. 🗣 Commented on [#64](https://github.com//NBISweden/GAAS/issues/64) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
-3. 🗣 Commented on [#20](https://github.com//NBISweden/GUESSmyLT/issues/20) in [NBISweden/GUESSmyLT](https://github.com//NBISweden/GUESSmyLT)
+1. 💪 Opened PR [#30968](https://github.com//bioconda/bioconda-recipes/pull/30968) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+2. 🗣 Commented on [#22802](https://github.com//bioconda/bioconda-recipes/issues/22802) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+3. 🗣 Commented on [#64](https://github.com//NBISweden/GAAS/issues/64) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
 4. 🗣 Commented on [#20](https://github.com//NBISweden/GUESSmyLT/issues/20) in [NBISweden/GUESSmyLT](https://github.com//NBISweden/GUESSmyLT)
 5. 🗣 Commented on [#20](https://github.com//NBISweden/GUESSmyLT/issues/20) in [NBISweden/GUESSmyLT](https://github.com//NBISweden/GUESSmyLT)
 <!--END_SECTION:activity-->
