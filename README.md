@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#184](https://github.com//NBISweden/AGAT/issues/184) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 💪 Opened PR [#26](https://github.com//sib-swiss/pftools3/pull/26) in [sib-swiss/pftools3](https://github.com//sib-swiss/pftools3)
-3. 🗣 Commented on [#30968](https://github.com//bioconda/bioconda-recipes/issues/30968) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-4. ❗️ Closed issue [#21601](https://github.com//bioconda/bioconda-recipes/issues/21601) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-5. 🗣 Commented on [#21601](https://github.com//bioconda/bioconda-recipes/issues/21601) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+1. ❗️ Closed issue [#184](https://github.com//NBISweden/AGAT/issues/184) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🗣 Commented on [#184](https://github.com//NBISweden/AGAT/issues/184) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🗣 Commented on [#184](https://github.com//NBISweden/AGAT/issues/184) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 💪 Opened PR [#26](https://github.com//sib-swiss/pftools3/pull/26) in [sib-swiss/pftools3](https://github.com//sib-swiss/pftools3)
+5. 🗣 Commented on [#30968](https://github.com//bioconda/bioconda-recipes/issues/30968) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 <!--END_SECTION:activity-->
 
 </details>
