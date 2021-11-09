@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#192](https://github.com//NBISweden/AGAT/issues/192) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. ❗️ Closed issue [#187](https://github.com//NBISweden/AGAT/issues/187) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🎉 Merged PR [#186](https://github.com//NBISweden/AGAT/pull/186) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🗣 Commented on [#25](https://github.com//sib-swiss/pftools3/issues/25) in [sib-swiss/pftools3](https://github.com//sib-swiss/pftools3)
-5. 🗣 Commented on [#215](https://github.com//ebi-pf-team/interproscan/issues/215) in [ebi-pf-team/interproscan](https://github.com//ebi-pf-team/interproscan)
+1. 🗣 Commented on [#190](https://github.com//NBISweden/AGAT/issues/190) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🗣 Commented on [#192](https://github.com//NBISweden/AGAT/issues/192) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🗣 Commented on [#192](https://github.com//NBISweden/AGAT/issues/192) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. ❗️ Closed issue [#187](https://github.com//NBISweden/AGAT/issues/187) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🎉 Merged PR [#186](https://github.com//NBISweden/AGAT/pull/186) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
