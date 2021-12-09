@@ -65,10 +65,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#207](https://github.com//NBISweden/AGAT/issues/207) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 💪 Opened PR [#206](https://github.com//NBISweden/AGAT/pull/206) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 💪 Opened PR [#78](https://github.com//NBISweden/GAAS/pull/78) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
-4. 🗣 Commented on [#190](https://github.com//NBISweden/AGAT/issues/190) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. ❗️ Opened issue [#31828](https://github.com//bioconda/bioconda-recipes/issues/31828) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+2. 🗣 Commented on [#207](https://github.com//NBISweden/AGAT/issues/207) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 💪 Opened PR [#206](https://github.com//NBISweden/AGAT/pull/206) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 💪 Opened PR [#78](https://github.com//NBISweden/GAAS/pull/78) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
+5. 🗣 Commented on [#190](https://github.com//NBISweden/AGAT/issues/190) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
