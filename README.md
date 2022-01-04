@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#212](https://github.com//NBISweden/AGAT/pull/212) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 💪 Opened PR [#212](https://github.com//NBISweden/AGAT/pull/212) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🗣 Commented on [#139](https://github.com//marian-m12l/studio/issues/139) in [marian-m12l/studio](https://github.com//marian-m12l/studio)
-4. 🎉 Merged PR [#211](https://github.com//NBISweden/AGAT/pull/211) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 💪 Opened PR [#211](https://github.com//NBISweden/AGAT/pull/211) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#213](https://github.com//NBISweden/AGAT/issues/213) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🎉 Merged PR [#212](https://github.com//NBISweden/AGAT/pull/212) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 💪 Opened PR [#212](https://github.com//NBISweden/AGAT/pull/212) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🗣 Commented on [#139](https://github.com//marian-m12l/studio/issues/139) in [marian-m12l/studio](https://github.com//marian-m12l/studio)
+5. 🎉 Merged PR [#211](https://github.com//NBISweden/AGAT/pull/211) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
