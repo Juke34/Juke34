@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com//genomeannotation/annie/issues/9) in [genomeannotation/annie](https://github.com//genomeannotation/annie)
-2. 🗣 Commented on [#32813](https://github.com//bioconda/bioconda-recipes/issues/32813) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+1. 🗣 Commented on [#70](https://github.com//NBISweden/EMBLmyGFF3/issues/70) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+2. 🗣 Commented on [#9](https://github.com//genomeannotation/annie/issues/9) in [genomeannotation/annie](https://github.com//genomeannotation/annie)
 3. 🗣 Commented on [#32813](https://github.com//bioconda/bioconda-recipes/issues/32813) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-4. 🗣 Commented on [#217](https://github.com//NBISweden/AGAT/issues/217) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🗣 Commented on [#216](https://github.com//NBISweden/AGAT/issues/216) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🗣 Commented on [#32813](https://github.com//bioconda/bioconda-recipes/issues/32813) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+5. 🗣 Commented on [#217](https://github.com//NBISweden/AGAT/issues/217) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
