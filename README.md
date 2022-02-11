@@ -64,10 +64,10 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#70](https://github.com//enasequence/webin-cli/issues/70) in [enasequence/webin-cli](https://github.com//enasequence/webin-cli)
-2. 🗣 Commented on [#70](https://github.com//NBISweden/EMBLmyGFF3/issues/70) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
-3. 🗣 Commented on [#9](https://github.com//genomeannotation/annie/issues/9) in [genomeannotation/annie](https://github.com//genomeannotation/annie)
-4. 🗣 Commented on [#32813](https://github.com//bioconda/bioconda-recipes/issues/32813) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+1. 🗣 Commented on [#70](https://github.com//NBISweden/EMBLmyGFF3/issues/70) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+2. ❗️ Opened issue [#70](https://github.com//enasequence/webin-cli/issues/70) in [enasequence/webin-cli](https://github.com//enasequence/webin-cli)
+3. 🗣 Commented on [#70](https://github.com//NBISweden/EMBLmyGFF3/issues/70) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+4. 🗣 Commented on [#9](https://github.com//genomeannotation/annie/issues/9) in [genomeannotation/annie](https://github.com//genomeannotation/annie)
 5. 🗣 Commented on [#32813](https://github.com//bioconda/bioconda-recipes/issues/32813) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 <!--END_SECTION:activity-->
 
