@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#218](https://github.com//NBISweden/AGAT/issues/218) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. ❗️ Reopened issue [#64](https://github.com//NBISweden/EMBLmyGFF3/issues/64) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
-3. ❗️ Closed issue [#64](https://github.com//NBISweden/EMBLmyGFF3/issues/64) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
-4. 🗣 Commented on [#227](https://github.com//NBISweden/AGAT/issues/227) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🗣 Commented on [#225](https://github.com//NBISweden/AGAT/issues/225) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#228](https://github.com//NBISweden/AGAT/issues/228) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🗣 Commented on [#228](https://github.com//NBISweden/AGAT/issues/228) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. ❗️ Closed issue [#218](https://github.com//NBISweden/AGAT/issues/218) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. ❗️ Reopened issue [#64](https://github.com//NBISweden/EMBLmyGFF3/issues/64) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+5. ❗️ Closed issue [#64](https://github.com//NBISweden/EMBLmyGFF3/issues/64) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
 <!--END_SECTION:activity-->
 
 </details>
