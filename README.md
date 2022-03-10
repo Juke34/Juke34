@@ -64,10 +64,10 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#229](https://github.com//NBISweden/AGAT/pull/229) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 🗣 Commented on [#229](https://github.com//NBISweden/AGAT/issues/229) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🗣 Commented on [#19](https://github.com//adefazio/classifierplots/issues/19) in [adefazio/classifierplots](https://github.com//adefazio/classifierplots)
-4. 🗣 Commented on [#228](https://github.com//NBISweden/AGAT/issues/228) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#20135](https://github.com//bioconda/bioconda-recipes/issues/20135) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+2. 🎉 Merged PR [#229](https://github.com//NBISweden/AGAT/pull/229) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🗣 Commented on [#229](https://github.com//NBISweden/AGAT/issues/229) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🗣 Commented on [#19](https://github.com//adefazio/classifierplots/issues/19) in [adefazio/classifierplots](https://github.com//adefazio/classifierplots)
 5. 🗣 Commented on [#228](https://github.com//NBISweden/AGAT/issues/228) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
