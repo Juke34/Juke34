@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33626](https://github.com//bioconda/bioconda-recipes/pull/33626) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-2. 🗣 Commented on [#20135](https://github.com//bioconda/bioconda-recipes/issues/20135) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-3. 🎉 Merged PR [#229](https://github.com//NBISweden/AGAT/pull/229) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🗣 Commented on [#229](https://github.com//NBISweden/AGAT/issues/229) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🗣 Commented on [#19](https://github.com//adefazio/classifierplots/issues/19) in [adefazio/classifierplots](https://github.com//adefazio/classifierplots)
+1. 🗣 Commented on [#230](https://github.com//NBISweden/AGAT/issues/230) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 💪 Opened PR [#33626](https://github.com//bioconda/bioconda-recipes/pull/33626) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+3. 🗣 Commented on [#20135](https://github.com//bioconda/bioconda-recipes/issues/20135) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+4. 🎉 Merged PR [#229](https://github.com//NBISweden/AGAT/pull/229) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🗣 Commented on [#229](https://github.com//NBISweden/AGAT/issues/229) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
