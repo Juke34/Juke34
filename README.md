@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#242](https://github.com//NBISweden/AGAT/issues/242) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 💪 Opened PR [#243](https://github.com//NBISweden/AGAT/pull/243) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 2. 🗣 Commented on [#242](https://github.com//NBISweden/AGAT/issues/242) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 3. 🗣 Commented on [#242](https://github.com//NBISweden/AGAT/issues/242) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🗣 Commented on [#241](https://github.com//NBISweden/AGAT/issues/241) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🎉 Merged PR [#34146](https://github.com//bioconda/bioconda-recipes/pull/34146) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+4. 🗣 Commented on [#242](https://github.com//NBISweden/AGAT/issues/242) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🗣 Commented on [#241](https://github.com//NBISweden/AGAT/issues/241) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
