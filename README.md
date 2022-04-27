@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34520](https://github.com//bioconda/bioconda-recipes/pull/34520) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-2. 🗣 Commented on [#242](https://github.com//NBISweden/AGAT/issues/242) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🎉 Merged PR [#243](https://github.com//NBISweden/AGAT/pull/243) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. ❗️ Closed issue [#242](https://github.com//NBISweden/AGAT/issues/242) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 💪 Opened PR [#243](https://github.com//NBISweden/AGAT/pull/243) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#59](https://github.com//enasequence/webin-cli/issues/59) in [enasequence/webin-cli](https://github.com//enasequence/webin-cli)
+2. 🎉 Merged PR [#34520](https://github.com//bioconda/bioconda-recipes/pull/34520) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+3. 🗣 Commented on [#242](https://github.com//NBISweden/AGAT/issues/242) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🎉 Merged PR [#243](https://github.com//NBISweden/AGAT/pull/243) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. ❗️ Closed issue [#242](https://github.com//NBISweden/AGAT/issues/242) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
