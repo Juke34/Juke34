@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#244](https://github.com//NBISweden/AGAT/issues/244) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 🗣 Commented on [#59](https://github.com//enasequence/webin-cli/issues/59) in [enasequence/webin-cli](https://github.com//enasequence/webin-cli)
-3. 🎉 Merged PR [#34520](https://github.com//bioconda/bioconda-recipes/pull/34520) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-4. 🗣 Commented on [#242](https://github.com//NBISweden/AGAT/issues/242) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🎉 Merged PR [#243](https://github.com//NBISweden/AGAT/pull/243) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#245](https://github.com//NBISweden/AGAT/issues/245) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🗣 Commented on [#244](https://github.com//NBISweden/AGAT/issues/244) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🗣 Commented on [#59](https://github.com//enasequence/webin-cli/issues/59) in [enasequence/webin-cli](https://github.com//enasequence/webin-cli)
+4. 🎉 Merged PR [#34520](https://github.com//bioconda/bioconda-recipes/pull/34520) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+5. 🗣 Commented on [#242](https://github.com//NBISweden/AGAT/issues/242) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
