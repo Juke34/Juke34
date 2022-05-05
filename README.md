@@ -64,9 +64,9 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#246](https://github.com//NBISweden/AGAT/issues/246) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 🗣 Commented on [#247](https://github.com//NBISweden/AGAT/issues/247) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🗣 Commented on [#245](https://github.com//NBISweden/AGAT/issues/245) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#249](https://github.com//NBISweden/AGAT/issues/249) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🗣 Commented on [#246](https://github.com//NBISweden/AGAT/issues/246) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🗣 Commented on [#247](https://github.com//NBISweden/AGAT/issues/247) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 4. 🗣 Commented on [#245](https://github.com//NBISweden/AGAT/issues/245) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 5. 🗣 Commented on [#245](https://github.com//NBISweden/AGAT/issues/245) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
