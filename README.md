@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#66](https://github.com//NBISweden/EMBLmyGFF3/issues/66) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
-2. ❗️ Closed issue [#249](https://github.com//NBISweden/AGAT/issues/249) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🗣 Commented on [#35266](https://github.com//bioconda/bioconda-recipes/issues/35266) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-4. 💪 Opened PR [#35266](https://github.com//bioconda/bioconda-recipes/pull/35266) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-5. 🗣 Commented on [#263](https://github.com//NBISweden/AGAT/issues/263) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#70](https://github.com//NBISweden/EMBLmyGFF3/issues/70) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+2. 🗣 Commented on [#70](https://github.com//enasequence/webin-cli/issues/70) in [enasequence/webin-cli](https://github.com//enasequence/webin-cli)
+3. ❗️ Closed issue [#66](https://github.com//NBISweden/EMBLmyGFF3/issues/66) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+4. ❗️ Closed issue [#249](https://github.com//NBISweden/AGAT/issues/249) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🗣 Commented on [#35266](https://github.com//bioconda/bioconda-recipes/issues/35266) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 <!--END_SECTION:activity-->
 
 </details>
