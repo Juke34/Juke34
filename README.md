@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#272](https://github.com//NBISweden/AGAT/pull/272) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 💪 Opened PR [#272](https://github.com//NBISweden/AGAT/pull/272) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🎉 Merged PR [#271](https://github.com//NBISweden/AGAT/pull/271) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 💪 Opened PR [#271](https://github.com//NBISweden/AGAT/pull/271) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🗣 Commented on [#270](https://github.com//NBISweden/AGAT/issues/270) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#259](https://github.com//NBISweden/AGAT/issues/259) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. ❗️ Closed issue [#259](https://github.com//NBISweden/AGAT/issues/259) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. ❗️ Closed issue [#256](https://github.com//NBISweden/AGAT/issues/256) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🗣 Commented on [#256](https://github.com//NBISweden/AGAT/issues/256) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🗣 Commented on [#255](https://github.com//NBISweden/AGAT/issues/255) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
