@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#273](https://github.com//NBISweden/AGAT/issues/273) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 💪 Opened PR [#85](https://github.com//NBISweden/GAAS/pull/85) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
-3. 🗣 Commented on [#259](https://github.com//NBISweden/AGAT/issues/259) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. ❗️ Closed issue [#259](https://github.com//NBISweden/AGAT/issues/259) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. ❗️ Closed issue [#256](https://github.com//NBISweden/AGAT/issues/256) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#72](https://github.com//NBISweden/EMBLmyGFF3/issues/72) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+2. 🗣 Commented on [#71](https://github.com//NBISweden/EMBLmyGFF3/issues/71) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+3. 🗣 Commented on [#273](https://github.com//NBISweden/AGAT/issues/273) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 💪 Opened PR [#85](https://github.com//NBISweden/GAAS/pull/85) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
+5. 🗣 Commented on [#259](https://github.com//NBISweden/AGAT/issues/259) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
