@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#274](https://github.com//NBISweden/AGAT/issues/274) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 🗣 Commented on [#276](https://github.com//NBISweden/AGAT/issues/276) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. ❗️ Opened issue [#3160](https://github.com//nextflow-io/nextflow/issues/3160) in [nextflow-io/nextflow](https://github.com//nextflow-io/nextflow)
-4. ❗️ Closed issue [#214](https://github.com//NBISweden/AGAT/issues/214) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. ❗️ Closed issue [#273](https://github.com//NBISweden/AGAT/issues/273) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#3160](https://github.com//nextflow-io/nextflow/issues/3160) in [nextflow-io/nextflow](https://github.com//nextflow-io/nextflow)
+2. 🗣 Commented on [#274](https://github.com//NBISweden/AGAT/issues/274) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🗣 Commented on [#276](https://github.com//NBISweden/AGAT/issues/276) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. ❗️ Opened issue [#3160](https://github.com//nextflow-io/nextflow/issues/3160) in [nextflow-io/nextflow](https://github.com//nextflow-io/nextflow)
+5. ❗️ Closed issue [#214](https://github.com//NBISweden/AGAT/issues/214) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
