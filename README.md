@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#256](https://github.com//NBISweden/AGAT/issues/256) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 💪 Opened PR [#73](https://github.com//NBISweden/EMBLmyGFF3/pull/73) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
-3. 🗣 Commented on [#72](https://github.com//NBISweden/EMBLmyGFF3/issues/72) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
-4. 🗣 Commented on [#3160](https://github.com//nextflow-io/nextflow/issues/3160) in [nextflow-io/nextflow](https://github.com//nextflow-io/nextflow)
-5. 🗣 Commented on [#274](https://github.com//NBISweden/AGAT/issues/274) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#70](https://github.com//NBISweden/EMBLmyGFF3/issues/70) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+2. 🗣 Commented on [#256](https://github.com//NBISweden/AGAT/issues/256) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 💪 Opened PR [#73](https://github.com//NBISweden/EMBLmyGFF3/pull/73) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+4. 🗣 Commented on [#72](https://github.com//NBISweden/EMBLmyGFF3/issues/72) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+5. 🗣 Commented on [#3160](https://github.com//nextflow-io/nextflow/issues/3160) in [nextflow-io/nextflow](https://github.com//nextflow-io/nextflow)
 <!--END_SECTION:activity-->
 
 </details>
