@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#74](https://github.com//NBISweden/EMBLmyGFF3/pull/74) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
-2. ❗️ Closed issue [#71](https://github.com//NBISweden/EMBLmyGFF3/issues/71) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
-3. ❗️ Closed issue [#64](https://github.com//NBISweden/EMBLmyGFF3/issues/64) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
-4. 🎉 Merged PR [#73](https://github.com//NBISweden/EMBLmyGFF3/pull/73) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
-5. 🗣 Commented on [#70](https://github.com//NBISweden/EMBLmyGFF3/issues/70) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+1. 🎉 Merged PR [#74](https://github.com//NBISweden/EMBLmyGFF3/pull/74) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+2. 💪 Opened PR [#74](https://github.com//NBISweden/EMBLmyGFF3/pull/74) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+3. ❗️ Closed issue [#71](https://github.com//NBISweden/EMBLmyGFF3/issues/71) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+4. ❗️ Closed issue [#64](https://github.com//NBISweden/EMBLmyGFF3/issues/64) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+5. 🎉 Merged PR [#73](https://github.com//NBISweden/EMBLmyGFF3/pull/73) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
 <!--END_SECTION:activity-->
 
 </details>
