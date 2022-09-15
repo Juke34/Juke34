@@ -65,10 +65,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#278](https://github.com//NBISweden/AGAT/issues/278) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 🗣 Commented on [#260](https://github.com//NBISweden/AGAT/issues/260) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. ❗️ Opened issue [#36943](https://github.com//bioconda/bioconda-recipes/issues/36943) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-4. 🎉 Merged PR [#74](https://github.com//NBISweden/EMBLmyGFF3/pull/74) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
-5. 💪 Opened PR [#74](https://github.com//NBISweden/EMBLmyGFF3/pull/74) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+2. 🗣 Commented on [#278](https://github.com//NBISweden/AGAT/issues/278) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🗣 Commented on [#260](https://github.com//NBISweden/AGAT/issues/260) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. ❗️ Opened issue [#36943](https://github.com//bioconda/bioconda-recipes/issues/36943) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+5. 🎉 Merged PR [#74](https://github.com//NBISweden/EMBLmyGFF3/pull/74) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
 <!--END_SECTION:activity-->
 
 </details>
