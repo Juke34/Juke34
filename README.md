@@ -65,10 +65,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#288](https://github.com//NBISweden/AGAT/issues/288) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 🗣 Commented on [#23](https://github.com//NBISweden/GUESSmyLT/issues/23) in [NBISweden/GUESSmyLT](https://github.com//NBISweden/GUESSmyLT)
-3. ❗️ Closed issue [#17](https://github.com//NBISweden/GUESSmyLT/issues/17) in [NBISweden/GUESSmyLT](https://github.com//NBISweden/GUESSmyLT)
-4. 🎉 Merged PR [#24](https://github.com//NBISweden/GUESSmyLT/pull/24) in [NBISweden/GUESSmyLT](https://github.com//NBISweden/GUESSmyLT)
-5. ❗️ Closed issue [#286](https://github.com//NBISweden/AGAT/issues/286) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🗣 Commented on [#288](https://github.com//NBISweden/AGAT/issues/288) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🗣 Commented on [#23](https://github.com//NBISweden/GUESSmyLT/issues/23) in [NBISweden/GUESSmyLT](https://github.com//NBISweden/GUESSmyLT)
+4. ❗️ Closed issue [#17](https://github.com//NBISweden/GUESSmyLT/issues/17) in [NBISweden/GUESSmyLT](https://github.com//NBISweden/GUESSmyLT)
+5. 🎉 Merged PR [#24](https://github.com//NBISweden/GUESSmyLT/pull/24) in [NBISweden/GUESSmyLT](https://github.com//NBISweden/GUESSmyLT)
 <!--END_SECTION:activity-->
 
 </details>
