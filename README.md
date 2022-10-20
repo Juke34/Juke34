@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#288](https://github.com//NBISweden/AGAT/issues/288) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#283](https://github.com//NBISweden/AGAT/issues/283) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 2. 🗣 Commented on [#288](https://github.com//NBISweden/AGAT/issues/288) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 3. 🗣 Commented on [#288](https://github.com//NBISweden/AGAT/issues/288) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 4. 🗣 Commented on [#288](https://github.com//NBISweden/AGAT/issues/288) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🗣 Commented on [#23](https://github.com//NBISweden/GUESSmyLT/issues/23) in [NBISweden/GUESSmyLT](https://github.com//NBISweden/GUESSmyLT)
+5. 🗣 Commented on [#288](https://github.com//NBISweden/AGAT/issues/288) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
