@@ -65,10 +65,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#301](https://github.com//NBISweden/AGAT/issues/301) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 🗣 Commented on [#275](https://github.com//NBISweden/AGAT/issues/275) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🗣 Commented on [#301](https://github.com//NBISweden/AGAT/issues/301) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 3. 🗣 Commented on [#275](https://github.com//NBISweden/AGAT/issues/275) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🗣 Commented on [#298](https://github.com//NBISweden/AGAT/issues/298) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🗣 Commented on [#297](https://github.com//NBISweden/AGAT/issues/297) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🗣 Commented on [#275](https://github.com//NBISweden/AGAT/issues/275) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🗣 Commented on [#298](https://github.com//NBISweden/AGAT/issues/298) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
