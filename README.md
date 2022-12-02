@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#87](https://github.com//NBISweden/GAAS/pull/87) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
-2. 🎉 Merged PR [#85](https://github.com//NBISweden/GAAS/pull/85) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
-3. ❗️ Closed issue [#59](https://github.com//NBISweden/EMBLmyGFF3/issues/59) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
-4. ❗️ Closed issue [#29](https://github.com//NBISweden/EMBLmyGFF3/issues/29) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
-5. 🗣 Commented on [#29](https://github.com//NBISweden/EMBLmyGFF3/issues/29) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+1. 🗣 Commented on [#87](https://github.com//NBISweden/GAAS/issues/87) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
+2. 💪 Opened PR [#87](https://github.com//NBISweden/GAAS/pull/87) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
+3. 🎉 Merged PR [#85](https://github.com//NBISweden/GAAS/pull/85) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
+4. ❗️ Closed issue [#59](https://github.com//NBISweden/EMBLmyGFF3/issues/59) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+5. ❗️ Closed issue [#29](https://github.com//NBISweden/EMBLmyGFF3/issues/29) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
 <!--END_SECTION:activity-->
 
 </details>
