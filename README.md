@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#85](https://github.com//NBISweden/GAAS/pull/85) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
-2. ❗️ Closed issue [#59](https://github.com//NBISweden/EMBLmyGFF3/issues/59) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
-3. ❗️ Closed issue [#29](https://github.com//NBISweden/EMBLmyGFF3/issues/29) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
-4. 🗣 Commented on [#29](https://github.com//NBISweden/EMBLmyGFF3/issues/29) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
-5. 🗣 Commented on [#38180](https://github.com//bioconda/bioconda-recipes/issues/38180) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+1. 💪 Opened PR [#87](https://github.com//NBISweden/GAAS/pull/87) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
+2. 🎉 Merged PR [#85](https://github.com//NBISweden/GAAS/pull/85) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
+3. ❗️ Closed issue [#59](https://github.com//NBISweden/EMBLmyGFF3/issues/59) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+4. ❗️ Closed issue [#29](https://github.com//NBISweden/EMBLmyGFF3/issues/29) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+5. 🗣 Commented on [#29](https://github.com//NBISweden/EMBLmyGFF3/issues/29) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
 <!--END_SECTION:activity-->
 
 </details>
