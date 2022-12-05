@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#312](https://github.com//NBISweden/AGAT/issues/312) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 🗣 Commented on [#307](https://github.com//NBISweden/AGAT/issues/307) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🗣 Commented on [#311](https://github.com//NBISweden/AGAT/issues/311) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🗣 Commented on [#87](https://github.com//NBISweden/GAAS/issues/87) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
-5. 💪 Opened PR [#87](https://github.com//NBISweden/GAAS/pull/87) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
+1. 🗣 Commented on [#313](https://github.com//NBISweden/AGAT/issues/313) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🗣 Commented on [#312](https://github.com//NBISweden/AGAT/issues/312) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🗣 Commented on [#307](https://github.com//NBISweden/AGAT/issues/307) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🗣 Commented on [#311](https://github.com//NBISweden/AGAT/issues/311) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🗣 Commented on [#87](https://github.com//NBISweden/GAAS/issues/87) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
 <!--END_SECTION:activity-->
 
 </details>
