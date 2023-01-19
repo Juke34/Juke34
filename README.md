@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#278](https://github.com//NBISweden/AGAT/issues/278) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 🗣 Commented on [#278](https://github.com//NBISweden/AGAT/issues/278) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. ❗️ Closed issue [#296](https://github.com//NBISweden/AGAT/issues/296) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🗣 Commented on [#296](https://github.com//NBISweden/AGAT/issues/296) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. ❗️ Closed issue [#313](https://github.com//NBISweden/AGAT/issues/313) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. ❗️ Opened issue [#53](https://github.com//CarlGroth/Carl-Bot/issues/53) in [CarlGroth/Carl-Bot](https://github.com//CarlGroth/Carl-Bot)
+2. ❗️ Closed issue [#278](https://github.com//NBISweden/AGAT/issues/278) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🗣 Commented on [#278](https://github.com//NBISweden/AGAT/issues/278) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. ❗️ Closed issue [#296](https://github.com//NBISweden/AGAT/issues/296) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🗣 Commented on [#296](https://github.com//NBISweden/AGAT/issues/296) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
