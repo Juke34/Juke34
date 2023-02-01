@@ -66,9 +66,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#327](https://github.com//NBISweden/AGAT/issues/327) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 2. 🗣 Commented on [#327](https://github.com//NBISweden/AGAT/issues/327) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. ❗️ Closed issue [#321](https://github.com//NBISweden/AGAT/issues/321) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🗣 Commented on [#321](https://github.com//NBISweden/AGAT/issues/321) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. ❗️ Opened issue [#1](https://github.com//jhayer/nf-wgs_amr/issues/1) in [jhayer/nf-wgs_amr](https://github.com//jhayer/nf-wgs_amr)
+3. 🗣 Commented on [#327](https://github.com//NBISweden/AGAT/issues/327) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. ❗️ Closed issue [#321](https://github.com//NBISweden/AGAT/issues/321) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🗣 Commented on [#321](https://github.com//NBISweden/AGAT/issues/321) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
