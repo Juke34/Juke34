@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#324](https://github.com//NBISweden/AGAT/issues/324) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. ❗️ Closed issue [#322](https://github.com//NBISweden/AGAT/issues/322) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. ❗️ Opened issue [#1](https://github.com//RAVAO-Ravo/MOD_ML/issues/1) in [RAVAO-Ravo/MOD_ML](https://github.com//RAVAO-Ravo/MOD_ML)
-4. 🗣 Commented on [#328](https://github.com//NBISweden/AGAT/issues/328) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🗣 Commented on [#327](https://github.com//NBISweden/AGAT/issues/327) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#3](https://github.com//jhayer/nf-wgs_amr/issues/3) in [jhayer/nf-wgs_amr](https://github.com//jhayer/nf-wgs_amr)
+2. 🗣 Commented on [#324](https://github.com//NBISweden/AGAT/issues/324) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. ❗️ Closed issue [#322](https://github.com//NBISweden/AGAT/issues/322) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. ❗️ Opened issue [#1](https://github.com//RAVAO-Ravo/MOD_ML/issues/1) in [RAVAO-Ravo/MOD_ML](https://github.com//RAVAO-Ravo/MOD_ML)
+5. 🗣 Commented on [#328](https://github.com//NBISweden/AGAT/issues/328) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
