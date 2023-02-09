@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com//jhayer/nf-wgs_amr/issues/6) in [jhayer/nf-wgs_amr](https://github.com//jhayer/nf-wgs_amr)
-2. 💪 Opened PR [#6](https://github.com//jhayer/nf-wgs_amr/pull/6) in [jhayer/nf-wgs_amr](https://github.com//jhayer/nf-wgs_amr)
-3. ❗️ Closed issue [#1](https://github.com//RAVAO-Ravo/MOD_ML/issues/1) in [RAVAO-Ravo/MOD_ML](https://github.com//RAVAO-Ravo/MOD_ML)
-4. 🗣 Commented on [#1](https://github.com//RAVAO-Ravo/MOD_ML/issues/1) in [RAVAO-Ravo/MOD_ML](https://github.com//RAVAO-Ravo/MOD_ML)
-5. 🗣 Commented on [#1](https://github.com//jhayer/nf-wgs_amr/issues/1) in [jhayer/nf-wgs_amr](https://github.com//jhayer/nf-wgs_amr)
+1. 🗣 Commented on [#7](https://github.com//jhayer/nf-wgs_amr/issues/7) in [jhayer/nf-wgs_amr](https://github.com//jhayer/nf-wgs_amr)
+2. 🗣 Commented on [#6](https://github.com//jhayer/nf-wgs_amr/issues/6) in [jhayer/nf-wgs_amr](https://github.com//jhayer/nf-wgs_amr)
+3. 💪 Opened PR [#6](https://github.com//jhayer/nf-wgs_amr/pull/6) in [jhayer/nf-wgs_amr](https://github.com//jhayer/nf-wgs_amr)
+4. ❗️ Closed issue [#1](https://github.com//RAVAO-Ravo/MOD_ML/issues/1) in [RAVAO-Ravo/MOD_ML](https://github.com//RAVAO-Ravo/MOD_ML)
+5. 🗣 Commented on [#1](https://github.com//RAVAO-Ravo/MOD_ML/issues/1) in [RAVAO-Ravo/MOD_ML](https://github.com//RAVAO-Ravo/MOD_ML)
 <!--END_SECTION:activity-->
 
 </details>
