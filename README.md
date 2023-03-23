@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com//jhayer/baargin/issues/1) in [jhayer/baargin](https://github.com//jhayer/baargin)
-2. ❌ Closed PR [#206](https://github.com//NBISweden/workshop-reproducible-research/pull/206) in [NBISweden/workshop-reproducible-research](https://github.com//NBISweden/workshop-reproducible-research)
-3. 💪 Opened PR [#206](https://github.com//NBISweden/workshop-reproducible-research/pull/206) in [NBISweden/workshop-reproducible-research](https://github.com//NBISweden/workshop-reproducible-research)
-4. 🗣 Commented on [#339](https://github.com//NBISweden/AGAT/issues/339) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🗣 Commented on [#177](https://github.com//NBISweden/AGAT/issues/177) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. ❗️ Closed issue [#339](https://github.com//NBISweden/AGAT/issues/339) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🗣 Commented on [#340](https://github.com//NBISweden/AGAT/issues/340) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. ❗️ Closed issue [#1](https://github.com//jhayer/baargin/issues/1) in [jhayer/baargin](https://github.com//jhayer/baargin)
+4. ❌ Closed PR [#206](https://github.com//NBISweden/workshop-reproducible-research/pull/206) in [NBISweden/workshop-reproducible-research](https://github.com//NBISweden/workshop-reproducible-research)
+5. 💪 Opened PR [#206](https://github.com//NBISweden/workshop-reproducible-research/pull/206) in [NBISweden/workshop-reproducible-research](https://github.com//NBISweden/workshop-reproducible-research)
 <!--END_SECTION:activity-->
 
 </details>
