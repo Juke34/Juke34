@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#344](https://github.com//NBISweden/AGAT/issues/344) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. ❗️ Closed issue [#342](https://github.com//NBISweden/AGAT/issues/342) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🗣 Commented on [#342](https://github.com//NBISweden/AGAT/issues/342) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🗣 Commented on [#2](https://github.com//NBISweden/workshop-conda/issues/2) in [NBISweden/workshop-conda](https://github.com//NBISweden/workshop-conda)
-5. 🗣 Commented on [#342](https://github.com//NBISweden/AGAT/issues/342) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#331](https://github.com//NBISweden/AGAT/issues/331) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. ❗️ Closed issue [#344](https://github.com//NBISweden/AGAT/issues/344) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. ❗️ Closed issue [#342](https://github.com//NBISweden/AGAT/issues/342) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🗣 Commented on [#342](https://github.com//NBISweden/AGAT/issues/342) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🗣 Commented on [#2](https://github.com//NBISweden/workshop-conda/issues/2) in [NBISweden/workshop-conda](https://github.com//NBISweden/workshop-conda)
 <!--END_SECTION:activity-->
 
 </details>
