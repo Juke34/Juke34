@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40811](https://github.com//bioconda/bioconda-recipes/pull/40811) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-2. 🎉 Merged PR [#40757](https://github.com//bioconda/bioconda-recipes/pull/40757) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-3. 🗣 Commented on [#40757](https://github.com//bioconda/bioconda-recipes/issues/40757) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-4. 🗣 Commented on [#356](https://github.com//NBISweden/AGAT/issues/356) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. ❗️ Closed issue [#352](https://github.com//NBISweden/AGAT/issues/352) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🎉 Merged PR [#2](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/2) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
+2. 🎉 Merged PR [#40811](https://github.com//bioconda/bioconda-recipes/pull/40811) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+3. 🎉 Merged PR [#40757](https://github.com//bioconda/bioconda-recipes/pull/40757) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+4. 🗣 Commented on [#40757](https://github.com//bioconda/bioconda-recipes/issues/40757) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+5. 🗣 Commented on [#356](https://github.com//NBISweden/AGAT/issues/356) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
