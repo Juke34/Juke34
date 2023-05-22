@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41054](https://github.com//bioconda/bioconda-recipes/pull/41054) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-2. 🎉 Merged PR [#2](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/2) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
-3. 🎉 Merged PR [#40811](https://github.com//bioconda/bioconda-recipes/pull/40811) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-4. 🎉 Merged PR [#40757](https://github.com//bioconda/bioconda-recipes/pull/40757) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-5. 🗣 Commented on [#40757](https://github.com//bioconda/bioconda-recipes/issues/40757) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+1. 💪 Opened PR [#23](https://github.com//jhayer/baargin/pull/23) in [jhayer/baargin](https://github.com//jhayer/baargin)
+2. 🎉 Merged PR [#41054](https://github.com//bioconda/bioconda-recipes/pull/41054) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+3. 🎉 Merged PR [#2](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/2) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
+4. 🎉 Merged PR [#40811](https://github.com//bioconda/bioconda-recipes/pull/40811) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+5. 🎉 Merged PR [#40757](https://github.com//bioconda/bioconda-recipes/pull/40757) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 <!--END_SECTION:activity-->
 
 </details>
