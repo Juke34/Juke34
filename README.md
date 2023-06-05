@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/7) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
-2. 💪 Opened PR [#9](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/9) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
-3. 💪 Opened PR [#8](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/8) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
-4. 🎉 Merged PR [#6](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/6) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
-5. 🗣 Commented on [#359](https://github.com//NBISweden/AGAT/issues/359) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. ❗️ Opened issue [#12](https://github.com//SouthGreenPlatform/training_reproducible_research/issues/12) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
+2. ❗️ Opened issue [#11](https://github.com//SouthGreenPlatform/training_reproducible_research/issues/11) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
+3. 🎉 Merged PR [#8](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/8) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
+4. 🎉 Merged PR [#10](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/10) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
+5. 🎉 Merged PR [#9](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/9) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
 <!--END_SECTION:activity-->
 
 </details>
