@@ -65,10 +65,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#361](https://github.com//NBISweden/AGAT/issues/361) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. ❗️ Closed issue [#12](https://github.com//SouthGreenPlatform/training_reproducible_research/issues/12) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
-3. 🗣 Commented on [#12](https://github.com//SouthGreenPlatform/training_reproducible_research/issues/12) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
-4. ❗️ Closed issue [#13](https://github.com//SouthGreenPlatform/training_reproducible_research/issues/13) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
-5. 🗣 Commented on [#13](https://github.com//SouthGreenPlatform/training_reproducible_research/issues/13) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
+2. 🗣 Commented on [#361](https://github.com//NBISweden/AGAT/issues/361) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. ❗️ Closed issue [#12](https://github.com//SouthGreenPlatform/training_reproducible_research/issues/12) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
+4. 🗣 Commented on [#12](https://github.com//SouthGreenPlatform/training_reproducible_research/issues/12) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
+5. ❗️ Closed issue [#13](https://github.com//SouthGreenPlatform/training_reproducible_research/issues/13) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
 <!--END_SECTION:activity-->
 
 </details>
