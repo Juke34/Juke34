@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/15) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
-2. 🎉 Merged PR [#14](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/14) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
-3. 💪 Opened PR [#14](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/14) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
-4. 🗣 Commented on [#53](https://github.com//NBISweden/AGAT/issues/53) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. ❗️ Opened issue [#13](https://github.com//SouthGreenPlatform/training_reproducible_research/issues/13) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
+1. ❗️ Closed issue [#12](https://github.com//SouthGreenPlatform/training_reproducible_research/issues/12) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
+2. 🗣 Commented on [#12](https://github.com//SouthGreenPlatform/training_reproducible_research/issues/12) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
+3. ❗️ Closed issue [#13](https://github.com//SouthGreenPlatform/training_reproducible_research/issues/13) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
+4. 🗣 Commented on [#13](https://github.com//SouthGreenPlatform/training_reproducible_research/issues/13) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
+5. 🗣 Commented on [#15](https://github.com//SouthGreenPlatform/training_reproducible_research/issues/15) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
 <!--END_SECTION:activity-->
 
 </details>
