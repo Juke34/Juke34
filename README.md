@@ -65,10 +65,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#363](https://github.com//NBISweden/AGAT/issues/363) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 💪 Opened PR [#19](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/19) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
-3. 💪 Opened PR [#97](https://github.com//lh3/minigraph/pull/97) in [lh3/minigraph](https://github.com//lh3/minigraph)
-4. 💪 Opened PR [#18](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/18) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
-5. 🗣 Commented on [#53](https://github.com//NBISweden/AGAT/issues/53) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🗣 Commented on [#363](https://github.com//NBISweden/AGAT/issues/363) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🗣 Commented on [#363](https://github.com//NBISweden/AGAT/issues/363) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 💪 Opened PR [#19](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/19) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
+5. 💪 Opened PR [#97](https://github.com//lh3/minigraph/pull/97) in [lh3/minigraph](https://github.com//lh3/minigraph)
 <!--END_SECTION:activity-->
 
 </details>
