@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#363](https://github.com//NBISweden/AGAT/issues/363) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 🗣 Commented on [#363](https://github.com//NBISweden/AGAT/issues/363) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 💪 Opened PR [#21](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/21) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
-4. 🎉 Merged PR [#20](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/20) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
-5. 🎉 Merged PR [#19](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/19) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
+1. 🗣 Commented on [#360](https://github.com//NBISweden/AGAT/issues/360) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🗣 Commented on [#358](https://github.com//NBISweden/AGAT/issues/358) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. ❗️ Closed issue [#349](https://github.com//NBISweden/AGAT/issues/349) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. ❗️ Closed issue [#356](https://github.com//NBISweden/AGAT/issues/356) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🗣 Commented on [#363](https://github.com//NBISweden/AGAT/issues/363) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
