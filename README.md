@@ -65,10 +65,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#363](https://github.com//NBISweden/AGAT/issues/363) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 💪 Opened PR [#21](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/21) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
-3. 🎉 Merged PR [#20](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/20) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
-4. 🎉 Merged PR [#19](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/19) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
-5. 🗣 Commented on [#19](https://github.com//SouthGreenPlatform/training_reproducible_research/issues/19) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
+2. 🗣 Commented on [#363](https://github.com//NBISweden/AGAT/issues/363) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 💪 Opened PR [#21](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/21) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
+4. 🎉 Merged PR [#20](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/20) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
+5. 🎉 Merged PR [#19](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/19) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
 <!--END_SECTION:activity-->
 
 </details>
