@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/22) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
-2. 🎉 Merged PR [#23](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/23) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
-3. 🗣 Commented on [#363](https://github.com//NBISweden/AGAT/issues/363) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🎉 Merged PR [#21](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/21) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
+2. 🎉 Merged PR [#22](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/22) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
+3. 🎉 Merged PR [#23](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/23) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
 4. 🗣 Commented on [#363](https://github.com//NBISweden/AGAT/issues/363) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. ❌ Closed PR [#20](https://github.com//jhayer/baargin/pull/20) in [jhayer/baargin](https://github.com//jhayer/baargin)
+5. 🗣 Commented on [#363](https://github.com//NBISweden/AGAT/issues/363) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
