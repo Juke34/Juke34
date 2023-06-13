@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#365](https://github.com//NBISweden/AGAT/pull/365) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. ❗️ Closed issue [#53](https://github.com//NBISweden/AGAT/issues/53) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. ❗️ Opened issue [#1](https://github.com//conda-forge/perl-clone-feedstock/issues/1) in [conda-forge/perl-clone-feedstock](https://github.com//conda-forge/perl-clone-feedstock)
-4. 🎉 Merged PR [#25](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/25) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
-5. 🎉 Merged PR [#24](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/24) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
+1. ❗️ Closed issue [#363](https://github.com//NBISweden/AGAT/issues/363) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🎉 Merged PR [#365](https://github.com//NBISweden/AGAT/pull/365) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 💪 Opened PR [#365](https://github.com//NBISweden/AGAT/pull/365) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. ❗️ Closed issue [#53](https://github.com//NBISweden/AGAT/issues/53) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. ❗️ Opened issue [#1](https://github.com//conda-forge/perl-clone-feedstock/issues/1) in [conda-forge/perl-clone-feedstock](https://github.com//conda-forge/perl-clone-feedstock)
 <!--END_SECTION:activity-->
 
 </details>
