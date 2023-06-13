@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/24) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
-2. 💪 Opened PR [#25](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/25) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
-3. 💪 Opened PR [#40](https://github.com//jhayer/baargin/pull/40) in [jhayer/baargin](https://github.com//jhayer/baargin)
-4. ❗️ Opened issue [#93](https://github.com//askimed/nf-test/issues/93) in [askimed/nf-test](https://github.com//askimed/nf-test)
-5. 🎉 Merged PR [#21](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/21) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
+1. 🎉 Merged PR [#25](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/25) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
+2. 🎉 Merged PR [#24](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/24) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
+3. 💪 Opened PR [#25](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/25) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
+4. 💪 Opened PR [#40](https://github.com//jhayer/baargin/pull/40) in [jhayer/baargin](https://github.com//jhayer/baargin)
+5. ❗️ Opened issue [#93](https://github.com//askimed/nf-test/issues/93) in [askimed/nf-test](https://github.com//askimed/nf-test)
 <!--END_SECTION:activity-->
 
 </details>
