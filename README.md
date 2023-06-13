@@ -64,11 +64,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/25) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
-2. 🎉 Merged PR [#24](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/24) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
-3. 💪 Opened PR [#25](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/25) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
-4. 💪 Opened PR [#40](https://github.com//jhayer/baargin/pull/40) in [jhayer/baargin](https://github.com//jhayer/baargin)
-5. ❗️ Opened issue [#93](https://github.com//askimed/nf-test/issues/93) in [askimed/nf-test](https://github.com//askimed/nf-test)
+1. ❗️ Opened issue [#1](https://github.com//conda-forge/perl-clone-feedstock/issues/1) in [conda-forge/perl-clone-feedstock](https://github.com//conda-forge/perl-clone-feedstock)
+2. 🎉 Merged PR [#25](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/25) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
+3. 🎉 Merged PR [#24](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/24) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
+4. 💪 Opened PR [#25](https://github.com//SouthGreenPlatform/training_reproducible_research/pull/25) in [SouthGreenPlatform/training_reproducible_research](https://github.com//SouthGreenPlatform/training_reproducible_research)
+5. 💪 Opened PR [#40](https://github.com//jhayer/baargin/pull/40) in [jhayer/baargin](https://github.com//jhayer/baargin)
 <!--END_SECTION:activity-->
 
 </details>
