@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Jacques <img src="https://media.giphy.com/media/6Nk9AFUDuPHgXp31xT/giphy.gif" width="50"></h1>
 <h3 align="center"> <em>Research engineer in Bioinformatics <a href="https://www.ird.fr">IRD</a> at Montpellier France</em></h3>
+<h1 align="center"> 🇦🇹 🇫🇷 🇸🇪 </h1>
 
 <div align="center">
 
@@ -9,24 +10,22 @@
 
 </div>
 
-
-<div>
-  <p>
-  ### :octocat: Personal
-  
-  - 🚀 I love developing workflows and coding
-  - 🗨️ Ask me anything about:
-      - Bioinformatics
-      - Annotation, Assembly
-      - GFF/GTF file formats
-      - tools that I developed or in which I participated
-  - 🚂 I'm a curious person and I like to help. 
-  - ✨ I like 🪴 🏞️ and DIY
-  </p>
-  <p>
-    <a href="https://github.com/Juke34/github-readme-stats" title="GitHub Readme Stats"><img src="https://github-readme-stats.juke34.vercel.app/api?username=Juke34&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&hide=stars" width=40%" height="220" alt="github stats" /></a>
-  </p>
+<div style="float: right">
+  <a href="https://github.com/Juke34/github-readme-stats" title="GitHub Readme Stats">
+    <img src="https://github-readme-stats.juke34.vercel.app/api?username=Juke34&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&hide=stars" width=45%" height="220" align="right" alt="github stats" />
+  </a>
 </div>
+
+### :octocat: Personal
+  
+- 🚀 I love developing workflows and coding
+- 🗨️ Ask me anything about:
+    - Bioinformatics
+    - Annotation, Assembly
+    - GFF/GTF file formats
+    - tools that I developed or in which I participated
+- 🚂 I'm a curious person and I like to help. 
+- ✨ I like 🪴 🏞️ and DIY
 
 ---
 
