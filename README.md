@@ -10,23 +10,22 @@
 </div>
 
 
-
 <div>
-<p>
-### :octocat: Personal
-
-- 🚀 I love developing workflows and coding
-- 🗨️ Ask me anything about:
-    - Bioinformatics
-    - Annotation, Assembly
-    - GFF/GTF file formats
-    - tools that I developed or in which I participated
-- 🚂 I'm a curious person and I like to help. 
-- ✨ I like 🪴 🏞️ and DIY
-</p>
-<p>
-  <a href="https://github.com/Juke34/github-readme-stats" title="GitHub Readme Stats"><img src="https://github-readme-stats.juke34.vercel.app/api?username=Juke34&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&hide=stars" width=60.40%" height="220" alt="github stats" /></a>
-</p>
+  <p>
+  ### :octocat: Personal
+  
+  - 🚀 I love developing workflows and coding
+  - 🗨️ Ask me anything about:
+      - Bioinformatics
+      - Annotation, Assembly
+      - GFF/GTF file formats
+      - tools that I developed or in which I participated
+  - 🚂 I'm a curious person and I like to help. 
+  - ✨ I like 🪴 🏞️ and DIY
+  </p>
+  <p>
+    <a href="https://github.com/Juke34/github-readme-stats" title="GitHub Readme Stats"><img src="https://github-readme-stats.juke34.vercel.app/api?username=Juke34&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&hide=stars" width=60.40%" height="220" alt="github stats" /></a>
+  </p>
 </div>
 
 ---
@@ -117,3 +116,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div style="width: 100%;">
+  <a href="https://github.com/Juke34/Juke34/blame/master/welcome.svg">
+    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>
