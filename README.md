@@ -1,28 +1,3 @@
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">  
-      <style>
-        .div1 {
-          background-color: goldenrod;
-          width: 50%;
-          float: left;
-        }
-        
-        .div2 {
-          background-color: lightcoral;
-          width: 50%;
-          float: right;
-        } 
-        
-      </style>  
-
-      <div class="div1"> DIV1 </div>
-      <div class="div2"> DIV2 </div>
-    </div>
-  </foreignObject>
-</svg>
-
-
 <h1 align="center">Hi there 👋, I'm Jacques <img src="https://media.giphy.com/media/6Nk9AFUDuPHgXp31xT/giphy.gif" width="50"></h1>
 <h3 align="center"> <em>Research engineer in Bioinformatics <a href="https://www.ird.fr">IRD</a> at Montpellier France</em></h3>
 
