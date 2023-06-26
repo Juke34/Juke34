@@ -47,6 +47,12 @@
 
 ### Teaching
 
+* [Git](https://mivegec.pages.ird.fr/dainat/malbec-git/)
+* [Conda](https://mivegec.pages.ird.fr/dainat/malbec-conda/)
+* [Reproducible Research](https://southgreenplatform.github.io/training_reproducible_research/)
+* [Bacterial Comparative Genolics](https://southgreenplatform.github.io/training_bacterial_comparative_genomics/)
+* [Python](https://southgreenplatform.github.io/training_python/)
+* [Annotation](https://nbisweden.github.io/workshop-genome_annotation_elixir/)
 
 ---
 
@@ -116,8 +122,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="width: 100%;">
-  <a href="https://github.com/Juke34/Juke34/blame/master/welcome.svg">
-    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
-  </a>
-</div>
