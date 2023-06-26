@@ -1,26 +1,65 @@
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">  
+      <style>
+        .div1 {
+          background-color: goldenrod;
+          width: 50%;
+          float: left;
+        }
+        
+        .div2 {
+          background-color: lightcoral;
+          width: 50%;
+          float: right;
+        } 
+        
+      </style>  
+
+      <div class="div1"> DIV1 </div>
+      <div class="div2"> DIV2 </div>
+    </div>
+  </foreignObject>
+</svg>
+
+
 <h1 align="center">Hi there 👋, I'm Jacques <img src="https://media.giphy.com/media/6Nk9AFUDuPHgXp31xT/giphy.gif" width="50"></h1>
-<p><em>Research engineer in Bioinformatics <a href="https://www.ird.fr">IRD</a> at Montpellier France</em></p>
+<h3 align="center"> <em>Research engineer in Bioinformatics <a href="https://www.ird.fr">IRD</a> at Montpellier France</em></h3>
 
-[![Twitter: jacquesdainat](https://img.shields.io/twitter/follow/jacquesdainat?style=social)](https://twitter.com/jacquesdainat)
-[![GitHub Juke34](https://img.shields.io/github/followers/Juke34?label=follow&style=social)](https://github.com/Juke34)
-<!--![](https://komarev.com/ghpvc/?username=Juke34&style=flat-square)-->
+<div align="center">
 
----
-<!--
-<p align="left">
-  <a href="https://github.com/antonkomarev/github-profile-views-counter" title="GitHub Profile Views Counter"><img src="https://komarev.com/ghpvc/?username=Juke34&color=blue&style=flat&label=Visitors" alt="profile views"></a>
+  <a href="">[![Twitter: jacquesdainat](https://img.shields.io/twitter/follow/jacquesdainat?style=social)](https://twitter.com/jacquesdainat)</a>
+  <a href="">[![GitHub Juke34](https://img.shields.io/github/followers/Juke34?label=follow&style=social)](https://github.com/Juke34)</a>
+ <!-- <a href="">![](https://komarev.com/ghpvc/?username=Juke34&style=flat-square)</a>-->
+
+</div>
+
+
+
+<div>
+<p>
+### :octocat: Personal
+
+- 🚀 I love developing workflows and coding
+- 🗨️ Ask me anything about:
+    - Bioinformatics
+    - Annotation, Assembly
+    - GFF/GTF file formats
+    - tools that I developed or in which I participated
+- 🚂 I'm a curious person and I like to help. 
+- ✨ I like 🪴 🏞️ and DIY
 </p>
--->
-<p align="center">
+<p>
   <a href="https://github.com/Juke34/github-readme-stats" title="GitHub Readme Stats"><img src="https://github-readme-stats.juke34.vercel.app/api?username=Juke34&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&hide=stars" width=60.40%" height="220" alt="github stats" /></a>
 </p>
+</div>
 
 ---
 
  My collection of cheat Sheets / overviews / summaries: [https://juke34.github.io/knowledge/](https://juke34.github.io/knowledge/)
 
 
-### Tools (I developed or participed in)
+### Tools (I developed or participated)
 
 * [AGAT](https://github.com/NBISweden/AGAT) Suite of tools to handle gene annotations in any GTF/GFF format. [![install with bioconda](https://img.shields.io/badge/install%20with-bioconda-brightgreen.svg?style=flat)](http://bioconda.github.io/recipes/agat/README.html)
 * [EMBLmyGFF3](https://github.com/NBISweden/EMBLmyGFF3) A tool to converts an assembly in FASTA format along with associated annotation in GFF3 format into the EMBL flat file format which is the required format for submitting annotated assemblies to ENA. [Paper](https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-018-3686-x) [![install with bioconda](https://img.shields.io/badge/install%20with-bioconda-brightgreen.svg?style=flat)](http://bioconda.github.io/recipes/emblmygff3/README.html)
@@ -34,15 +73,6 @@
 
 ### Teaching
 
-
-### :octocat: Personal
-
-- 🚀 I’m currently:
-  - working on RNA editing
-  - developing Nextflow pipelines
-- 🗨️ Ask me anything about:
-  - Bioinformatics, Annotation, Assembly, GFF/GTF file formats, AGAT, EMBLmyGFF3, GUESSmyLT
-- ✨ Fun fact: I like picking mushrooms and DIY
 
 ---
 
