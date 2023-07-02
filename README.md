@@ -96,11 +96,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#220](https://github.com//daler/gffutils/pull/220) in [daler/gffutils](https://github.com//daler/gffutils)
-2. 💪 Opened PR [#219](https://github.com//daler/gffutils/pull/219) in [daler/gffutils](https://github.com//daler/gffutils)
-3. 🗣 Commented on [#41727](https://github.com//bioconda/bioconda-recipes/issues/41727) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-4. ❗️ Opened issue [#6](https://github.com//SouthGreenPlatform/rap-green/issues/6) in [SouthGreenPlatform/rap-green](https://github.com//SouthGreenPlatform/rap-green)
-5. ❗️ Opened issue [#5](https://github.com//SouthGreenPlatform/rap-green/issues/5) in [SouthGreenPlatform/rap-green](https://github.com//SouthGreenPlatform/rap-green)
+1. 🗣 Commented on [#219](https://github.com//daler/gffutils/issues/219) in [daler/gffutils](https://github.com//daler/gffutils)
+2. 💪 Opened PR [#222](https://github.com//daler/gffutils/pull/222) in [daler/gffutils](https://github.com//daler/gffutils)
+3. 💪 Opened PR [#220](https://github.com//daler/gffutils/pull/220) in [daler/gffutils](https://github.com//daler/gffutils)
+4. 💪 Opened PR [#219](https://github.com//daler/gffutils/pull/219) in [daler/gffutils](https://github.com//daler/gffutils)
+5. 🗣 Commented on [#41727](https://github.com//bioconda/bioconda-recipes/issues/41727) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 <!--END_SECTION:activity-->
 
 </details>
