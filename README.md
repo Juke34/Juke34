@@ -29,29 +29,32 @@
 
 ---
 
- My collection of cheat Sheets / overviews / summaries: [https://juke34.github.io/knowledge/](https://juke34.github.io/knowledge/)
-
-
 ### Tools (I developed or participated)
 
-* [AGAT](https://github.com/NBISweden/AGAT) Suite of tools to handle gene annotations in any GTF/GFF format. [![install with bioconda](https://img.shields.io/badge/install%20with-bioconda-brightgreen.svg?style=flat)](http://bioconda.github.io/recipes/agat/README.html)
-* [EMBLmyGFF3](https://github.com/NBISweden/EMBLmyGFF3) A tool to converts an assembly in FASTA format along with associated annotation in GFF3 format into the EMBL flat file format which is the required format for submitting annotated assemblies to ENA. [Paper](https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-018-3686-x) [![install with bioconda](https://img.shields.io/badge/install%20with-bioconda-brightgreen.svg?style=flat)](http://bioconda.github.io/recipes/emblmygff3/README.html)
-* [GAAS](https://github.com/NBISweden/GAAS) Suite of tools related to Genome Assembly and Annotation tasks. [![install with bioconda](https://img.shields.io/badge/install%20with-bioconda-brightgreen.svg?style=flat)](http://bioconda.github.io/recipes/gaas/README.html)
-* [GUESSmyLT](https://github.com/NBISweden/GUESSmyLT) A tool to guess the library type of your RNA-Seq data. [Paper](https://joss.theoj.org/papers/10.21105/joss.01344) [![install with bioconda](https://img.shields.io/badge/install%20with-bioconda-brightgreen.svg?style=flat)](http://bioconda.github.io/recipes/guessmylt/README.html)
+* [AGAT](https://github.com/NBISweden/AGAT) Suite of tools to handle gene annotations in any GTF/GFF format.
+* [EMBLmyGFF3](https://github.com/NBISweden/EMBLmyGFF3) A tool to converts an assembly in FASTA format along with associated annotation in GFF3 format into the EMBL flat file format which is the required format for submitting annotated assemblies to ENA. [Paper](https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-018-3686-x)
+* [GAAS](https://github.com/NBISweden/GAAS) Suite of tools related to Genome Assembly and Annotation tasks.
+* [GUESSmyLT](https://github.com/NBISweden/GUESSmyLT) A tool to guess the library type of your RNA-Seq data. [Paper](https://joss.theoj.org/papers/10.21105/joss.01344)
 * [pipelines-nextflow](https://github.com/NBISweden/pipelines-nextflow) A set of workflows written in Nextflow for Genome Annotation.
 * [SAPiN](https://github.com/Juke34/SAPiN) A tool that aims to summarize SAM/BAM read alignment by pileup or reads at each position in a tabulated way. 
 * [SamReadViewer](https://juke34.github.io/SamReadViewer/sam2view.html) A small utility to visualise read alignments directly from SAM format without reference.
-* [TeSorter](https://github.com/zhangrengang/TEsorter) An accurate and fast method to classify LTR-retrotransposons in plant genomes. [Paper](https://academic.oup.com/hr/article/doi/10.1093/hr/uhac017/6532211?login=true) [![install with bioconda](https://img.shields.io/badge/install%20with-bioconda-brightgreen.svg?style=flat)](http://bioconda.github.io/recipes/tesorter/README.html)
-* [EDTA](https://github.com/oushujun/EDTA) The Extensive de novo TE Annotator (EDTA). [Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1905-y) [![install with bioconda](https://img.shields.io/badge/install%20with-bioconda-brightgreen.svg?style=flat)](http://bioconda.github.io/recipes/edta/README.html)
+* [TeSorter](https://github.com/zhangrengang/TEsorter) An accurate and fast method to classify LTR-retrotransposons in plant genomes. [Paper](https://academic.oup.com/hr/article/doi/10.1093/hr/uhac017/6532211?login=true)
+* [EDTA](https://github.com/oushujun/EDTA) The Extensive de novo TE Annotator (EDTA). [Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1905-y)
 
 ### Teaching
 
 * [Git](https://mivegec.pages.ird.fr/dainat/malbec-git/)
 * [Conda](https://mivegec.pages.ird.fr/dainat/malbec-conda/)
 * [Reproducible Research](https://southgreenplatform.github.io/training_reproducible_research/)
-* [Bacterial Comparative Genolics](https://southgreenplatform.github.io/training_bacterial_comparative_genomics/)
+* [Bacterial Comparative Genomics](https://southgreenplatform.github.io/training_bacterial_comparative_genomics/)
 * [Python](https://southgreenplatform.github.io/training_python/)
 * [Annotation](https://nbisweden.github.io/workshop-genome_annotation_elixir/)
+
+### Others
+
+* [Knowledge](https://juke34.github.io/knowledge/) My collection of cheat sheets / overviews / summaries
+* [Coordinate_systems](https://github.com/Juke34/coordinate_systems) A cheat sheet about coordinate systems in bioinformatics
+* [Library types](https://joss.theoj.org/papers/10.21105/joss.01344) Overview of the different library types in RNAseq
 
 ---
 
