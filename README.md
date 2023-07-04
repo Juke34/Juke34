@@ -100,11 +100,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#221](https://github.com//daler/gffutils/issues/221) in [daler/gffutils](https://github.com//daler/gffutils)
+1. 🗣 Commented on [#220](https://github.com//daler/gffutils/issues/220) in [daler/gffutils](https://github.com//daler/gffutils)
 2. 🗣 Commented on [#221](https://github.com//daler/gffutils/issues/221) in [daler/gffutils](https://github.com//daler/gffutils)
-3. 🗣 Commented on [#41727](https://github.com//bioconda/bioconda-recipes/issues/41727) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-4. 🗣 Commented on [#371](https://github.com//NBISweden/AGAT/issues/371) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🗣 Commented on [#41727](https://github.com//bioconda/bioconda-recipes/issues/41727) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+3. 🗣 Commented on [#221](https://github.com//daler/gffutils/issues/221) in [daler/gffutils](https://github.com//daler/gffutils)
+4. 🗣 Commented on [#41727](https://github.com//bioconda/bioconda-recipes/issues/41727) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+5. 🗣 Commented on [#371](https://github.com//NBISweden/AGAT/issues/371) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
