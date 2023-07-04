@@ -100,11 +100,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#370](https://github.com//NBISweden/AGAT/issues/370) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 🗣 Commented on [#219](https://github.com//daler/gffutils/issues/219) in [daler/gffutils](https://github.com//daler/gffutils)
-3. 💪 Opened PR [#222](https://github.com//daler/gffutils/pull/222) in [daler/gffutils](https://github.com//daler/gffutils)
-4. 💪 Opened PR [#220](https://github.com//daler/gffutils/pull/220) in [daler/gffutils](https://github.com//daler/gffutils)
-5. 💪 Opened PR [#219](https://github.com//daler/gffutils/pull/219) in [daler/gffutils](https://github.com//daler/gffutils)
+1. 🗣 Commented on [#41727](https://github.com//bioconda/bioconda-recipes/issues/41727) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+2. 🗣 Commented on [#370](https://github.com//NBISweden/AGAT/issues/370) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🗣 Commented on [#219](https://github.com//daler/gffutils/issues/219) in [daler/gffutils](https://github.com//daler/gffutils)
+4. 💪 Opened PR [#222](https://github.com//daler/gffutils/pull/222) in [daler/gffutils](https://github.com//daler/gffutils)
+5. 💪 Opened PR [#220](https://github.com//daler/gffutils/pull/220) in [daler/gffutils](https://github.com//daler/gffutils)
 <!--END_SECTION:activity-->
 
 </details>
