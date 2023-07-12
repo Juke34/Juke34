@@ -100,11 +100,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#378](https://github.com//NBISweden/AGAT/issues/378) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. ❗️ Closed issue [#378](https://github.com//NBISweden/AGAT/issues/378) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🎉 Merged PR [#379](https://github.com//NBISweden/AGAT/pull/379) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🗣 Commented on [#366](https://github.com//NBISweden/AGAT/issues/366) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 💪 Opened PR [#379](https://github.com//NBISweden/AGAT/pull/379) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 💪 Opened PR [#380](https://github.com//NBISweden/AGAT/pull/380) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. ❗️ Closed issue [#341](https://github.com//NBISweden/AGAT/issues/341) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🗣 Commented on [#341](https://github.com//NBISweden/AGAT/issues/341) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🗣 Commented on [#383](https://github.com//bioperl/bioperl-live/issues/383) in [bioperl/bioperl-live](https://github.com//bioperl/bioperl-live)
+5. 🗣 Commented on [#378](https://github.com//NBISweden/AGAT/issues/378) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
