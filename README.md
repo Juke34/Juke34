@@ -101,11 +101,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#382](https://github.com//NBISweden/AGAT/pull/382) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. ❗️ Closed issue [#41](https://github.com//jhayer/baargin/issues/41) in [jhayer/baargin](https://github.com//jhayer/baargin)
-3. ❗️ Closed issue [#28](https://github.com//jhayer/baargin/issues/28) in [jhayer/baargin](https://github.com//jhayer/baargin)
-4. ❗️ Closed issue [#27](https://github.com//jhayer/baargin/issues/27) in [jhayer/baargin](https://github.com//jhayer/baargin)
-5. ❗️ Closed issue [#37](https://github.com//jhayer/baargin/issues/37) in [jhayer/baargin](https://github.com//jhayer/baargin)
+1. 🎉 Merged PR [#381](https://github.com//NBISweden/AGAT/pull/381) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🎉 Merged PR [#382](https://github.com//NBISweden/AGAT/pull/382) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. ❗️ Closed issue [#41](https://github.com//jhayer/baargin/issues/41) in [jhayer/baargin](https://github.com//jhayer/baargin)
+4. ❗️ Closed issue [#28](https://github.com//jhayer/baargin/issues/28) in [jhayer/baargin](https://github.com//jhayer/baargin)
+5. ❗️ Closed issue [#27](https://github.com//jhayer/baargin/issues/27) in [jhayer/baargin](https://github.com//jhayer/baargin)
 <!--END_SECTION:activity-->
 
 </details>
