@@ -101,11 +101,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#405](https://github.com//NBISweden/AGAT/issues/405) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 🗣 Commented on [#404](https://github.com//NBISweden/AGAT/issues/404) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🗣 Commented on [#389](https://github.com//NBISweden/AGAT/issues/389) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. ❗️ Closed issue [#389](https://github.com//NBISweden/AGAT/issues/389) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🎉 Merged PR [#403](https://github.com//NBISweden/AGAT/pull/403) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 💪 Opened PR [#7](https://github.com//SouthGreenPlatform/rap-green/pull/7) in [SouthGreenPlatform/rap-green](https://github.com//SouthGreenPlatform/rap-green)
+2. 🗣 Commented on [#405](https://github.com//NBISweden/AGAT/issues/405) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🗣 Commented on [#404](https://github.com//NBISweden/AGAT/issues/404) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🗣 Commented on [#389](https://github.com//NBISweden/AGAT/issues/389) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. ❗️ Closed issue [#389](https://github.com//NBISweden/AGAT/issues/389) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
