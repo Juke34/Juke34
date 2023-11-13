@@ -41,7 +41,7 @@
 * [SamReadViewer](https://juke34.github.io/SamReadViewer/sam2view.html) A small utility to visualise read alignments directly from SAM format without reference.
 * [TeSorter](https://github.com/zhangrengang/TEsorter) An accurate and fast method to classify LTR-retrotransposons in plant genomes. [Paper](https://academic.oup.com/hr/article/doi/10.1093/hr/uhac017/6532211?login=true)
 * [EDTA](https://github.com/oushujun/EDTA) The Extensive de novo TE Annotator (EDTA). [Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1905-y)
-* [baargin](https://github.com/jhayer/baargin) Bacterial Assembly and Antimicrobial Resistance Genes detection In NextFlow
+* [baargin](https://github.com/jhayer/baargin) Bacterial Assembly and Antimicrobial Resistance Genes detection In NextFlow. [Paper](https://joss.theoj.org/papers/10.21105/joss.05397)
 
 ### Teaching
 
