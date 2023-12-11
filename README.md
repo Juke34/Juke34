@@ -101,11 +101,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com//thackl/proovframe/issues/11) in [thackl/proovframe](https://github.com//thackl/proovframe)
+1. 🎉 Merged PR [#44744](https://github.com//bioconda/bioconda-recipes/pull/44744) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 2. 🗣 Commented on [#11](https://github.com//thackl/proovframe/issues/11) in [thackl/proovframe](https://github.com//thackl/proovframe)
-3. 💪 Opened PR [#11](https://github.com//thackl/proovframe/pull/11) in [thackl/proovframe](https://github.com//thackl/proovframe)
-4. 💪 Opened PR [#44744](https://github.com//bioconda/bioconda-recipes/pull/44744) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-5. 🗣 Commented on [#44743](https://github.com//bioconda/bioconda-recipes/issues/44743) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+3. 🗣 Commented on [#11](https://github.com//thackl/proovframe/issues/11) in [thackl/proovframe](https://github.com//thackl/proovframe)
+4. 💪 Opened PR [#11](https://github.com//thackl/proovframe/pull/11) in [thackl/proovframe](https://github.com//thackl/proovframe)
+5. 💪 Opened PR [#44744](https://github.com//bioconda/bioconda-recipes/pull/44744) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 <!--END_SECTION:activity-->
 
 </details>
