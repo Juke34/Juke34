@@ -101,11 +101,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#60](https://github.com//NBISweden/Earth-Biogenome-Project-pilot/issues/60) in [NBISweden/Earth-Biogenome-Project-pilot](https://github.com//NBISweden/Earth-Biogenome-Project-pilot)
-2. 🎉 Merged PR [#44743](https://github.com//bioconda/bioconda-recipes/pull/44743) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-3. 🗣 Commented on [#44743](https://github.com//bioconda/bioconda-recipes/issues/44743) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-4. 🗣 Commented on [#397](https://github.com//NBISweden/AGAT/issues/397) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. ❗️ Closed issue [#394](https://github.com//NBISweden/AGAT/issues/394) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. ❗️ Opened issue [#1](https://github.com//tranchant/frangiPANe/issues/1) in [tranchant/frangiPANe](https://github.com//tranchant/frangiPANe)
+2. 🗣 Commented on [#60](https://github.com//NBISweden/Earth-Biogenome-Project-pilot/issues/60) in [NBISweden/Earth-Biogenome-Project-pilot](https://github.com//NBISweden/Earth-Biogenome-Project-pilot)
+3. 🎉 Merged PR [#44743](https://github.com//bioconda/bioconda-recipes/pull/44743) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+4. 🗣 Commented on [#44743](https://github.com//bioconda/bioconda-recipes/issues/44743) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+5. 🗣 Commented on [#397](https://github.com//NBISweden/AGAT/issues/397) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
