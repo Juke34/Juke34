@@ -52,6 +52,10 @@
 * [Python](https://southgreenplatform.github.io/training_python/)
 * [Annotation](https://nbisweden.github.io/workshop-genome_annotation_elixir/)
 
+### Conda
+
+Recipes: RepeatModeler, RepeatMasker, Guessmylt, AGAT, EDTA, Recon, LTR_retriever, Ninja, blast+ (rpsbproc), fingerprintscan, sfld, InterProScan, gaas, gepard, TEsorter, RapGreen, ninja-nj, Craq, etc.
+
 ### Others
 
 * [Knowledge](https://juke34.github.io/knowledge/) My collection of cheat sheets / overviews / summaries
