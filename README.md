@@ -76,7 +76,7 @@
   <a href="https://github.com/topics/sublime-text" title="Sublime Text"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" alt="sublime-text logo" width="36" height="36" /></a>
   <a href="https://github.com/topics/Visual_Studio_Code" title="VSCode"><img src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" alt="VSCode logo" width="36" height="36" /></a>
   <a href="https://github.com/topics/atom" title="Atom"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" alt="atom logo" width="36" height="36" /></a>
-  <a href="https://github.com/topics/Nextflow" title="Nextflow"><img src="https://github.com/nextflow-io/trademark/blob/master/nextflow2014_no-bg.png" alt="nextflow logo" width="120" height="28" /></a>
+  <a href="https://github.com/topics/Nextflow" title="Nextflow"><img src="https://github.com/nextflow-io/nextflow/raw/master/docs/_static/nextflow-logo-bg-dark.png" alt="nextflow logo" width="120" height="28" /></a>
   <a href="https://github.com/topics/snakemake" title="Snakemake"><img src="https://raw.githubusercontent.com/snakemake/snakemake/6fcdc8a22db5522e232638bff16da9b50996eb45/images/logo.svg" alt="snakemake logo" width="36" height="36" /></a>
   <a href="https://github.com/topics/bioconda" title="Bioconda"><img src="http://bioconda.github.io/_images/bioconda.png" alt="bioconda logo" width="120" height="22" /></a>
   <a href="https://github.com/topics/slack" title="slack"><img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="slack logo" width="36" height="36" /></a>
