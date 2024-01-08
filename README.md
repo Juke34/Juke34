@@ -105,11 +105,11 @@ Recipes: RepeatModeler, RepeatMasker, Guessmylt, AGAT, EDTA, Recon, LTR_retrieve
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com//Juke34/ifb-staff/pull/2) in [Juke34/ifb-staff](https://github.com//Juke34/ifb-staff)
-2. 🎉 Merged PR [#1](https://github.com//Juke34/ifb-staff/pull/1) in [Juke34/ifb-staff](https://github.com//Juke34/ifb-staff)
-3. 💪 Opened PR [#1](https://github.com//Juke34/ifb-staff/pull/1) in [Juke34/ifb-staff](https://github.com//Juke34/ifb-staff)
-4. ❗️ Opened issue [#1](https://github.com//tranchant/frangiPANe/issues/1) in [tranchant/frangiPANe](https://github.com//tranchant/frangiPANe)
-5. 🗣 Commented on [#60](https://github.com//NBISweden/Earth-Biogenome-Project-pilot/issues/60) in [NBISweden/Earth-Biogenome-Project-pilot](https://github.com//NBISweden/Earth-Biogenome-Project-pilot)
+1. 🎉 Merged PR [#2](https://github.com//Juke34/ifb-staff/pull/2) in [Juke34/ifb-staff](https://github.com//Juke34/ifb-staff)
+2. 💪 Opened PR [#2](https://github.com//Juke34/ifb-staff/pull/2) in [Juke34/ifb-staff](https://github.com//Juke34/ifb-staff)
+3. 🎉 Merged PR [#1](https://github.com//Juke34/ifb-staff/pull/1) in [Juke34/ifb-staff](https://github.com//Juke34/ifb-staff)
+4. 💪 Opened PR [#1](https://github.com//Juke34/ifb-staff/pull/1) in [Juke34/ifb-staff](https://github.com//Juke34/ifb-staff)
+5. ❗️ Opened issue [#1](https://github.com//tranchant/frangiPANe/issues/1) in [tranchant/frangiPANe](https://github.com//tranchant/frangiPANe)
 <!--END_SECTION:activity-->
 
 </details>
