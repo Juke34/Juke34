@@ -105,11 +105,11 @@ Recipes: RepeatModeler, RepeatMasker, Guessmylt, AGAT, EDTA, Recon, LTR_retrieve
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com//Juke34/ifb-staff/pull/3) in [Juke34/ifb-staff](https://github.com//Juke34/ifb-staff)
-2. 🗣 Commented on [#415](https://github.com//NBISweden/AGAT/issues/415) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 💪 Opened PR [#3](https://github.com//Juke34/ifb-staff/pull/3) in [Juke34/ifb-staff](https://github.com//Juke34/ifb-staff)
-4. 🗣 Commented on [#392](https://github.com//NBISweden/AGAT/issues/392) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. ❗️ Closed issue [#392](https://github.com//NBISweden/AGAT/issues/392) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🎉 Merged PR [#4](https://github.com//Juke34/ifb-staff/pull/4) in [Juke34/ifb-staff](https://github.com//Juke34/ifb-staff)
+2. 💪 Opened PR [#4](https://github.com//Juke34/ifb-staff/pull/4) in [Juke34/ifb-staff](https://github.com//Juke34/ifb-staff)
+3. 🎉 Merged PR [#3](https://github.com//Juke34/ifb-staff/pull/3) in [Juke34/ifb-staff](https://github.com//Juke34/ifb-staff)
+4. 🗣 Commented on [#415](https://github.com//NBISweden/AGAT/issues/415) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 💪 Opened PR [#3](https://github.com//Juke34/ifb-staff/pull/3) in [Juke34/ifb-staff](https://github.com//Juke34/ifb-staff)
 <!--END_SECTION:activity-->
 
 </details>
