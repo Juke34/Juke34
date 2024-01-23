@@ -105,11 +105,11 @@ Recipes: RepeatModeler, RepeatMasker, Guessmylt, AGAT, EDTA, Recon, LTR_retrieve
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#418](https://github.com//oushujun/EDTA/issues/418) in [oushujun/EDTA](https://github.com//oushujun/EDTA)
-2. ❗️ Closed issue [#411](https://github.com//NBISweden/AGAT/issues/411) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🎉 Merged PR [#415](https://github.com//NBISweden/AGAT/pull/415) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🗣 Commented on [#415](https://github.com//NBISweden/AGAT/issues/415) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🎉 Merged PR [#5](https://github.com//Juke34/ifb-staff/pull/5) in [Juke34/ifb-staff](https://github.com//Juke34/ifb-staff)
+1. 💪 Opened PR [#45370](https://github.com//bioconda/bioconda-recipes/pull/45370) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+2. 🗣 Commented on [#418](https://github.com//oushujun/EDTA/issues/418) in [oushujun/EDTA](https://github.com//oushujun/EDTA)
+3. ❗️ Closed issue [#411](https://github.com//NBISweden/AGAT/issues/411) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🎉 Merged PR [#415](https://github.com//NBISweden/AGAT/pull/415) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🗣 Commented on [#415](https://github.com//NBISweden/AGAT/issues/415) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
