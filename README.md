@@ -108,8 +108,8 @@ Recipes: RepeatModeler, RepeatMasker, Guessmylt, AGAT, EDTA, Recon, LTR_retrieve
 1. 🗣 Commented on [#419](https://github.com//NBISweden/AGAT/issues/419) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 2. 🗣 Commented on [#419](https://github.com//NBISweden/AGAT/issues/419) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 3. 🗣 Commented on [#419](https://github.com//NBISweden/AGAT/issues/419) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🗣 Commented on [#45370](https://github.com//bioconda/bioconda-recipes/issues/45370) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-5. 🗣 Commented on [#419](https://github.com//NBISweden/AGAT/issues/419) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🗣 Commented on [#419](https://github.com//NBISweden/AGAT/issues/419) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🗣 Commented on [#45370](https://github.com//bioconda/bioconda-recipes/issues/45370) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 <!--END_SECTION:activity-->
 
 </details>
