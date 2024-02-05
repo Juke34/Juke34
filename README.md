@@ -106,10 +106,10 @@ Recipes: RepeatModeler, RepeatMasker, Guessmylt, AGAT, EDTA, Recon, LTR_retrieve
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#420](https://github.com//NBISweden/AGAT/issues/420) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 🗣 Commented on [#417](https://github.com//NBISweden/AGAT/issues/417) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. ❗️ Closed issue [#404](https://github.com//NBISweden/AGAT/issues/404) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🗣 Commented on [#417](https://github.com//NBISweden/AGAT/issues/417) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🗣 Commented on [#45370](https://github.com//bioconda/bioconda-recipes/issues/45370) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+2. 🗣 Commented on [#420](https://github.com//NBISweden/AGAT/issues/420) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🗣 Commented on [#417](https://github.com//NBISweden/AGAT/issues/417) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. ❗️ Closed issue [#404](https://github.com//NBISweden/AGAT/issues/404) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🗣 Commented on [#417](https://github.com//NBISweden/AGAT/issues/417) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
