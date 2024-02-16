@@ -105,11 +105,11 @@ Recipes: RepeatModeler, RepeatMasker, Guessmylt, AGAT, EDTA, Recon, LTR_retrieve
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#386](https://github.com//bioperl/bioperl-live/pull/386) in [bioperl/bioperl-live](https://github.com//bioperl/bioperl-live)
-2. 🗣 Commented on [#392](https://github.com//NBISweden/AGAT/issues/392) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🗣 Commented on [#424](https://github.com//NBISweden/AGAT/issues/424) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. ❗️ Reopened issue [#392](https://github.com//NBISweden/AGAT/issues/392) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. ❗️ Closed issue [#424](https://github.com//NBISweden/AGAT/issues/424) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 💪 Opened PR [#387](https://github.com//bioperl/bioperl-live/pull/387) in [bioperl/bioperl-live](https://github.com//bioperl/bioperl-live)
+2. 💪 Opened PR [#386](https://github.com//bioperl/bioperl-live/pull/386) in [bioperl/bioperl-live](https://github.com//bioperl/bioperl-live)
+3. 🗣 Commented on [#392](https://github.com//NBISweden/AGAT/issues/392) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🗣 Commented on [#424](https://github.com//NBISweden/AGAT/issues/424) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. ❗️ Reopened issue [#392](https://github.com//NBISweden/AGAT/issues/392) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
