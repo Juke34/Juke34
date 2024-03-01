@@ -105,11 +105,11 @@ Recipes: RepeatModeler, RepeatMasker, Guessmylt, AGAT, EDTA, Recon, LTR_retrieve
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40369](https://github.com//bioconda/bioconda-recipes/pull/40369) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-2. 🗣 Commented on [#25](https://github.com//phylo42/IPK/issues/25) in [phylo42/IPK](https://github.com//phylo42/IPK)
-3. ❗️ Closed issue [#25](https://github.com//phylo42/IPK/issues/25) in [phylo42/IPK](https://github.com//phylo42/IPK)
-4. 🎉 Merged PR [#432](https://github.com//NBISweden/AGAT/pull/432) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 💪 Opened PR [#432](https://github.com//NBISweden/AGAT/pull/432) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#434](https://github.com//NBISweden/AGAT/issues/434) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🗣 Commented on [#433](https://github.com//NBISweden/AGAT/issues/433) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🎉 Merged PR [#40369](https://github.com//bioconda/bioconda-recipes/pull/40369) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+4. 🗣 Commented on [#25](https://github.com//phylo42/IPK/issues/25) in [phylo42/IPK](https://github.com//phylo42/IPK)
+5. ❗️ Closed issue [#25](https://github.com//phylo42/IPK/issues/25) in [phylo42/IPK](https://github.com//phylo42/IPK)
 <!--END_SECTION:activity-->
 
 </details>
