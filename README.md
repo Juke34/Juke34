@@ -58,9 +58,10 @@ Recipes: RepeatModeler, RepeatMasker, Guessmylt, AGAT, EDTA, Recon, LTR_retrieve
 
 ### Others
 
-* [Knowledge](https://juke34.github.io/knowledge/) My collection of cheat sheets / overviews / summaries
+* [Awesome Genome Annotation ](https://juke34.github.io/awesome-genome-annotation/) Awesome genome/mitome/plastome/plastidome annotation tool list
 * [Coordinate_systems](https://github.com/Juke34/coordinate_systems) A cheat sheet about coordinate systems in bioinformatics
 * [Library types](https://joss.theoj.org/papers/10.21105/joss.01344) Overview of the different library types in RNAseq
+* [Knowledge](https://juke34.github.io/knowledge/) My collection of cheat sheets / overviews / summaries
 
 ---
 
