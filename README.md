@@ -47,6 +47,7 @@
 
 * [Git](https://mivegec.pages.ird.fr/dainat/malbec-git/)
 * [Conda](https://mivegec.pages.ird.fr/dainat/malbec-conda/)
+* [Unix basics](https://mivegec.pages.ird.fr/dainat/malbec-unix-basics)
 * [Reproducible Research](https://southgreenplatform.github.io/training_reproducible_research/)
 * [Bacterial Comparative Genomics](https://southgreenplatform.github.io/training_bacterial_comparative_genomics/)
 * [Python](https://southgreenplatform.github.io/training_python/)
