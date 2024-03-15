@@ -107,11 +107,11 @@ Recipes: RepeatModeler, RepeatMasker, Guessmylt, AGAT, EDTA, Recon, LTR_retrieve
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com//SouthGreenPlatform/staff-info/pull/1) in [SouthGreenPlatform/staff-info](https://github.com//SouthGreenPlatform/staff-info)
-2. 🎉 Merged PR [#85](https://github.com//NBISweden/EMBLmyGFF3/pull/85) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
-3. 🗣 Commented on [#85](https://github.com//NBISweden/EMBLmyGFF3/issues/85) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
-4. 🗣 Commented on [#85](https://github.com//NBISweden/EMBLmyGFF3/issues/85) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
-5. 🗣 Commented on [#85](https://github.com//NBISweden/EMBLmyGFF3/issues/85) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+1. 🎉 Merged PR [#2](https://github.com//SouthGreenPlatform/staff-info/pull/2) in [SouthGreenPlatform/staff-info](https://github.com//SouthGreenPlatform/staff-info)
+2. 💪 Opened PR [#2](https://github.com//SouthGreenPlatform/staff-info/pull/2) in [SouthGreenPlatform/staff-info](https://github.com//SouthGreenPlatform/staff-info)
+3. 🎉 Merged PR [#1](https://github.com//SouthGreenPlatform/staff-info/pull/1) in [SouthGreenPlatform/staff-info](https://github.com//SouthGreenPlatform/staff-info)
+4. 💪 Opened PR [#1](https://github.com//SouthGreenPlatform/staff-info/pull/1) in [SouthGreenPlatform/staff-info](https://github.com//SouthGreenPlatform/staff-info)
+5. 🎉 Merged PR [#85](https://github.com//NBISweden/EMBLmyGFF3/pull/85) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
 <!--END_SECTION:activity-->
 
 </details>
