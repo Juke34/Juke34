@@ -108,11 +108,11 @@ Recipes: RepeatModeler, RepeatMasker, Guessmylt, AGAT, EDTA, Recon, LTR_retrieve
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com//SouthGreenPlatform/staff-info/pull/3) in [SouthGreenPlatform/staff-info](https://github.com//SouthGreenPlatform/staff-info)
-2. 🎉 Merged PR [#443](https://github.com//NBISweden/AGAT/pull/443) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 💪 Opened PR [#443](https://github.com//NBISweden/AGAT/pull/443) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 💪 Opened PR [#442](https://github.com//NBISweden/AGAT/pull/442) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🗣 Commented on [#440](https://github.com//NBISweden/AGAT/issues/440) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 💪 Opened PR [#4](https://github.com//SouthGreenPlatform/staff-info/pull/4) in [SouthGreenPlatform/staff-info](https://github.com//SouthGreenPlatform/staff-info)
+2. 🎉 Merged PR [#3](https://github.com//SouthGreenPlatform/staff-info/pull/3) in [SouthGreenPlatform/staff-info](https://github.com//SouthGreenPlatform/staff-info)
+3. 🎉 Merged PR [#443](https://github.com//NBISweden/AGAT/pull/443) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 💪 Opened PR [#443](https://github.com//NBISweden/AGAT/pull/443) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 💪 Opened PR [#442](https://github.com//NBISweden/AGAT/pull/442) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
