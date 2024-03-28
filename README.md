@@ -108,11 +108,11 @@ Recipes: RepeatModeler, RepeatMasker, Guessmylt, AGAT, EDTA, Recon, LTR_retrieve
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#444](https://github.com//NBISweden/AGAT/issues/444) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 🎉 Merged PR [#447](https://github.com//NBISweden/AGAT/pull/447) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 💪 Opened PR [#447](https://github.com//NBISweden/AGAT/pull/447) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. ❌ Closed PR [#446](https://github.com//NBISweden/AGAT/pull/446) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 💪 Opened PR [#446](https://github.com//NBISweden/AGAT/pull/446) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#445](https://github.com//NBISweden/AGAT/issues/445) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. ❗️ Closed issue [#445](https://github.com//NBISweden/AGAT/issues/445) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🗣 Commented on [#83](https://github.com//NBISweden/EMBLmyGFF3/issues/83) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+4. 🗣 Commented on [#444](https://github.com//NBISweden/AGAT/issues/444) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🎉 Merged PR [#447](https://github.com//NBISweden/AGAT/pull/447) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
