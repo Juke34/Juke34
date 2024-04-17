@@ -108,11 +108,11 @@ Recipes: RepeatModeler, RepeatMasker, Guessmylt, AGAT, EDTA, Recon, LTR_retrieve
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com//Cghlewis/ncme-data-cleaning-workshop/issues/1) in [Cghlewis/ncme-data-cleaning-workshop](https://github.com//Cghlewis/ncme-data-cleaning-workshop)
-2. 💪 Opened PR [#452](https://github.com//NBISweden/AGAT/pull/452) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🗣 Commented on [#360](https://github.com//NBISweden/AGAT/issues/360) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. ❗️ Reopened issue [#360](https://github.com//NBISweden/AGAT/issues/360) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🗣 Commented on [#450](https://github.com//NBISweden/AGAT/issues/450) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#1](https://github.com//Cghlewis/ncme-data-cleaning-workshop/issues/1) in [Cghlewis/ncme-data-cleaning-workshop](https://github.com//Cghlewis/ncme-data-cleaning-workshop)
+2. ❗️ Opened issue [#1](https://github.com//Cghlewis/ncme-data-cleaning-workshop/issues/1) in [Cghlewis/ncme-data-cleaning-workshop](https://github.com//Cghlewis/ncme-data-cleaning-workshop)
+3. 💪 Opened PR [#452](https://github.com//NBISweden/AGAT/pull/452) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🗣 Commented on [#360](https://github.com//NBISweden/AGAT/issues/360) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. ❗️ Reopened issue [#360](https://github.com//NBISweden/AGAT/issues/360) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
