@@ -109,10 +109,10 @@ Recipes: RepeatModeler, RepeatMasker, Guessmylt, AGAT, EDTA, Recon, LTR_retrieve
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#453](https://github.com//NBISweden/AGAT/issues/453) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 🗣 Commented on [#110](https://github.com//NBISweden/pipelines-nextflow/issues/110) in [NBISweden/pipelines-nextflow](https://github.com//NBISweden/pipelines-nextflow)
-3. 🗣 Commented on [#426](https://github.com//NBISweden/AGAT/issues/426) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🎉 Merged PR [#452](https://github.com//NBISweden/AGAT/pull/452) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🗣 Commented on [#1](https://github.com//Cghlewis/ncme-data-cleaning-workshop/issues/1) in [Cghlewis/ncme-data-cleaning-workshop](https://github.com//Cghlewis/ncme-data-cleaning-workshop)
+2. 🗣 Commented on [#453](https://github.com//NBISweden/AGAT/issues/453) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🗣 Commented on [#110](https://github.com//NBISweden/pipelines-nextflow/issues/110) in [NBISweden/pipelines-nextflow](https://github.com//NBISweden/pipelines-nextflow)
+4. 🗣 Commented on [#426](https://github.com//NBISweden/AGAT/issues/426) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🎉 Merged PR [#452](https://github.com//NBISweden/AGAT/pull/452) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
