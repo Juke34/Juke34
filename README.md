@@ -22,7 +22,7 @@
 - 🚀 I love developing workflows and coding
 - 🗨️ Ask me anything about:
     - Bioinformatics
-    - Annotation, Assembly
+    - Annotation, Assembly, Epitranscriptomics
     - GFF/GTF file formats
     - tools that I developed or in which I participated
 - 🚂 I'm a curious person and I like to help. 
