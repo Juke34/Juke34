@@ -110,11 +110,11 @@ Recipes: RepeatModeler, RepeatMasker, Guessmylt, AGAT, EDTA, Recon, LTR_retrieve
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com//mdozmorov/Bioinformatics_notes/pull/1) in [mdozmorov/Bioinformatics_notes](https://github.com//mdozmorov/Bioinformatics_notes)
-2. 🗣 Commented on [#45370](https://github.com//bioconda/bioconda-recipes/issues/45370) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-3. 🗣 Commented on [#426](https://github.com//NBISweden/AGAT/issues/426) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🗣 Commented on [#45370](https://github.com//bioconda/bioconda-recipes/issues/45370) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-5. 🗣 Commented on [#453](https://github.com//NBISweden/AGAT/issues/453) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#450](https://github.com//NBISweden/AGAT/issues/450) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🗣 Commented on [#453](https://github.com//NBISweden/AGAT/issues/453) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. ❗️ Closed issue [#453](https://github.com//NBISweden/AGAT/issues/453) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🗣 Commented on [#454](https://github.com//NBISweden/AGAT/issues/454) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. ❗️ Closed issue [#454](https://github.com//NBISweden/AGAT/issues/454) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
