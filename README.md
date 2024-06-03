@@ -110,11 +110,11 @@ Recipes: RepeatModeler, RepeatMasker, Guessmylt, AGAT, EDTA, Recon, LTR_retrieve
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#463](https://github.com//NBISweden/AGAT/pull/463) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 🗣 Commented on [#462](https://github.com//NBISweden/AGAT/issues/462) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🎉 Merged PR [#48108](https://github.com//bioconda/bioconda-recipes/pull/48108) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-4. 🗣 Commented on [#450](https://github.com//NBISweden/AGAT/issues/450) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🎉 Merged PR [#11](https://github.com//SouthGreenPlatform/staff-info/pull/11) in [SouthGreenPlatform/staff-info](https://github.com//SouthGreenPlatform/staff-info)
+1. ❗️ Closed issue [#458](https://github.com//NBISweden/AGAT/issues/458) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🎉 Merged PR [#463](https://github.com//NBISweden/AGAT/pull/463) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 💪 Opened PR [#463](https://github.com//NBISweden/AGAT/pull/463) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🗣 Commented on [#462](https://github.com//NBISweden/AGAT/issues/462) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🎉 Merged PR [#48108](https://github.com//bioconda/bioconda-recipes/pull/48108) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 <!--END_SECTION:activity-->
 
 </details>
