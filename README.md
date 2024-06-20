@@ -110,11 +110,11 @@ Recipes: RepeatModeler, RepeatMasker, Guessmylt, AGAT, EDTA, Recon, LTR_retrieve
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#400](https://github.com//NBISweden/AGAT/issues/400) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. ❗️ Closed issue [#400](https://github.com//NBISweden/AGAT/issues/400) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. ❗️ Closed issue [#401](https://github.com//NBISweden/AGAT/issues/401) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🎉 Merged PR [#466](https://github.com//NBISweden/AGAT/pull/466) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 💪 Opened PR [#466](https://github.com//NBISweden/AGAT/pull/466) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#468](https://github.com//NBISweden/AGAT/issues/468) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🗣 Commented on [#400](https://github.com//NBISweden/AGAT/issues/400) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. ❗️ Closed issue [#400](https://github.com//NBISweden/AGAT/issues/400) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. ❗️ Closed issue [#401](https://github.com//NBISweden/AGAT/issues/401) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🎉 Merged PR [#466](https://github.com//NBISweden/AGAT/pull/466) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
