@@ -33,6 +33,7 @@
 ### Tools (I developed or participated)
 
 * [AGAT](https://github.com/NBISweden/AGAT) Suite of tools to handle gene annotations in any GTF/GFF format.
+* [AliNe](https://github.com/Juke34/AliNe) A pipeline to automate alignment using the aligners of your choice (bowtie2, bwa aln, bwa mem, bwa sw, graphmap2, hisat2, minimap2, nucmer, star, star 2pass mode).
 * [EMBLmyGFF3](https://github.com/NBISweden/EMBLmyGFF3) A tool to converts an assembly in FASTA format along with associated annotation in GFF3 format into the EMBL flat file format which is the required format for submitting annotated assemblies to ENA. [Paper](https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-018-3686-x)
 * [GAAS](https://github.com/NBISweden/GAAS) Suite of tools related to Genome Assembly and Annotation tasks.
 * [GUESSmyLT](https://github.com/NBISweden/GUESSmyLT) A tool to guess the library type of your RNA-Seq data. [Paper](https://joss.theoj.org/papers/10.21105/joss.01344)
