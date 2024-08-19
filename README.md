@@ -111,11 +111,11 @@ Recipes: RepeatModeler, RepeatMasker, Guessmylt, AGAT, EDTA, Recon, LTR_retrieve
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#306](https://github.com//oschwengers/bakta/issues/306) in [oschwengers/bakta](https://github.com//oschwengers/bakta)
-2. ❗️ Closed issue [#306](https://github.com//oschwengers/bakta/issues/306) in [oschwengers/bakta](https://github.com//oschwengers/bakta)
-3. 🗣 Commented on [#476](https://github.com//NBISweden/AGAT/issues/476) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. ❗️ Opened issue [#306](https://github.com//oschwengers/bakta/issues/306) in [oschwengers/bakta](https://github.com//oschwengers/bakta)
-5. ❗️ Closed issue [#471](https://github.com//NBISweden/AGAT/issues/471) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#477](https://github.com//NBISweden/AGAT/issues/477) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🗣 Commented on [#306](https://github.com//oschwengers/bakta/issues/306) in [oschwengers/bakta](https://github.com//oschwengers/bakta)
+3. ❗️ Closed issue [#306](https://github.com//oschwengers/bakta/issues/306) in [oschwengers/bakta](https://github.com//oschwengers/bakta)
+4. 🗣 Commented on [#476](https://github.com//NBISweden/AGAT/issues/476) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. ❗️ Opened issue [#306](https://github.com//oschwengers/bakta/issues/306) in [oschwengers/bakta](https://github.com//oschwengers/bakta)
 <!--END_SECTION:activity-->
 
 </details>
