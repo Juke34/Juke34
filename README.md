@@ -111,11 +111,11 @@ Recipes: RepeatModeler, RepeatMasker, Guessmylt, AGAT, EDTA, Recon, LTR_retrieve
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45370](https://github.com//bioconda/bioconda-recipes/issues/45370) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-2. 🗣 Commented on [#477](https://github.com//NBISweden/AGAT/issues/477) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🗣 Commented on [#306](https://github.com//oschwengers/bakta/issues/306) in [oschwengers/bakta](https://github.com//oschwengers/bakta)
-4. ❗️ Closed issue [#306](https://github.com//oschwengers/bakta/issues/306) in [oschwengers/bakta](https://github.com//oschwengers/bakta)
-5. 🗣 Commented on [#476](https://github.com//NBISweden/AGAT/issues/476) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#345](https://github.com//bioperl/bioperl-live/issues/345) in [bioperl/bioperl-live](https://github.com//bioperl/bioperl-live)
+2. 🗣 Commented on [#45370](https://github.com//bioconda/bioconda-recipes/issues/45370) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+3. 🗣 Commented on [#45370](https://github.com//bioconda/bioconda-recipes/issues/45370) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+4. 🗣 Commented on [#477](https://github.com//NBISweden/AGAT/issues/477) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🗣 Commented on [#306](https://github.com//oschwengers/bakta/issues/306) in [oschwengers/bakta](https://github.com//oschwengers/bakta)
 <!--END_SECTION:activity-->
 
 </details>
