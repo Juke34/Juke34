@@ -111,11 +111,11 @@ Recipes: RepeatModeler, RepeatMasker, Guessmylt, AGAT, EDTA, Recon, LTR_retrieve
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com//SouthGreenPlatform/staff-info/pull/16) in [SouthGreenPlatform/staff-info](https://github.com//SouthGreenPlatform/staff-info)
-2. 💪 Opened PR [#16](https://github.com//SouthGreenPlatform/staff-info/pull/16) in [SouthGreenPlatform/staff-info](https://github.com//SouthGreenPlatform/staff-info)
-3. 🎉 Merged PR [#15](https://github.com//SouthGreenPlatform/staff-info/pull/15) in [SouthGreenPlatform/staff-info](https://github.com//SouthGreenPlatform/staff-info)
-4. 💪 Opened PR [#15](https://github.com//SouthGreenPlatform/staff-info/pull/15) in [SouthGreenPlatform/staff-info](https://github.com//SouthGreenPlatform/staff-info)
-5. 🎉 Merged PR [#14](https://github.com//SouthGreenPlatform/staff-info/pull/14) in [SouthGreenPlatform/staff-info](https://github.com//SouthGreenPlatform/staff-info)
+1. 🎉 Merged PR [#7](https://github.com//SouthGreenPlatform/rap-green/pull/7) in [SouthGreenPlatform/rap-green](https://github.com//SouthGreenPlatform/rap-green)
+2. ❗️ Closed issue [#5](https://github.com//SouthGreenPlatform/rap-green/issues/5) in [SouthGreenPlatform/rap-green](https://github.com//SouthGreenPlatform/rap-green)
+3. ❗️ Closed issue [#6](https://github.com//SouthGreenPlatform/rap-green/issues/6) in [SouthGreenPlatform/rap-green](https://github.com//SouthGreenPlatform/rap-green)
+4. 🎉 Merged PR [#16](https://github.com//SouthGreenPlatform/staff-info/pull/16) in [SouthGreenPlatform/staff-info](https://github.com//SouthGreenPlatform/staff-info)
+5. 💪 Opened PR [#16](https://github.com//SouthGreenPlatform/staff-info/pull/16) in [SouthGreenPlatform/staff-info](https://github.com//SouthGreenPlatform/staff-info)
 <!--END_SECTION:activity-->
 
 </details>
