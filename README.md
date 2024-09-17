@@ -112,11 +112,11 @@ Recipes: RepeatModeler, RepeatMasker, Guessmylt, AGAT, EDTA, Recon, LTR_retrieve
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#490](https://github.com//NBISweden/AGAT/pull/490) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 💪 Opened PR [#491](https://github.com//NBISweden/AGAT/pull/491) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🗣 Commented on [#275](https://github.com//NBISweden/AGAT/issues/275) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. ❗️ Closed issue [#486](https://github.com//NBISweden/AGAT/issues/486) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 💪 Opened PR [#490](https://github.com//NBISweden/AGAT/pull/490) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🎉 Merged PR [#1](https://github.com//Juke34/awesome-awesomeness-bioinformatics/pull/1) in [Juke34/awesome-awesomeness-bioinformatics](https://github.com//Juke34/awesome-awesomeness-bioinformatics)
+2. 🗣 Commented on [#1](https://github.com//Juke34/awesome-awesomeness-bioinformatics/issues/1) in [Juke34/awesome-awesomeness-bioinformatics](https://github.com//Juke34/awesome-awesomeness-bioinformatics)
+3. 🎉 Merged PR [#490](https://github.com//NBISweden/AGAT/pull/490) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 💪 Opened PR [#491](https://github.com//NBISweden/AGAT/pull/491) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🗣 Commented on [#275](https://github.com//NBISweden/AGAT/issues/275) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
