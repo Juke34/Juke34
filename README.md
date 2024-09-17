@@ -112,10 +112,10 @@ Recipes: RepeatModeler, RepeatMasker, Guessmylt, AGAT, EDTA, Recon, LTR_retrieve
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#275](https://github.com//NBISweden/AGAT/issues/275) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 🗣 Commented on [#474](https://github.com//NBISweden/AGAT/issues/474) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🗣 Commented on [#275](https://github.com//NBISweden/AGAT/issues/275) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🗣 Commented on [#457](https://github.com//NBISweden/AGAT/issues/457) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. ❗️ Closed issue [#307](https://github.com//NBISweden/AGAT/issues/307) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. ❗️ Closed issue [#486](https://github.com//NBISweden/AGAT/issues/486) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 💪 Opened PR [#490](https://github.com//NBISweden/AGAT/pull/490) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🗣 Commented on [#275](https://github.com//NBISweden/AGAT/issues/275) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🗣 Commented on [#474](https://github.com//NBISweden/AGAT/issues/474) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
