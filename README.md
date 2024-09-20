@@ -8,13 +8,21 @@
   <a href="">[![Twitter: jacquesdainat](https://img.shields.io/twitter/follow/jacquesdainat?style=social)](https://twitter.com/jacquesdainat)</a>
   <a href="">[![Mastodon: jacquesdainat](https://img.shields.io/mastodon/follow/109364780903162240?domain=https%3A%2F%2Fgenomic.social)](https://genomic.social/@jacquesdainat)</a>  
   <!-- <a href="">![](https://komarev.com/ghpvc/?username=Juke34&style=flat-square)</a>-->
-
 </div>
 
 <div style="float: right">
   <a href="https://github.com/Juke34/github-readme-stats" title="GitHub Readme Stats">
-    <img src="https://github-readme-stats.juke34.vercel.app/api?username=Juke34&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&hide=stars" width=45%" height="220" align="right" alt="github stats" />
+      <img src="https://github-readme-stats.juke34.vercel.app/api?username=Juke34&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&hide=stars" width=45%" height="220" align="right" alt="github stats" />
   </a>
+</div>
+
+<div align="center">
+  
+### Now Playing — Spotify 🎧
+      
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=keujmat&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=keujmat&redirect=true)
+    
+
 </div>
 
 ### :octocat: Personal
@@ -32,6 +40,9 @@
 
 ### Tools (I developed or participated)
 
+<details>
+  <summary>See here</summary>
+
 * [AGAT](https://github.com/NBISweden/AGAT) Suite of tools to handle gene annotations in any GTF/GFF format.
 * [AliNe](https://github.com/Juke34/AliNe) A pipeline to automate alignment using the aligners of your choice (bowtie2, bwa aln, bwa mem, bwa sw, graphmap2, hisat2, minimap2, nucmer, star, star 2pass mode).
 * [EMBLmyGFF3](https://github.com/NBISweden/EMBLmyGFF3) A tool to converts an assembly in FASTA format along with associated annotation in GFF3 format into the EMBL flat file format which is the required format for submitting annotated assemblies to ENA. [Paper](https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-018-3686-x)
@@ -44,8 +55,13 @@
 * [EDTA](https://github.com/oushujun/EDTA) The Extensive de novo TE Annotator (EDTA). [Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1905-y)
 * [baargin](https://github.com/jhayer/baargin) Bacterial Assembly and Antimicrobial Resistance Genes detection In NextFlow. [Paper](https://joss.theoj.org/papers/10.21105/joss.05397)
 
+</details>
+
 ### Teaching
 
+<details>
+  <summary>See here</summary>
+  
 * [Git](https://mivegec.pages.ird.fr/dainat/malbec-git/)
 * [Conda](https://mivegec.pages.ird.fr/dainat/malbec-conda/)
 * [Unix basics](https://mivegec.pages.ird.fr/dainat/malbec-unix-basics)
@@ -54,14 +70,21 @@
 * [Python](https://southgreenplatform.github.io/training_python/)
 * [Annotation](https://nbisweden.github.io/workshop-genome_annotation_elixir/)
 
-### Conda
+</details>
 
-Recipes: RepeatModeler, RepeatMasker, Guessmylt, AGAT, EDTA, Recon, LTR_retriever, Ninja, blast+ (rpsbproc), fingerprintscan, sfld, InterProScan, gaas, gepard, TEsorter, RapGreen, ninja-nj, Craq, etc.
+### Conda recipes
+
+<details>
+  <summary>See here</summary>
+  
+  I have been involved in the following recipes: RepeatModeler, RepeatMasker, Guessmylt, AGAT, EDTA, Recon, LTR_retriever, Ninja, blast+ (rpsbproc), fingerprintscan, sfld, InterProScan, gaas, gepard, TEsorter, RapGreen, ninja-nj, Craq, IPK, etc.
+
+</details>
 
 ### Others
 
 * [Awesome awesomeness bioinformatics](https://github.com/Juke34/awesome-awesomeness-bioinformatics) A list of awesome awesomeness related to bioinformatics and associated fields
-* [Awesome genome annotation ](https://juke34.github.io/awesome-genome-annotation/) Awesome genome/mitome/plastome/plastidome annotation tool list
+* [Awesome genome annotation](https://juke34.github.io/awesome-genome-annotation/) Awesome genome/mitome/plastome/plastidome annotation tool list
 * [Awesome bioinformatics community](https://github.com/Juke34/awesome-community-bioinformatics) A list of awesome bioinformatics communities
 * [Awesome bioinformatics blog](https://github.com/Juke34/awesome-blog-bioinformatics) A list of awesome bioinformatics blogs
 * [Coordinate_systems](https://github.com/Juke34/coordinate_systems) A cheat sheet about coordinate systems in bioinformatics
@@ -83,9 +106,7 @@ Recipes: RepeatModeler, RepeatMasker, Guessmylt, AGAT, EDTA, Recon, LTR_retrieve
   <a href="https://github.com/topics/macos" title="macos"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="linux macos" width="36" height="36" /></a>
   <a href="https://github.com/topics/linux" title="Linux"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux logo" width="36" height="36" /></a>
   <a href="https://github.com/topics/terminal" title="Terminal"><img src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" alt="terminal logo" width="36" height="36" /></a>
-  <a href="https://github.com/topics/sublime-text" title="Sublime Text"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" alt="sublime-text logo" width="36" height="36" /></a>
   <a href="https://github.com/topics/Visual_Studio_Code" title="VSCode"><img src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" alt="VSCode logo" width="36" height="36" /></a>
-  <a href="https://github.com/topics/atom" title="Atom"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" alt="atom logo" width="36" height="36" /></a>
   <a href="https://github.com/topics/Nextflow" title="Nextflow"><img src="https://github.com/nextflow-io/nextflow/raw/master/docs/_static/nextflow-logo-bg-dark.png" alt="nextflow logo" width="120" height="28" /></a>
   <a href="https://github.com/topics/snakemake" title="Snakemake"><img src="https://raw.githubusercontent.com/snakemake/snakemake/6fcdc8a22db5522e232638bff16da9b50996eb45/images/logo.svg" alt="snakemake logo" width="36" height="36" /></a>
   <a href="https://github.com/topics/bioconda" title="Bioconda"><img src="http://bioconda.github.io/_images/bioconda.png" alt="bioconda logo" width="120" height="22" /></a>
@@ -95,16 +116,6 @@ Recipes: RepeatModeler, RepeatMasker, Guessmylt, AGAT, EDTA, Recon, LTR_retrieve
     <a href="https://github.com/topics/singularity" title="singularity"><img src="https://insidehpc.com/wp-content/uploads/2017/05/singularity.jpg" alt="singularity logo" width="40" height="36" /></a>
   
 </p>
-
----
-
-### Now Playing — Spotify 🎧
-
-<div align="center">
-  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=keujmat&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=keujmat&redirect=true)
-
-</div>
 
 ---
 
