@@ -98,11 +98,13 @@ Recipes: RepeatModeler, RepeatMasker, Guessmylt, AGAT, EDTA, Recon, LTR_retrieve
 
 ---
 
-### 🎶 Now Playing
+### Now Playing — Spotify 🎧
 
-<p align="center">
-  <a href="https://open.spotify.com/user/keujmat" title="My Spotify profile"><img src="https://novatorem.juke34.vercel.app/api/spotify" alt="spotify player" width="51%" height="100%" /></a>
-</p>
+<div align="center">
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=keujmat&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=keujmat&redirect=true)
+
+</div>
 
 ---
 
