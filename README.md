@@ -125,11 +125,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1618](https://github.com//alexdobin/STAR/issues/1618) in [alexdobin/STAR](https://github.com//alexdobin/STAR)
-2. ❗️ Opened issue [#2867](https://github.com//MultiQC/MultiQC/issues/2867) in [MultiQC/MultiQC](https://github.com//MultiQC/MultiQC)
-3. ❗️ Opened issue [#2866](https://github.com//MultiQC/MultiQC/issues/2866) in [MultiQC/MultiQC](https://github.com//MultiQC/MultiQC)
-4. 🗣 Commented on [#492](https://github.com//NBISweden/AGAT/issues/492) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🗣 Commented on [#73](https://github.com//NBISweden/AGAT/issues/73) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#392](https://github.com//NBISweden/AGAT/issues/392) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🗣 Commented on [#1618](https://github.com//alexdobin/STAR/issues/1618) in [alexdobin/STAR](https://github.com//alexdobin/STAR)
+3. ❗️ Opened issue [#2867](https://github.com//MultiQC/MultiQC/issues/2867) in [MultiQC/MultiQC](https://github.com//MultiQC/MultiQC)
+4. ❗️ Opened issue [#2866](https://github.com//MultiQC/MultiQC/issues/2866) in [MultiQC/MultiQC](https://github.com//MultiQC/MultiQC)
+5. 🗣 Commented on [#492](https://github.com//NBISweden/AGAT/issues/492) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
