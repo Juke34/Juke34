@@ -125,11 +125,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#495](https://github.com//NBISweden/AGAT/issues/495) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 🗣 Commented on [#493](https://github.com//NBISweden/AGAT/issues/493) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🗣 Commented on [#392](https://github.com//NBISweden/AGAT/issues/392) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🗣 Commented on [#1618](https://github.com//alexdobin/STAR/issues/1618) in [alexdobin/STAR](https://github.com//alexdobin/STAR)
-5. ❗️ Opened issue [#2867](https://github.com//MultiQC/MultiQC/issues/2867) in [MultiQC/MultiQC](https://github.com//MultiQC/MultiQC)
+1. ❗️ Opened issue [#778](https://github.com//nf-core/ampliseq/issues/778) in [nf-core/ampliseq](https://github.com//nf-core/ampliseq)
+2. 🗣 Commented on [#495](https://github.com//NBISweden/AGAT/issues/495) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🗣 Commented on [#493](https://github.com//NBISweden/AGAT/issues/493) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🗣 Commented on [#392](https://github.com//NBISweden/AGAT/issues/392) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🗣 Commented on [#1618](https://github.com//alexdobin/STAR/issues/1618) in [alexdobin/STAR](https://github.com//alexdobin/STAR)
 <!--END_SECTION:activity-->
 
 </details>
