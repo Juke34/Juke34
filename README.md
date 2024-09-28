@@ -126,10 +126,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#497](https://github.com//NBISweden/AGAT/issues/497) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 🗣 Commented on [#778](https://github.com//nf-core/ampliseq/issues/778) in [nf-core/ampliseq](https://github.com//nf-core/ampliseq)
-3. ❗️ Closed issue [#778](https://github.com//nf-core/ampliseq/issues/778) in [nf-core/ampliseq](https://github.com//nf-core/ampliseq)
-4. 🗣 Commented on [#494](https://github.com//NBISweden/AGAT/issues/494) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. ❗️ Closed issue [#494](https://github.com//NBISweden/AGAT/issues/494) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🗣 Commented on [#497](https://github.com//NBISweden/AGAT/issues/497) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🗣 Commented on [#778](https://github.com//nf-core/ampliseq/issues/778) in [nf-core/ampliseq](https://github.com//nf-core/ampliseq)
+4. ❗️ Closed issue [#778](https://github.com//nf-core/ampliseq/issues/778) in [nf-core/ampliseq](https://github.com//nf-core/ampliseq)
+5. 🗣 Commented on [#494](https://github.com//NBISweden/AGAT/issues/494) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
