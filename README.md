@@ -126,10 +126,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#499](https://github.com//NBISweden/AGAT/issues/499) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 🗣 Commented on [#86](https://github.com//NBISweden/EMBLmyGFF3/issues/86) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
-3. ❗️ Closed issue [#498](https://github.com//NBISweden/AGAT/issues/498) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🗣 Commented on [#498](https://github.com//NBISweden/AGAT/issues/498) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🗣 Commented on [#34](https://github.com//jwdebelius/q2-sidle/issues/34) in [jwdebelius/q2-sidle](https://github.com//jwdebelius/q2-sidle)
+2. 🗣 Commented on [#499](https://github.com//NBISweden/AGAT/issues/499) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🗣 Commented on [#86](https://github.com//NBISweden/EMBLmyGFF3/issues/86) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+4. ❗️ Closed issue [#498](https://github.com//NBISweden/AGAT/issues/498) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🗣 Commented on [#498](https://github.com//NBISweden/AGAT/issues/498) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
