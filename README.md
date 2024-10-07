@@ -126,10 +126,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#501](https://github.com//NBISweden/AGAT/issues/501) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 🗣 Commented on [#501](https://github.com//NBISweden/AGAT/issues/501) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🗣 Commented on [#502](https://github.com//NBISweden/AGAT/issues/502) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 3. 🗣 Commented on [#501](https://github.com//NBISweden/AGAT/issues/501) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 4. 🗣 Commented on [#501](https://github.com//NBISweden/AGAT/issues/501) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🗣 Commented on [#500](https://github.com//oushujun/EDTA/issues/500) in [oushujun/EDTA](https://github.com//oushujun/EDTA)
+5. 🗣 Commented on [#501](https://github.com//NBISweden/AGAT/issues/501) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
