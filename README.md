@@ -132,10 +132,10 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#502](https://github.com//NBISweden/AGAT/issues/502) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 🗣 Commented on [#501](https://github.com//NBISweden/AGAT/issues/501) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🗣 Commented on [#502](https://github.com//NBISweden/AGAT/issues/502) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🗣 Commented on [#501](https://github.com//NBISweden/AGAT/issues/501) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 💪 Opened PR [#51](https://github.com//jhayer/baargin/pull/51) in [jhayer/baargin](https://github.com//jhayer/baargin)
+2. 🗣 Commented on [#502](https://github.com//NBISweden/AGAT/issues/502) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🗣 Commented on [#501](https://github.com//NBISweden/AGAT/issues/501) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🗣 Commented on [#502](https://github.com//NBISweden/AGAT/issues/502) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 5. 🗣 Commented on [#501](https://github.com//NBISweden/AGAT/issues/501) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
