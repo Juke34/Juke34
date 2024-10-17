@@ -132,11 +132,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#407](https://github.com//NBISweden/AGAT/issues/407) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#145](https://github.com//t-neumann/slamdunk/issues/145) in [t-neumann/slamdunk](https://github.com//t-neumann/slamdunk)
 2. 🗣 Commented on [#407](https://github.com//NBISweden/AGAT/issues/407) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 3. 🗣 Commented on [#407](https://github.com//NBISweden/AGAT/issues/407) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 💪 Opened PR [#51](https://github.com//jhayer/baargin/pull/51) in [jhayer/baargin](https://github.com//jhayer/baargin)
-5. 🗣 Commented on [#502](https://github.com//NBISweden/AGAT/issues/502) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🗣 Commented on [#407](https://github.com//NBISweden/AGAT/issues/407) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 💪 Opened PR [#51](https://github.com//jhayer/baargin/pull/51) in [jhayer/baargin](https://github.com//jhayer/baargin)
 <!--END_SECTION:activity-->
 
 </details>
