@@ -132,10 +132,10 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#505](https://github.com//NBISweden/AGAT/issues/505) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 🗣 Commented on [#505](https://github.com//NBISweden/AGAT/issues/505) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🗣 Commented on [#145](https://github.com//t-neumann/slamdunk/issues/145) in [t-neumann/slamdunk](https://github.com//t-neumann/slamdunk)
-4. 🗣 Commented on [#407](https://github.com//NBISweden/AGAT/issues/407) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#504](https://github.com//NBISweden/AGAT/issues/504) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. ❗️ Closed issue [#505](https://github.com//NBISweden/AGAT/issues/505) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🗣 Commented on [#505](https://github.com//NBISweden/AGAT/issues/505) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🗣 Commented on [#145](https://github.com//t-neumann/slamdunk/issues/145) in [t-neumann/slamdunk](https://github.com//t-neumann/slamdunk)
 5. 🗣 Commented on [#407](https://github.com//NBISweden/AGAT/issues/407) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
