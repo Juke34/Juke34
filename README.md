@@ -133,7 +133,7 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7348](https://github.com//openjournals/joss-reviews/issues/7348) in [openjournals/joss-reviews](https://github.com//openjournals/joss-reviews)
+1. 🗣 Commented on [#506](https://github.com//NBISweden/AGAT/issues/506) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 2. 🗣 Commented on [#7348](https://github.com//openjournals/joss-reviews/issues/7348) in [openjournals/joss-reviews](https://github.com//openjournals/joss-reviews)
 3. 🗣 Commented on [#7348](https://github.com//openjournals/joss-reviews/issues/7348) in [openjournals/joss-reviews](https://github.com//openjournals/joss-reviews)
 4. 🗣 Commented on [#7348](https://github.com//openjournals/joss-reviews/issues/7348) in [openjournals/joss-reviews](https://github.com//openjournals/joss-reviews)
