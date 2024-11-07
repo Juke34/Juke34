@@ -95,10 +95,12 @@
 * [Awesome genome annotation](https://juke34.github.io/awesome-genome-annotation/) Awesome genome/mitome/plastome/plastidome annotation tool list
 * [Awesome bioinformatics community](https://github.com/Juke34/awesome-community-bioinformatics) A list of awesome bioinformatics communities
 * [Awesome bioinformatics blog](https://github.com/Juke34/awesome-blog-bioinformatics) A list of awesome bioinformatics blogs
-* [Coordinate_systems](https://github.com/Juke34/coordinate_systems) A cheat sheet about coordinate systems in bioinformatics
-* [Library types](https://joss.theoj.org/papers/10.21105/joss.01344) Overview of the different library types in RNAseq
-* [Knowledge](https://juke34.github.io/knowledge/) My collection of cheat sheets / overviews / summaries
 * [BiTeN](https://github.com/Juke34/BiTeN) A Bioinformatics Nextflow Pipeline Template
+* [Coordinate_systems](https://github.com/Juke34/coordinate_systems) A cheat sheet about coordinate systems in bioinformatics
+* [fix-anaconda-licensing-issues](https://juke34.github.io/fix-anaconda-licensing-issues/en/)  A Practical Guide to avoid the pitfalls of the anaconda license
+* [Knowledge](https://juke34.github.io/knowledge/) My collection of cheat sheets / overviews / summaries
+* [Library types](https://joss.theoj.org/papers/10.21105/joss.01344) Overview of the different library types in RNAseq
+
 
 ---
 
