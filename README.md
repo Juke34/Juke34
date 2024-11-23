@@ -135,11 +135,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com//colindaven/awesome-pangenomes/pull/13) in [colindaven/awesome-pangenomes](https://github.com//colindaven/awesome-pangenomes)
-2. 🗣 Commented on [#508](https://github.com//NBISweden/AGAT/issues/508) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🗣 Commented on [#7348](https://github.com//openjournals/joss-reviews/issues/7348) in [openjournals/joss-reviews](https://github.com//openjournals/joss-reviews)
-4. 🗣 Commented on [#507](https://github.com//NBISweden/AGAT/issues/507) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🗣 Commented on [#457](https://github.com//NBISweden/AGAT/issues/457) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#508](https://github.com//NBISweden/AGAT/issues/508) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 💪 Opened PR [#13](https://github.com//colindaven/awesome-pangenomes/pull/13) in [colindaven/awesome-pangenomes](https://github.com//colindaven/awesome-pangenomes)
+3. 🗣 Commented on [#508](https://github.com//NBISweden/AGAT/issues/508) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🗣 Commented on [#7348](https://github.com//openjournals/joss-reviews/issues/7348) in [openjournals/joss-reviews](https://github.com//openjournals/joss-reviews)
+5. 🗣 Commented on [#507](https://github.com//NBISweden/AGAT/issues/507) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
