@@ -135,11 +135,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#52374](https://github.com//bioconda/bioconda-recipes/issues/52374) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-2. ❌ Closed PR [#52374](https://github.com//bioconda/bioconda-recipes/pull/52374) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+1. ❗️ Closed issue [#19813](https://github.com//bioconda/bioconda-recipes/issues/19813) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+2. 🗣 Commented on [#45370](https://github.com//bioconda/bioconda-recipes/issues/45370) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 3. 🗣 Commented on [#45370](https://github.com//bioconda/bioconda-recipes/issues/45370) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-4. 🗣 Commented on [#13](https://github.com//colindaven/awesome-pangenomes/issues/13) in [colindaven/awesome-pangenomes](https://github.com//colindaven/awesome-pangenomes)
-5. 🗣 Commented on [#508](https://github.com//NBISweden/AGAT/issues/508) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🗣 Commented on [#508](https://github.com//NBISweden/AGAT/issues/508) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🗣 Commented on [#52374](https://github.com//bioconda/bioconda-recipes/issues/52374) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 <!--END_SECTION:activity-->
 
 </details>
