@@ -135,11 +135,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#511](https://github.com//NBISweden/AGAT/issues/511) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 🗣 Commented on [#52404](https://github.com//bioconda/bioconda-recipes/issues/52404) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-3. 🗣 Commented on [#7545](https://github.com//openjournals/joss-reviews/issues/7545) in [openjournals/joss-reviews](https://github.com//openjournals/joss-reviews)
-4. 🗣 Commented on [#52404](https://github.com//bioconda/bioconda-recipes/issues/52404) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-5. 🎉 Merged PR [#52643](https://github.com//bioconda/bioconda-recipes/pull/52643) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+1. 🗣 Commented on [#52404](https://github.com//bioconda/bioconda-recipes/issues/52404) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+2. 🗣 Commented on [#511](https://github.com//NBISweden/AGAT/issues/511) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🗣 Commented on [#52404](https://github.com//bioconda/bioconda-recipes/issues/52404) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+4. 🗣 Commented on [#7545](https://github.com//openjournals/joss-reviews/issues/7545) in [openjournals/joss-reviews](https://github.com//openjournals/joss-reviews)
+5. 🗣 Commented on [#52404](https://github.com//bioconda/bioconda-recipes/issues/52404) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 <!--END_SECTION:activity-->
 
 </details>
