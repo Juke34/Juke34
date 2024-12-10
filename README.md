@@ -89,17 +89,44 @@
 
 </details>
 
-### Others
+### Cheat sheets
+
+* [Bash cheat sheet](https://juke34.github.io/knowledge/programming/bash/bash_cheat_sheet/) A cheat sheet about bash
+* [Git cheat sheet](https://juke34.github.io/knowledge/programming/git/git/#tagging) A cheat sheet about Git
+* [Screen Cheat Sheet](https://juke34.github.io/knowledge/cluster/screen/) A cheat sheet about Screen
+* [Coordinate_systems](https://github.com/Juke34/coordinate_systems) A cheat sheet about coordinate systems in bioinformatics
+
+### Reviews
+
+* [Library types](https://joss.theoj.org/papers/10.21105/joss.01344) Overview of the different library types in RNAseq
+* [GTF/GFF review](https://nbisweden.github.io/AGAT/gxf/) Extensive review of the GTF/GFF formats
+* [Topological sorting of gff features](https://nbisweden.github.io/AGAT/topological-sorting-of-gff-features/) A review of GFF/GTF features sorting in different tools
+* [GFF to BED conversion](https://nbisweden.github.io/AGAT/gff_to_bed/) A review of different tools to perform GFF to BED conversion
+* [GFF to GTF conversion](https://nbisweden.github.io/AGAT/gff_to_gtf/) A review of different tools to perform GFF to GTF conversion
+* [Split a FASTA file](https://juke34.github.io/knowledge/bioinformatics/format/handling/split_fasta/) A review of different tools to split fasta
+* [The CIGAR string](https://juke34.github.io/knowledge/bioinformatics/format/specification/cigar/) A review the CIGAR string format
+* [Phasing genome assembly with Falcon](https://www.biostars.org/p/426259/) Overview on phasing genome assembly with Falcon
+
+
+### Awesomeness
 
 * [Awesome awesomeness bioinformatics](https://github.com/Juke34/awesome-awesomeness-bioinformatics) A list of awesome awesomeness related to bioinformatics and associated fields
 * [Awesome genome annotation](https://juke34.github.io/awesome-genome-annotation/) Awesome genome/mitome/plastome/plastidome annotation tool list
 * [Awesome bioinformatics community](https://github.com/Juke34/awesome-community-bioinformatics) A list of awesome bioinformatics communities
 * [Awesome bioinformatics blog](https://github.com/Juke34/awesome-blog-bioinformatics) A list of awesome bioinformatics blogs
+
+### Tutorials
+
+* [Gene selection for abinitio tool training ](https://www.biostars.org/p/394385/#9542649) A tutorial on gene set filter/selection for training ab initio annotation tools
+* [Training GeneMark-EP](https://www.biostars.org/p/420356/) A tutorial on raining GeneMark-EP+ ab-initio tool
+* [De novo repeat library creation](https://www.biostars.org/p/411101/) A tutorial about creating de novo repeat library 
+* [fix-anaconda-licensing-issues](https://juke34.github.io/fix-anaconda-licensing-issues/en/) A Practical Guide to avoid the pitfalls of the anaconda license
+
+### Others
+
 * [BiTeN](https://github.com/Juke34/BiTeN) A Bioinformatics Nextflow Pipeline Template
-* [Coordinate_systems](https://github.com/Juke34/coordinate_systems) A cheat sheet about coordinate systems in bioinformatics
-* [fix-anaconda-licensing-issues](https://juke34.github.io/fix-anaconda-licensing-issues/en/)  A Practical Guide to avoid the pitfalls of the anaconda license
-* [Knowledge](https://juke34.github.io/knowledge/) My collection of cheat sheets / overviews / summaries
-* [Library types](https://joss.theoj.org/papers/10.21105/joss.01344) Overview of the different library types in RNAseq
+* [Knowledge](https://juke34.github.io/knowledge/) My collection of cheat sheets / overviews / summaries and more
+
 
 
 ---
