@@ -135,11 +135,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com//Juke34/RADO_members/pull/7) in [Juke34/RADO_members](https://github.com//Juke34/RADO_members)
-2. 🎉 Merged PR [#4](https://github.com//Juke34/RADO_members/pull/4) in [Juke34/RADO_members](https://github.com//Juke34/RADO_members)
-3. 🎉 Merged PR [#6](https://github.com//Juke34/RADO_members/pull/6) in [Juke34/RADO_members](https://github.com//Juke34/RADO_members)
-4. 💪 Opened PR [#2](https://github.com//Juke34/RADO_members/pull/2) in [Juke34/RADO_members](https://github.com//Juke34/RADO_members)
-5. 🎉 Merged PR [#1](https://github.com//Juke34/RADO_members/pull/1) in [Juke34/RADO_members](https://github.com//Juke34/RADO_members)
+1. 🎉 Merged PR [#2](https://github.com//Juke34/RADO_members/pull/2) in [Juke34/RADO_members](https://github.com//Juke34/RADO_members)
+2. 🎉 Merged PR [#7](https://github.com//Juke34/RADO_members/pull/7) in [Juke34/RADO_members](https://github.com//Juke34/RADO_members)
+3. 🎉 Merged PR [#4](https://github.com//Juke34/RADO_members/pull/4) in [Juke34/RADO_members](https://github.com//Juke34/RADO_members)
+4. 🎉 Merged PR [#6](https://github.com//Juke34/RADO_members/pull/6) in [Juke34/RADO_members](https://github.com//Juke34/RADO_members)
+5. 💪 Opened PR [#2](https://github.com//Juke34/RADO_members/pull/2) in [Juke34/RADO_members](https://github.com//Juke34/RADO_members)
 <!--END_SECTION:activity-->
 
 </details>
