@@ -135,11 +135,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com//Juke34/RADO_members/pull/1) in [Juke34/RADO_members](https://github.com//Juke34/RADO_members)
-2. 🗣 Commented on [#1](https://github.com//conda-forge/perl-clone-feedstock/issues/1) in [conda-forge/perl-clone-feedstock](https://github.com//conda-forge/perl-clone-feedstock)
-3. 🗣 Commented on [#52404](https://github.com//bioconda/bioconda-recipes/issues/52404) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-4. 🗣 Commented on [#511](https://github.com//NBISweden/AGAT/issues/511) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🗣 Commented on [#52404](https://github.com//bioconda/bioconda-recipes/issues/52404) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+1. 🎉 Merged PR [#1](https://github.com//Juke34/RADO_members/pull/1) in [Juke34/RADO_members](https://github.com//Juke34/RADO_members)
+2. 💪 Opened PR [#1](https://github.com//Juke34/RADO_members/pull/1) in [Juke34/RADO_members](https://github.com//Juke34/RADO_members)
+3. 🗣 Commented on [#1](https://github.com//conda-forge/perl-clone-feedstock/issues/1) in [conda-forge/perl-clone-feedstock](https://github.com//conda-forge/perl-clone-feedstock)
+4. 🗣 Commented on [#52404](https://github.com//bioconda/bioconda-recipes/issues/52404) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+5. 🗣 Commented on [#511](https://github.com//NBISweden/AGAT/issues/511) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
