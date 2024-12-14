@@ -176,9 +176,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#512](https://github.com//NBISweden/AGAT/issues/512) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 2. 🗣 Commented on [#512](https://github.com//NBISweden/AGAT/issues/512) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🗣 Commented on [#14](https://github.com//Juke34/RADO_members/issues/14) in [Juke34/RADO_members](https://github.com//Juke34/RADO_members)
-4. ❗️ Closed issue [#14](https://github.com//Juke34/RADO_members/issues/14) in [Juke34/RADO_members](https://github.com//Juke34/RADO_members)
-5. 🗣 Commented on [#52404](https://github.com//bioconda/bioconda-recipes/issues/52404) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+3. 🗣 Commented on [#512](https://github.com//NBISweden/AGAT/issues/512) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🗣 Commented on [#14](https://github.com//Juke34/RADO_members/issues/14) in [Juke34/RADO_members](https://github.com//Juke34/RADO_members)
+5. ❗️ Closed issue [#14](https://github.com//Juke34/RADO_members/issues/14) in [Juke34/RADO_members](https://github.com//Juke34/RADO_members)
 <!--END_SECTION:activity-->
 
 </details>
