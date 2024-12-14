@@ -175,10 +175,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#512](https://github.com//NBISweden/AGAT/issues/512) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 🗣 Commented on [#512](https://github.com//NBISweden/AGAT/issues/512) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🗣 Commented on [#512](https://github.com//NBISweden/AGAT/issues/512) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🗣 Commented on [#14](https://github.com//Juke34/RADO_members/issues/14) in [Juke34/RADO_members](https://github.com//Juke34/RADO_members)
-5. ❗️ Closed issue [#14](https://github.com//Juke34/RADO_members/issues/14) in [Juke34/RADO_members](https://github.com//Juke34/RADO_members)
+2. 💪 Opened PR [#515](https://github.com//NBISweden/AGAT/pull/515) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🗣 Commented on [#514](https://github.com//NBISweden/AGAT/issues/514) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🎉 Merged PR [#514](https://github.com//NBISweden/AGAT/pull/514) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🗣 Commented on [#512](https://github.com//NBISweden/AGAT/issues/512) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
