@@ -174,11 +174,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//Juke34/AliNe/pull/1) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-2. 🗣 Commented on [#517](https://github.com//NBISweden/AGAT/issues/517) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🗣 Commented on [#516](https://github.com//NBISweden/AGAT/issues/516) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🗣 Commented on [#513](https://github.com//NBISweden/AGAT/issues/513) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🗣 Commented on [#512](https://github.com//NBISweden/AGAT/issues/512) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#1](https://github.com//Juke34/AliNe/issues/1) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+2. 🎉 Merged PR [#1](https://github.com//Juke34/AliNe/pull/1) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+3. 🗣 Commented on [#517](https://github.com//NBISweden/AGAT/issues/517) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🗣 Commented on [#516](https://github.com//NBISweden/AGAT/issues/516) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🗣 Commented on [#513](https://github.com//NBISweden/AGAT/issues/513) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
