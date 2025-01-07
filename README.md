@@ -174,11 +174,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#512](https://github.com//NBISweden/AGAT/issues/512) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 🎉 Merged PR [#515](https://github.com//NBISweden/AGAT/pull/515) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🎉 Merged PR [#15](https://github.com//Juke34/RADO_members/pull/15) in [Juke34/RADO_members](https://github.com//Juke34/RADO_members)
-4. 🗣 Commented on [#15](https://github.com//Juke34/RADO_members/issues/15) in [Juke34/RADO_members](https://github.com//Juke34/RADO_members)
-5. 🗣 Commented on [#2](https://github.com//Juke34/AliNe/issues/2) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+1. 🗣 Commented on [#515](https://github.com//NBISweden/AGAT/issues/515) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. ❗️ Closed issue [#512](https://github.com//NBISweden/AGAT/issues/512) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🎉 Merged PR [#515](https://github.com//NBISweden/AGAT/pull/515) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🎉 Merged PR [#15](https://github.com//Juke34/RADO_members/pull/15) in [Juke34/RADO_members](https://github.com//Juke34/RADO_members)
+5. 🗣 Commented on [#15](https://github.com//Juke34/RADO_members/issues/15) in [Juke34/RADO_members](https://github.com//Juke34/RADO_members)
 <!--END_SECTION:activity-->
 
 </details>
