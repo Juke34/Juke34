@@ -174,11 +174,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com//Juke34/RADO_members/issues/15) in [Juke34/RADO_members](https://github.com//Juke34/RADO_members)
-2. 🗣 Commented on [#2](https://github.com//Juke34/AliNe/issues/2) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-3. 🗣 Commented on [#1](https://github.com//Juke34/AliNe/issues/1) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-4. 🎉 Merged PR [#1](https://github.com//Juke34/AliNe/pull/1) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-5. 🗣 Commented on [#517](https://github.com//NBISweden/AGAT/issues/517) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🎉 Merged PR [#15](https://github.com//Juke34/RADO_members/pull/15) in [Juke34/RADO_members](https://github.com//Juke34/RADO_members)
+2. 🗣 Commented on [#15](https://github.com//Juke34/RADO_members/issues/15) in [Juke34/RADO_members](https://github.com//Juke34/RADO_members)
+3. 🗣 Commented on [#2](https://github.com//Juke34/AliNe/issues/2) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+4. 🗣 Commented on [#1](https://github.com//Juke34/AliNe/issues/1) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+5. 🎉 Merged PR [#1](https://github.com//Juke34/AliNe/pull/1) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
 <!--END_SECTION:activity-->
 
 </details>
