@@ -174,11 +174,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#516](https://github.com//NBISweden/AGAT/issues/516) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. ❗️ Closed issue [#516](https://github.com//NBISweden/AGAT/issues/516) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🎉 Merged PR [#518](https://github.com//NBISweden/AGAT/pull/518) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🗣 Commented on [#3](https://github.com//Juke34/AliNe/issues/3) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-5. ❗️ Closed issue [#511](https://github.com//NBISweden/AGAT/issues/511) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#7545](https://github.com//openjournals/joss-reviews/issues/7545) in [openjournals/joss-reviews](https://github.com//openjournals/joss-reviews)
+2. 🗣 Commented on [#5](https://github.com//Juke34/AliNe/issues/5) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+3. 🗣 Commented on [#4](https://github.com//Juke34/AliNe/issues/4) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+4. 🗣 Commented on [#7545](https://github.com//openjournals/joss-reviews/issues/7545) in [openjournals/joss-reviews](https://github.com//openjournals/joss-reviews)
+5. 🗣 Commented on [#516](https://github.com//NBISweden/AGAT/issues/516) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
