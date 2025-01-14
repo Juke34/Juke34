@@ -174,11 +174,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com//Juke34/AliNe/issues/7) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-2. ❗️ Closed issue [#9](https://github.com//Juke34/AliNe/issues/9) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-3. 🎉 Merged PR [#6](https://github.com//Juke34/AliNe/pull/6) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-4. 🗣 Commented on [#7545](https://github.com//openjournals/joss-reviews/issues/7545) in [openjournals/joss-reviews](https://github.com//openjournals/joss-reviews)
-5. 🗣 Commented on [#5](https://github.com//Juke34/AliNe/issues/5) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+1. ❗️ Closed issue [#8](https://github.com//Juke34/AliNe/issues/8) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+2. ❗️ Closed issue [#7](https://github.com//Juke34/AliNe/issues/7) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+3. ❗️ Closed issue [#9](https://github.com//Juke34/AliNe/issues/9) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+4. 🎉 Merged PR [#6](https://github.com//Juke34/AliNe/pull/6) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+5. 🗣 Commented on [#7545](https://github.com//openjournals/joss-reviews/issues/7545) in [openjournals/joss-reviews](https://github.com//openjournals/joss-reviews)
 <!--END_SECTION:activity-->
 
 </details>
