@@ -174,11 +174,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com//Juke34/AliNe/pull/13) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-2. 🗣 Commented on [#11](https://github.com//Juke34/AliNe/issues/11) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-3. 🗣 Commented on [#12](https://github.com//Juke34/AliNe/issues/12) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-4. 🗣 Commented on [#5](https://github.com//Juke34/AliNe/issues/5) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-5. ❗️ Closed issue [#8](https://github.com//Juke34/AliNe/issues/8) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+1. 🎉 Merged PR [#14](https://github.com//Juke34/AliNe/pull/14) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+2. 💪 Opened PR [#13](https://github.com//Juke34/AliNe/pull/13) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+3. 🗣 Commented on [#11](https://github.com//Juke34/AliNe/issues/11) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+4. 🗣 Commented on [#12](https://github.com//Juke34/AliNe/issues/12) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+5. 🗣 Commented on [#5](https://github.com//Juke34/AliNe/issues/5) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
 <!--END_SECTION:activity-->
 
 </details>
