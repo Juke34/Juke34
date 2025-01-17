@@ -103,6 +103,7 @@
 
 <details>
   <summary>See here</summary>
+  
 * [Library types](https://joss.theoj.org/papers/10.21105/joss.01344) Overview of the different library types in RNAseq
 * [GTF/GFF review](https://nbisweden.github.io/AGAT/gxf/) Extensive review of the GTF/GFF formats
 * [Topological sorting of gff features](https://nbisweden.github.io/AGAT/topological-sorting-of-gff-features/) A review of GFF/GTF features sorting in different tools
@@ -117,6 +118,7 @@
 
 <details>
   <summary>See here</summary>
+  
 * [Awesome awesomeness bioinformatics](https://github.com/Juke34/awesome-awesomeness-bioinformatics) A list of awesome awesomeness related to bioinformatics and associated fields
 * [Awesome genome annotation](https://juke34.github.io/awesome-genome-annotation/) Awesome genome/mitome/plastome/plastidome annotation tool list
 * [Awesome bioinformatics community](https://github.com/Juke34/awesome-community-bioinformatics) A list of awesome bioinformatics communities
@@ -127,6 +129,7 @@
 
 <details>
   <summary>See here</summary>
+  
 * [Gene selection for abinitio tool training ](https://www.biostars.org/p/394385/#9542649) A tutorial on gene set filter/selection for training ab initio annotation tools
 * [Training GeneMark-EP](https://www.biostars.org/p/420356/) A tutorial on raining GeneMark-EP+ ab-initio tool
 * [De novo repeat library creation](https://www.biostars.org/p/411101/) A tutorial about creating de novo repeat library 
@@ -137,6 +140,7 @@
 
 <details>
   <summary>See here</summary>
+  
 * [BiTeN](https://github.com/Juke34/BiTeN) A Bioinformatics Nextflow Pipeline Template
 * [Knowledge](https://juke34.github.io/knowledge/) My collection of cheat sheets / overviews / summaries and more
 </details>
