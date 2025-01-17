@@ -93,6 +93,7 @@
 
 <details>
   <summary>See here</summary>
+  
 * [Bash cheat sheet](https://juke34.github.io/knowledge/programming/bash/bash_cheat_sheet/) A cheat sheet about bash
 * [Git cheat sheet](https://juke34.github.io/knowledge/programming/git/git/#tagging) A cheat sheet about Git
 * [Screen Cheat Sheet](https://juke34.github.io/knowledge/cluster/screen/) A cheat sheet about Screen
