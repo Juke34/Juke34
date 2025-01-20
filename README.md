@@ -179,11 +179,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com//Juke34/AliNe/pull/16) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-2. 💪 Opened PR [#16](https://github.com//Juke34/AliNe/pull/16) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-3. 🗣 Commented on [#7545](https://github.com//openjournals/joss-reviews/issues/7545) in [openjournals/joss-reviews](https://github.com//openjournals/joss-reviews)
+1. 💪 Opened PR [#519](https://github.com//NBISweden/AGAT/pull/519) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🎉 Merged PR [#16](https://github.com//Juke34/AliNe/pull/16) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+3. 💪 Opened PR [#16](https://github.com//Juke34/AliNe/pull/16) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
 4. 🗣 Commented on [#7545](https://github.com//openjournals/joss-reviews/issues/7545) in [openjournals/joss-reviews](https://github.com//openjournals/joss-reviews)
-5. ❗️ Closed issue [#5](https://github.com//Juke34/AliNe/issues/5) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+5. 🗣 Commented on [#7545](https://github.com//openjournals/joss-reviews/issues/7545) in [openjournals/joss-reviews](https://github.com//openjournals/joss-reviews)
 <!--END_SECTION:activity-->
 
 </details>
