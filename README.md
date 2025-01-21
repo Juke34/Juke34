@@ -10,7 +10,7 @@
 <div align="center">
   
   <a href="">[![GitHub Juke34](https://img.shields.io/github/followers/Juke34?label=follow&style=social)](https://github.com/Juke34)</a>
-  <a href="">[![Twitter: jacquesdainat](https://img.shields.io/twitter/follow/jacquesdainat?style=social)](https://twitter.com/jacquesdainat)</a>
+  <a href="">[![Twitter: jacquesdainat](https://img.shields.io/badge/bluesky-Follow-blue?logo=bluesky)](https://bsky.app/profile/jacquesdainat.bsky.social)</a>
   <a href="">[![Mastodon: jacquesdainat](https://img.shields.io/mastodon/follow/109364780903162240?domain=https%3A%2F%2Fgenomic.social)](https://genomic.social/@jacquesdainat)</a>  
   <!-- <a href="">![](https://komarev.com/ghpvc/?username=Juke34&style=flat-square)</a>-->
 </div>
