@@ -179,11 +179,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#20](https://github.com//Juke34/AliNe/issues/20) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-2. 💪 Opened PR [#354](https://github.com//nextflow-io/website/pull/354) in [nextflow-io/website](https://github.com//nextflow-io/website)
-3. 🗣 Commented on [#18](https://github.com//Juke34/AliNe/issues/18) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-4. 🗣 Commented on [#20](https://github.com//Juke34/AliNe/issues/20) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-5. 🗣 Commented on [#7545](https://github.com//openjournals/joss-reviews/issues/7545) in [openjournals/joss-reviews](https://github.com//openjournals/joss-reviews)
+1. 🗣 Commented on [#7545](https://github.com//openjournals/joss-reviews/issues/7545) in [openjournals/joss-reviews](https://github.com//openjournals/joss-reviews)
+2. ❗️ Closed issue [#20](https://github.com//Juke34/AliNe/issues/20) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+3. 💪 Opened PR [#354](https://github.com//nextflow-io/website/pull/354) in [nextflow-io/website](https://github.com//nextflow-io/website)
+4. 🗣 Commented on [#18](https://github.com//Juke34/AliNe/issues/18) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+5. 🗣 Commented on [#20](https://github.com//Juke34/AliNe/issues/20) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
 <!--END_SECTION:activity-->
 
 </details>
