@@ -180,10 +180,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#524](https://github.com//NBISweden/AGAT/issues/524) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 🗣 Commented on [#522](https://github.com//NBISweden/AGAT/issues/522) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 💪 Opened PR [#3040](https://github.com//nf-core/website/pull/3040) in [nf-core/website](https://github.com//nf-core/website)
-4. 🗣 Commented on [#354](https://github.com//nextflow-io/website/issues/354) in [nextflow-io/website](https://github.com//nextflow-io/website)
-5. 🗣 Commented on [#21](https://github.com//Juke34/AliNe/issues/21) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+2. 🗣 Commented on [#524](https://github.com//NBISweden/AGAT/issues/524) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🗣 Commented on [#522](https://github.com//NBISweden/AGAT/issues/522) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 💪 Opened PR [#3040](https://github.com//nf-core/website/pull/3040) in [nf-core/website](https://github.com//nf-core/website)
+5. 🗣 Commented on [#354](https://github.com//nextflow-io/website/issues/354) in [nextflow-io/website](https://github.com//nextflow-io/website)
 <!--END_SECTION:activity-->
 
 </details>
