@@ -179,11 +179,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com//Juke34/AliNe/pull/28) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-2. 💪 Opened PR [#28](https://github.com//Juke34/AliNe/pull/28) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+1. 🎉 Merged PR [#521](https://github.com//NBISweden/AGAT/pull/521) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🎉 Merged PR [#525](https://github.com//NBISweden/AGAT/pull/525) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 3. 🗣 Commented on [#526](https://github.com//NBISweden/AGAT/issues/526) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🗣 Commented on [#521](https://github.com//NBISweden/AGAT/issues/521) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 💪 Opened PR [#525](https://github.com//NBISweden/AGAT/pull/525) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🎉 Merged PR [#28](https://github.com//Juke34/AliNe/pull/28) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+5. 💪 Opened PR [#28](https://github.com//Juke34/AliNe/pull/28) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
 <!--END_SECTION:activity-->
 
 </details>
