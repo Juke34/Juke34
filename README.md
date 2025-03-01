@@ -180,10 +180,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#21](https://github.com//Juke34/AliNe/issues/21) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-2. ❗️ Closed issue [#21](https://github.com//Juke34/AliNe/issues/21) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-3. ❗️ Closed issue [#500](https://github.com//NBISweden/AGAT/issues/500) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. ❗️ Closed issue [#513](https://github.com//NBISweden/AGAT/issues/513) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. ❗️ Closed issue [#492](https://github.com//NBISweden/AGAT/issues/492) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🗣 Commented on [#21](https://github.com//Juke34/AliNe/issues/21) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+3. ❗️ Closed issue [#21](https://github.com//Juke34/AliNe/issues/21) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+4. ❗️ Closed issue [#500](https://github.com//NBISweden/AGAT/issues/500) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. ❗️ Closed issue [#513](https://github.com//NBISweden/AGAT/issues/513) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
