@@ -183,9 +183,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7545](https://github.com//openjournals/joss-reviews/issues/7545) in [openjournals/joss-reviews](https://github.com//openjournals/joss-reviews)
 2. 🗣 Commented on [#7545](https://github.com//openjournals/joss-reviews/issues/7545) in [openjournals/joss-reviews](https://github.com//openjournals/joss-reviews)
-3. 🎉 Merged PR [#29](https://github.com//Juke34/AliNe/pull/29) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+3. 🗣 Commented on [#7545](https://github.com//openjournals/joss-reviews/issues/7545) in [openjournals/joss-reviews](https://github.com//openjournals/joss-reviews)
 4. 🗣 Commented on [#7545](https://github.com//openjournals/joss-reviews/issues/7545) in [openjournals/joss-reviews](https://github.com//openjournals/joss-reviews)
-5. 🗣 Commented on [#7545](https://github.com//openjournals/joss-reviews/issues/7545) in [openjournals/joss-reviews](https://github.com//openjournals/joss-reviews)
+5. 🎉 Merged PR [#29](https://github.com//Juke34/AliNe/pull/29) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
 <!--END_SECTION:activity-->
 
 </details>
