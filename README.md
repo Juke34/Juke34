@@ -181,11 +181,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7545](https://github.com//openjournals/joss-reviews/issues/7545) in [openjournals/joss-reviews](https://github.com//openjournals/joss-reviews)
-2. 🗣 Commented on [#1](https://github.com//Juke34/fix-anaconda-licensing-issues/issues/1) in [Juke34/fix-anaconda-licensing-issues](https://github.com//Juke34/fix-anaconda-licensing-issues)
-3. 🗣 Commented on [#531](https://github.com//NBISweden/AGAT/issues/531) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. ❗️ Opened issue [#6](https://github.com//UPPMAX/jobstats/issues/6) in [UPPMAX/jobstats](https://github.com//UPPMAX/jobstats)
-5. 🗣 Commented on [#7545](https://github.com//openjournals/joss-reviews/issues/7545) in [openjournals/joss-reviews](https://github.com//openjournals/joss-reviews)
+1. 🎉 Merged PR [#31](https://github.com//Juke34/AliNe/pull/31) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+2. 💪 Opened PR [#31](https://github.com//Juke34/AliNe/pull/31) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+3. 🗣 Commented on [#7545](https://github.com//openjournals/joss-reviews/issues/7545) in [openjournals/joss-reviews](https://github.com//openjournals/joss-reviews)
+4. 🗣 Commented on [#1](https://github.com//Juke34/fix-anaconda-licensing-issues/issues/1) in [Juke34/fix-anaconda-licensing-issues](https://github.com//Juke34/fix-anaconda-licensing-issues)
+5. 🗣 Commented on [#531](https://github.com//NBISweden/AGAT/issues/531) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
