@@ -181,11 +181,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com//Juke34/fix-anaconda-licensing-issues/issues/1) in [Juke34/fix-anaconda-licensing-issues](https://github.com//Juke34/fix-anaconda-licensing-issues)
-2. ❗️ Closed issue [#531](https://github.com//NBISweden/AGAT/issues/531) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🎉 Merged PR [#532](https://github.com//NBISweden/AGAT/pull/532) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🗣 Commented on [#530](https://github.com//NBISweden/AGAT/issues/530) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 💪 Opened PR [#532](https://github.com//NBISweden/AGAT/pull/532) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 💪 Opened PR [#32](https://github.com//Juke34/AliNe/pull/32) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+2. 🗣 Commented on [#1](https://github.com//Juke34/fix-anaconda-licensing-issues/issues/1) in [Juke34/fix-anaconda-licensing-issues](https://github.com//Juke34/fix-anaconda-licensing-issues)
+3. ❗️ Closed issue [#531](https://github.com//NBISweden/AGAT/issues/531) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🎉 Merged PR [#532](https://github.com//NBISweden/AGAT/pull/532) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🗣 Commented on [#530](https://github.com//NBISweden/AGAT/issues/530) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
