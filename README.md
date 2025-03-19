@@ -1,7 +1,8 @@
 
 <div align=center >
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+hey+👋%2C+I'm+Jacques+Dainat.;Senior+Bioinformatician."
-/> <img src="https://media.giphy.com/media/6Nk9AFUDuPHgXp31xT/giphy.gif" width="50">
+/> <img src="https://media.giphy.com/media/6Nk9AFUDuPHgXp31xT/giphy.gif" width="50"><br>
+<img src="img/MB.png" align="center" width="200" height="77" />
 </div>
 
 <h3 align="center"> <em>Research engineer in Bioinformatics <a href="https://www.ird.fr">IRD</a> at Montpellier France</em></h3>
