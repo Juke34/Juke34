@@ -181,11 +181,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#34](https://github.com//Juke34/AliNe/pull/34) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-2. 🎉 Merged PR [#2](https://github.com//Juke34/awesome-awesomeness-bioinformatics/pull/2) in [Juke34/awesome-awesomeness-bioinformatics](https://github.com//Juke34/awesome-awesomeness-bioinformatics)
-3. 🗣 Commented on [#2](https://github.com//Juke34/awesome-awesomeness-bioinformatics/issues/2) in [Juke34/awesome-awesomeness-bioinformatics](https://github.com//Juke34/awesome-awesomeness-bioinformatics)
-4. 🎉 Merged PR [#32](https://github.com//Juke34/AliNe/pull/32) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-5. ❗️ Closed issue [#1](https://github.com//Juke34/fix-anaconda-licensing-issues/issues/1) in [Juke34/fix-anaconda-licensing-issues](https://github.com//Juke34/fix-anaconda-licensing-issues)
+1. 🎉 Merged PR [#34](https://github.com//Juke34/AliNe/pull/34) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+2. 💪 Opened PR [#34](https://github.com//Juke34/AliNe/pull/34) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+3. 🎉 Merged PR [#2](https://github.com//Juke34/awesome-awesomeness-bioinformatics/pull/2) in [Juke34/awesome-awesomeness-bioinformatics](https://github.com//Juke34/awesome-awesomeness-bioinformatics)
+4. 🗣 Commented on [#2](https://github.com//Juke34/awesome-awesomeness-bioinformatics/issues/2) in [Juke34/awesome-awesomeness-bioinformatics](https://github.com//Juke34/awesome-awesomeness-bioinformatics)
+5. 🎉 Merged PR [#32](https://github.com//Juke34/AliNe/pull/32) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
 <!--END_SECTION:activity-->
 
 </details>
