@@ -181,11 +181,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com//Juke34/AliNe/pull/34) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-2. 💪 Opened PR [#34](https://github.com//Juke34/AliNe/pull/34) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-3. 🎉 Merged PR [#2](https://github.com//Juke34/awesome-awesomeness-bioinformatics/pull/2) in [Juke34/awesome-awesomeness-bioinformatics](https://github.com//Juke34/awesome-awesomeness-bioinformatics)
-4. 🗣 Commented on [#2](https://github.com//Juke34/awesome-awesomeness-bioinformatics/issues/2) in [Juke34/awesome-awesomeness-bioinformatics](https://github.com//Juke34/awesome-awesomeness-bioinformatics)
-5. 🎉 Merged PR [#32](https://github.com//Juke34/AliNe/pull/32) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+1. 🎉 Merged PR [#35](https://github.com//Juke34/AliNe/pull/35) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+2. 💪 Opened PR [#35](https://github.com//Juke34/AliNe/pull/35) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+3. 🎉 Merged PR [#34](https://github.com//Juke34/AliNe/pull/34) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+4. 💪 Opened PR [#34](https://github.com//Juke34/AliNe/pull/34) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+5. 🎉 Merged PR [#2](https://github.com//Juke34/awesome-awesomeness-bioinformatics/pull/2) in [Juke34/awesome-awesomeness-bioinformatics](https://github.com//Juke34/awesome-awesomeness-bioinformatics)
 <!--END_SECTION:activity-->
 
 </details>
