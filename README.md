@@ -181,11 +181,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3260](https://github.com//nf-core/website/pull/3260) in [nf-core/website](https://github.com//nf-core/website)
-2. 🗣 Commented on [#7892](https://github.com//nf-core/modules/issues/7892) in [nf-core/modules](https://github.com//nf-core/modules)
-3. 🎉 Merged PR [#35](https://github.com//Juke34/AliNe/pull/35) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-4. 💪 Opened PR [#35](https://github.com//Juke34/AliNe/pull/35) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-5. 🎉 Merged PR [#34](https://github.com//Juke34/AliNe/pull/34) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+1. ❗️ Closed issue [#530](https://github.com//NBISweden/AGAT/issues/530) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 💪 Opened PR [#3260](https://github.com//nf-core/website/pull/3260) in [nf-core/website](https://github.com//nf-core/website)
+3. 🗣 Commented on [#7892](https://github.com//nf-core/modules/issues/7892) in [nf-core/modules](https://github.com//nf-core/modules)
+4. 🎉 Merged PR [#35](https://github.com//Juke34/AliNe/pull/35) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+5. 💪 Opened PR [#35](https://github.com//Juke34/AliNe/pull/35) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
 <!--END_SECTION:activity-->
 
 </details>
