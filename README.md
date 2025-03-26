@@ -181,11 +181,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#54850](https://github.com//bioconda/bioconda-recipes/issues/54850) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-2. 🗣 Commented on [#8018](https://github.com//nf-core/modules/issues/8018) in [nf-core/modules](https://github.com//nf-core/modules)
-3. ❌ Closed PR [#8018](https://github.com//nf-core/modules/pull/8018) in [nf-core/modules](https://github.com//nf-core/modules)
-4. 💪 Opened PR [#8079](https://github.com//nf-core/modules/pull/8079) in [nf-core/modules](https://github.com//nf-core/modules)
-5. ❗️ Closed issue [#530](https://github.com//NBISweden/AGAT/issues/530) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. ❗️ Opened issue [#121](https://github.com//nf-core/genomeqc/issues/121) in [nf-core/genomeqc](https://github.com//nf-core/genomeqc)
+2. 🗣 Commented on [#54850](https://github.com//bioconda/bioconda-recipes/issues/54850) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+3. 🗣 Commented on [#8018](https://github.com//nf-core/modules/issues/8018) in [nf-core/modules](https://github.com//nf-core/modules)
+4. ❌ Closed PR [#8018](https://github.com//nf-core/modules/pull/8018) in [nf-core/modules](https://github.com//nf-core/modules)
+5. 💪 Opened PR [#8079](https://github.com//nf-core/modules/pull/8079) in [nf-core/modules](https://github.com//nf-core/modules)
 <!--END_SECTION:activity-->
 
 </details>
