@@ -181,11 +181,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1561](https://github.com//nf-core/test-datasets/issues/1561) in [nf-core/test-datasets](https://github.com//nf-core/test-datasets)
-2. ❗️ Opened issue [#121](https://github.com//nf-core/genomeqc/issues/121) in [nf-core/genomeqc](https://github.com//nf-core/genomeqc)
-3. 🗣 Commented on [#54850](https://github.com//bioconda/bioconda-recipes/issues/54850) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-4. 🗣 Commented on [#8018](https://github.com//nf-core/modules/issues/8018) in [nf-core/modules](https://github.com//nf-core/modules)
-5. ❌ Closed PR [#8018](https://github.com//nf-core/modules/pull/8018) in [nf-core/modules](https://github.com//nf-core/modules)
+1. 🗣 Commented on [#8079](https://github.com//nf-core/modules/issues/8079) in [nf-core/modules](https://github.com//nf-core/modules)
+2. ❗️ Opened issue [#1561](https://github.com//nf-core/test-datasets/issues/1561) in [nf-core/test-datasets](https://github.com//nf-core/test-datasets)
+3. ❗️ Opened issue [#121](https://github.com//nf-core/genomeqc/issues/121) in [nf-core/genomeqc](https://github.com//nf-core/genomeqc)
+4. 🗣 Commented on [#54850](https://github.com//bioconda/bioconda-recipes/issues/54850) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+5. 🗣 Commented on [#8018](https://github.com//nf-core/modules/issues/8018) in [nf-core/modules](https://github.com//nf-core/modules)
 <!--END_SECTION:activity-->
 
 </details>
