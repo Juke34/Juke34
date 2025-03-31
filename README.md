@@ -181,11 +181,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#128](https://github.com//nf-core/genomeqc/pull/128) in [nf-core/genomeqc](https://github.com//nf-core/genomeqc)
-2. ❗️ Closed issue [#5859](https://github.com//nf-core/modules/issues/5859) in [nf-core/modules](https://github.com//nf-core/modules)
-3. 🎉 Merged PR [#7827](https://github.com//nf-core/modules/pull/7827) in [nf-core/modules](https://github.com//nf-core/modules)
-4. 🗣 Commented on [#231](https://github.com//NBISweden/AGAT/issues/231) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🗣 Commented on [#8079](https://github.com//nf-core/modules/issues/8079) in [nf-core/modules](https://github.com//nf-core/modules)
+1. ❗️ Closed issue [#493](https://github.com//NBISweden/AGAT/issues/493) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 💪 Opened PR [#128](https://github.com//nf-core/genomeqc/pull/128) in [nf-core/genomeqc](https://github.com//nf-core/genomeqc)
+3. ❗️ Closed issue [#5859](https://github.com//nf-core/modules/issues/5859) in [nf-core/modules](https://github.com//nf-core/modules)
+4. 🎉 Merged PR [#7827](https://github.com//nf-core/modules/pull/7827) in [nf-core/modules](https://github.com//nf-core/modules)
+5. 🗣 Commented on [#231](https://github.com//NBISweden/AGAT/issues/231) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
