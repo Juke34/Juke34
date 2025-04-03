@@ -181,11 +181,11 @@
   <summary>GitHub</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#80](https://github.com//nf-core/genomeqc/issues/80) in [nf-core/genomeqc](https://github.com//nf-core/genomeqc)
-2. 🎉 Merged PR [#127](https://github.com//nf-core/genomeqc/pull/127) in [nf-core/genomeqc](https://github.com//nf-core/genomeqc)
-3. 🗣 Commented on [#127](https://github.com//nf-core/genomeqc/issues/127) in [nf-core/genomeqc](https://github.com//nf-core/genomeqc)
-4. ❗️ Closed issue [#493](https://github.com//NBISweden/AGAT/issues/493) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 💪 Opened PR [#128](https://github.com//nf-core/genomeqc/pull/128) in [nf-core/genomeqc](https://github.com//nf-core/genomeqc)
+1. 💪 Opened PR [#8](https://github.com//SimCab-CHU/MobiCT/pull/8) in [SimCab-CHU/MobiCT](https://github.com//SimCab-CHU/MobiCT)
+2. ❗️ Closed issue [#80](https://github.com//nf-core/genomeqc/issues/80) in [nf-core/genomeqc](https://github.com//nf-core/genomeqc)
+3. 🎉 Merged PR [#127](https://github.com//nf-core/genomeqc/pull/127) in [nf-core/genomeqc](https://github.com//nf-core/genomeqc)
+4. 🗣 Commented on [#127](https://github.com//nf-core/genomeqc/issues/127) in [nf-core/genomeqc](https://github.com//nf-core/genomeqc)
+5. ❗️ Closed issue [#493](https://github.com//NBISweden/AGAT/issues/493) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 </details>
