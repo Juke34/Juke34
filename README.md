@@ -151,17 +151,15 @@
 ---
 
 ### 🧰 Languages, Technologies, and Tools
-<p align="center">  
-  <a href="https://github.com/topics/Nextflow" title="Nextflow"><img src="https://github.com/nextflow-io/nextflow/raw/master/docs/_static/nextflow-logo-bg-dark.png" alt="nextflow logo" width="150" height="30" /></a>
-</p>
 
 <p align="center">
   <a href="https://github.com/topics/terminal" title="Terminal"><img src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" alt="terminal logo" width="45" height="45" /></a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,python,perl,r,git,anaconda,docker" />
   </a>
-  <a href="https://github.com/topics/apptainer/singularity" title="singularity"><img src="https://insidehpc.com/wp-content/uploads/2017/05/singularity.jpg" alt="singularity logo" width="45" height="45" /></a>
-  <a href="https://github.com/topics/slack" title="slack"><img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="slack logo" width="45" height="45" /></a>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=apptainer,nextflow,slack&theme=light&titles=true" />
+  </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=discord,vscode,linux" />
   </a>
