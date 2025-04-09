@@ -66,44 +66,41 @@
 <div class='container'>
 
   <a href="https://github.com/NBISweden/AGAT">
-    <img style="height: auto; width: 20%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=NBISweden&repo=AGAT&description_lines_count=3&show_owner=true)](https://github.com/NBISweden/AGAT" />
+    <img style="height: auto; width: 20%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=NBISweden&repo=AGAT&description_lines_count=3&show_owner=true"/>
   </a>
   <a href="https://github.com/NBISweden/EMBLmyGFF3">
-    <img style="height: auto; width: 20%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=NBISweden&repo=EMBLmyGFF3&description_lines_count=3&show_owner=true)](https://github.com/NBISweden/EMBLmyGFF3" />
+    <img style="height: auto; width: 20%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=NBISweden&repo=EMBLmyGFF3&description_lines_count=3&show_owner=true" />
   </a>
   <a href="https://github.com/NBISweden/GAAS">
-    <img style="height: auto; width: 20%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=NBISweden&repo=GAAS&description_lines_count=3&show_owner=true)](https://github.com/NBISweden/GAAS" />
+    <img style="height: auto; width: 20%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=NBISweden&repo=GAAS&description_lines_count=3&show_owner=true" />
   </a>
   <a href="https://github.com/NBISweden/GUESSmyLT">
-    <img style="height: auto; width: 20%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=NBISweden&repo=GUESSmyLT&description_lines_count=3&show_owner=true)](https://github.com/NBISweden/GUESSmyLT" />
+    <img style="height: auto; width: 20%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=NBISweden&repo=GUESSmyLT&description_lines_count=3&show_owner=true" />
   </a>
   <a href="https://github.com/NBISweden/pipelines-nextflow">
-    <img style="height: auto; width: 20%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=NBISweden&repo=pipelines-nextflow&description_lines_count=3&show_owner=true)](https://github.com/NBISweden/pipelines-nextflow" />
+    <img style="height: auto; width: 20%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=NBISweden&repo=pipelines-nextflow&description_lines_count=3&show_owner=true" />
   </a>
   <a href="https://github.com/Juke34/AliNe">
-    <img style="height: auto; width: 20%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Juke34&repo=AliNe&description_lines_count=3&show_owner=true)](https://github.com/Juke34/AliNe" />
+    <img style="height: auto; width: 20%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Juke34&repo=AliNe&description_lines_count=3&show_owner=true" />
   </a>
   <a href="https://github.com/Juke34/SAPiN">
-    <img style="height: auto; width: 20%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Juke34&repo=SAPiN&description_lines_count=3&show_owner=true)](https://github.com/Juke34/SAPiN" />
+    <img style="height: auto; width: 20%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Juke34&repo=SAPiN&description_lines_count=3&show_owner=true" />
   </a>
   <a href="https://github.com/Juke34/SamReadViewer">
     <img style="height: auto; width: 20%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Juke34&repo=SamReadViewer&description_lines_count=3&show_owner=true)](https://github.com/Juke34/SamReadViewer" />
   </a>
   <a href="https://github.com/jhayer/baargin">
-    <img style="height: auto; width: 20%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=jhayer&repo=baargin&description_lines_count=3&show_owner=true)](https://github.com/jhayer/baargin" />
+    <img style="height: auto; width: 20%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=jhayer&repo=baargin&description_lines_count=3&show_owner=true" />
   </a>
   <a href="https://github.com/oushujun/EDTA">
-    <img style="height: auto; width: 20%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=oushujun&repo=EDTA&description_lines_count=3&show_owner=true)](https://github.com/oushujun/EDTA" />
+    <img style="height: auto; width: 20%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=oushujun&repo=EDTA&description_lines_count=3&show_owner=true" />
   </a>
   <a href="https://github.com/zhangrengang/TEsorter">
-    <img style="height: auto; width: 20%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=zhangrengang&repo=TEsorter&description_lines_count=3&show_owner=true)](https://github.com/zhangrengang/TEsorter" />
+    <img style="height: auto; width: 20%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=zhangrengang&repo=TEsorter&description_lines_count=3&show_owner=true" />
   </a>
 </div>
 
 ### Teaching
-
-<details>
-  <summary>See here</summary>
   
 * [Git](https://mivegec.pages.ird.fr/dainat/malbec-git/)
 * [Conda](https://mivegec.pages.ird.fr/dainat/malbec-conda/)
@@ -116,16 +113,9 @@
 * [Python](https://southgreenplatform.github.io/training_python/)
 * [Annotation](https://nbisweden.github.io/workshop-genome_annotation_elixir/)
 
-</details>
-
 ### Conda recipes
-
-<details>
-  <summary>See here</summary>
   
-  I have been involved in the following recipes: RepeatModeler, RepeatMasker, Guessmylt, AGAT, EDTA, Recon, LTR_retriever, Ninja, blast+ (rpsbproc), fingerprintscan, sfld, InterProScan, gaas, gepard, TEsorter, RapGreen, ninja-nj, Craq, IPK, etc.
-
-</details>
+  I have been involved in the following recipes: RepeatModeler, RepeatMasker, Guessmylt, AGAT, EDTA, Recon, LTR_retriever, Ninja, blast+ (rpsbproc), fingerprintscan, cath-tools, sfld, InterProScan, gaas, gepard, TEsorter, RapGreen, ninja-nj, Craq, IPK, etc.
 
 ### Cheat sheets
 
@@ -155,34 +145,39 @@
 
 ### Awesomeness
 
-<details>
-  <summary>See here</summary>
-  
-* [Awesome awesomeness bioinformatics](https://github.com/Juke34/awesome-awesomeness-bioinformatics) A list of awesome awesomeness related to bioinformatics and associated fields
-* [Awesome genome annotation](https://juke34.github.io/awesome-genome-annotation/) Awesome genome/mitome/plastome/plastidome annotation tool list
-* [Awesome bioinformatics community](https://github.com/Juke34/awesome-community-bioinformatics) A list of awesome bioinformatics communities
-* [Awesome bioinformatics blog](https://github.com/Juke34/awesome-blog-bioinformatics) A list of awesome bioinformatics blogs
-</details>
+
+<div class='container'>
+  <a href="https://github.com/Juke34/awesome-awesomeness-bioinformatics">
+    <img style="height: auto; width: 20%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Juke34&repo=awesome-awesomeness-bioinformatics&description_lines_count=3&show_owner=true" />
+  </a>
+  <a href="https://juke34.github.io/awesome-genome-annotation/">
+    <img style="height: auto; width: 20%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Juke34&repo=awesome-genome-annotation&description_lines_count=3&show_owner=true" />
+  </a>
+  <a href="https://github.com/Juke34/awesome-community-bioinformatics">
+    <img style="height: auto; width: 20%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Juke34&repo=awesome-community-bioinformatics&description_lines_count=3&show_owner=true" />
+  </a>
+  <a href="https://github.com/Juke34/awesome-blog-bioinformatics">
+    <img style="height: auto; width: 20%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Juke34&repo=awesome-blog-bioinformatics&description_lines_count=3&show_owner=true" />
+  </a>
+</div>
 
 ### Tutorials
 
-<details>
-  <summary>See here</summary>
-  
 * [Gene selection for abinitio tool training ](https://www.biostars.org/p/394385/#9542649) A tutorial on gene set filter/selection for training ab initio annotation tools
 * [Training GeneMark-EP](https://www.biostars.org/p/420356/) A tutorial on raining GeneMark-EP+ ab-initio tool
 * [De novo repeat library creation](https://www.biostars.org/p/411101/) A tutorial about creating de novo repeat library 
 * [fix-anaconda-licensing-issues](https://juke34.github.io/fix-anaconda-licensing-issues/en/) A Practical Guide to avoid the pitfalls of the anaconda license
-</details>
 
 ### Others
 
-<details>
-  <summary>See here</summary>
-  
-* [BiTeN](https://github.com/Juke34/BiTeN) A Bioinformatics Nextflow Pipeline Template
-* [Knowledge](https://juke34.github.io/knowledge/) My collection of cheat sheets / overviews / summaries and more
-</details>
+<div class='container'>
+  <a href="https://github.com/Juke34/BiTeN">
+    <img style="height: auto; width: 20%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Juke34&repo=BiTeN&description_lines_count=3&show_owner=true" />
+  </a>
+  <a href="https://juke34.github.io/knowledge/">
+    <img style="height: auto; width: 20%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Juke34&repo=knowledge&description_lines_count=3&show_owner=true" />
+  </a>
+</div>
 
 ---
 
