@@ -5,7 +5,7 @@
 </div>
 
 <h3 align="center"> <em>Research engineer in Bioinformatics <a href="https://www.ird.fr">IRD</a> at Montpellier France</em></h3>
-<h1 align="center"> 🇦🇹 🇫🇷 🇸🇪 </h1>
+<h3 align="center"> 🇦🇹 🇫🇷 🇸🇪 </h3>
 
 <div align="center">
   
@@ -15,20 +15,40 @@
   <!-- <a href="">![](https://komarev.com/ghpvc/?username=Juke34&style=flat-square)</a>-->
 </div>
 
-<div style="float: right">
-  <a href="https://github.com/Juke34/github-readme-stats" title="GitHub Readme Stats">
-      <img src="https://github-readme-stats.juke34.vercel.app/api?username=Juke34&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&hide=stars" width=45%" height="220" align="right" alt="github stats" />
-  </a>
-</div>
+<!-- to add a line -->
+<h1 align="center"></h1>
+<div align="center">
+
+### Now Playing — Spotify 🎧
+
+
+        
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=keujmat&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=keujmat&redirect=true)
+</div>  
+<!-- to add a line -->
+<h1 align="center"></h1>
 
 <div align="center">
+  <img style="height: auto; width: 51%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juke34&theme=calm" />
   
-### Now Playing — Spotify 🎧
-      
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=keujmat&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=keujmat&redirect=true)
+  <div class='container'>
+    <img style="height: auto; width: 25%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Juke34&theme=calm" />
+    &nbsp;
+    &nbsp;
+    <img style="height: auto; width: 25%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Juke34&theme=calm" />
+  </div>
+  
+  <div class='container'>
+    <img style="height: auto; width: 25%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Juke34&theme=calm" />
+    &nbsp;
+    &nbsp;
+    <img style="height: auto; width: 25%;" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Juke34&theme=calm&utcOffset=1" />
+  </div>
+</div>
+
     
 
-</div>
+
 
 ### :octocat: Personal
   
