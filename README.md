@@ -117,7 +117,7 @@
   
   I have been involved in the following recipes: RepeatModeler, RepeatMasker, Guessmylt, AGAT, EDTA, Recon, LTR_retriever, Ninja, blast+ (rpsbproc), fingerprintscan, cath-tools, sfld, InterProScan, gaas, gepard, TEsorter, RapGreen, ninja-nj, Craq, IPK, etc.
 
-### Cheat sheets
+### Cheat sheets and reviews
 
 <details>
   <summary>See here</summary>
@@ -126,13 +126,6 @@
 * [Git cheat sheet](https://juke34.github.io/knowledge/programming/git/git/#tagging) A cheat sheet about Git
 * [Screen Cheat Sheet](https://juke34.github.io/knowledge/cluster/screen/) A cheat sheet about Screen
 * [Coordinate_systems](https://github.com/Juke34/coordinate_systems) A cheat sheet about coordinate systems in bioinformatics
-</details>
-
-### Reviews
-
-<details>
-  <summary>See here</summary>
-  
 * [Library types](https://joss.theoj.org/papers/10.21105/joss.01344) Overview of the different library types in RNAseq
 * [GTF/GFF review](https://nbisweden.github.io/AGAT/gxf/) Extensive review of the GTF/GFF formats
 * [Topological sorting of gff features](https://nbisweden.github.io/AGAT/topological-sorting-of-gff-features/) A review of GFF/GTF features sorting in different tools
