@@ -200,9 +200,6 @@
 
 ### ⚡ Recent Activity
 
-<details>
-  <summary>GitHub</summary>
-
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com//Juke34/SAPiN/pull/1) in [Juke34/SAPiN](https://github.com//Juke34/SAPiN)
 2. 🗣 Commented on [#8](https://github.com//SimCab-CHU/MobiCT/issues/8) in [SimCab-CHU/MobiCT](https://github.com//SimCab-CHU/MobiCT)
@@ -211,7 +208,9 @@
 5. 🎉 Merged PR [#127](https://github.com//nf-core/genomeqc/pull/127) in [nf-core/genomeqc](https://github.com//nf-core/genomeqc)
 <!--END_SECTION:activity-->
 
-</details>
+---
+
+![Snake animation](https://github.com/Juke34/readme_playground/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
