@@ -210,6 +210,6 @@
 
 ---
 
-![Snake animation](https://github.com/Juke34/readme_playground/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Juke34/Juke34/blob/output/github-contribution-grid-snake.svg)
 
 ---
