@@ -151,28 +151,22 @@
 ---
 
 ### 🧰 Languages, Technologies, and Tools
-
-<p align="center">
-  <a href="https://github.com/topics/python" title="Python"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="36" height="36" /></a>
-  <a href="https://github.com/topics/perl" title="Perl"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/perl/perl.png" alt="perl logo" width="36" height="36" /></a>
-  <a href="https://github.com/topics/bash" title="Bash"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="36" height="36" /></a>
-  <a href="https://github.com/topics/r" title="R"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="R logo" width="36" height="36" /></a>
-  <a href="https://github.com/topics/java" title="Java"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java logo" width="36" height="36" /></a>
-  <a href="https://github.com/topics/git" title="Git"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git logo" width="36" height="36" /></a>
-  <a href="https://github.com/topics/macos" title="macos"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="linux macos" width="36" height="36" /></a>
-  <a href="https://github.com/topics/linux" title="Linux"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux logo" width="36" height="36" /></a>
-  <a href="https://github.com/topics/terminal" title="Terminal"><img src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" alt="terminal logo" width="36" height="36" /></a>
-  <a href="https://github.com/topics/Visual_Studio_Code" title="VSCode"><img src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" alt="VSCode logo" width="36" height="36" /></a>
-  <a href="https://github.com/topics/Nextflow" title="Nextflow"><img src="https://github.com/nextflow-io/nextflow/raw/master/docs/_static/nextflow-logo-bg-dark.png" alt="nextflow logo" width="120" height="28" /></a>
-  <a href="https://github.com/topics/snakemake" title="Snakemake"><img src="https://raw.githubusercontent.com/snakemake/snakemake/6fcdc8a22db5522e232638bff16da9b50996eb45/images/logo.svg" alt="snakemake logo" width="36" height="36" /></a>
-  <a href="https://github.com/topics/bioconda" title="Bioconda"><img src="http://bioconda.github.io/_images/bioconda.png" alt="bioconda logo" width="120" height="22" /></a>
-  <a href="https://github.com/topics/slack" title="slack"><img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="slack logo" width="36" height="36" /></a>
-  <a href="https://github.com/topics/discord" title="discord"><img src="https://raw.githubusercontent.com/github/explore/2a3ce46f963399611d8e2054bb0ce9a4b539296a/topics/discord/discord.png" alt="discord logo" width="36" height="36" /></a>
-  <a href="https://github.com/topics/docker" title="docker"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="36" height="36" /></a>
-    <a href="https://github.com/topics/singularity" title="singularity"><img src="https://insidehpc.com/wp-content/uploads/2017/05/singularity.jpg" alt="singularity logo" width="40" height="36" /></a>
-  
+<p align="center">  
+  <a href="https://github.com/topics/Nextflow" title="Nextflow"><img src="https://github.com/nextflow-io/nextflow/raw/master/docs/_static/nextflow-logo-bg-dark.png" alt="nextflow logo" width="150" height="30" /></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/topics/terminal" title="Terminal"><img src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" alt="terminal logo" width="45" height="45" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,python,perl,r,git,anaconda,docker" />
+  </a>
+  <a href="https://github.com/topics/apptainer/singularity" title="singularity"><img src="https://insidehpc.com/wp-content/uploads/2017/05/singularity.jpg" alt="singularity logo" width="45" height="45" /></a>
+  <a href="https://github.com/topics/slack" title="slack"><img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="slack logo" width="45" height="45" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,vscode,linux" />
+  </a>
+  <a href="https://github.com/topics/macos" title="macos"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="linux macos" width="45" height="45" /></a>
+</p>
 ---
 
 ### ⚡ Recent Activity
