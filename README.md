@@ -194,11 +194,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#55283](https://github.com//bioconda/bioconda-recipes/pull/55283) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-2. 🎉 Merged PR [#1](https://github.com//Juke34/SAPiN/pull/1) in [Juke34/SAPiN](https://github.com//Juke34/SAPiN)
-3. 🗣 Commented on [#8](https://github.com//SimCab-CHU/MobiCT/issues/8) in [SimCab-CHU/MobiCT](https://github.com//SimCab-CHU/MobiCT)
-4. 💪 Opened PR [#8](https://github.com//SimCab-CHU/MobiCT/pull/8) in [SimCab-CHU/MobiCT](https://github.com//SimCab-CHU/MobiCT)
-5. ❗️ Closed issue [#80](https://github.com//nf-core/genomeqc/issues/80) in [nf-core/genomeqc](https://github.com//nf-core/genomeqc)
+1. ❗️ Opened issue [#87](https://github.com//NBISweden/EMBLmyGFF3/issues/87) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+2. 💪 Opened PR [#55283](https://github.com//bioconda/bioconda-recipes/pull/55283) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+3. 🎉 Merged PR [#1](https://github.com//Juke34/SAPiN/pull/1) in [Juke34/SAPiN](https://github.com//Juke34/SAPiN)
+4. 🗣 Commented on [#8](https://github.com//SimCab-CHU/MobiCT/issues/8) in [SimCab-CHU/MobiCT](https://github.com//SimCab-CHU/MobiCT)
+5. 💪 Opened PR [#8](https://github.com//SimCab-CHU/MobiCT/pull/8) in [SimCab-CHU/MobiCT](https://github.com//SimCab-CHU/MobiCT)
 <!--END_SECTION:activity-->
 
 ---
