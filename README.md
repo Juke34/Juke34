@@ -194,11 +194,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#537](https://github.com//NBISweden/AGAT/issues/537) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 🗣 Commented on [#536](https://github.com//NBISweden/AGAT/issues/536) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. ❗️ Opened issue [#87](https://github.com//NBISweden/EMBLmyGFF3/issues/87) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
-4. 💪 Opened PR [#55283](https://github.com//bioconda/bioconda-recipes/pull/55283) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-5. 🎉 Merged PR [#1](https://github.com//Juke34/SAPiN/pull/1) in [Juke34/SAPiN](https://github.com//Juke34/SAPiN)
+1. 🗣 Commented on [#538](https://github.com//NBISweden/AGAT/issues/538) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🗣 Commented on [#537](https://github.com//NBISweden/AGAT/issues/537) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🗣 Commented on [#536](https://github.com//NBISweden/AGAT/issues/536) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. ❗️ Opened issue [#87](https://github.com//NBISweden/EMBLmyGFF3/issues/87) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+5. 💪 Opened PR [#55283](https://github.com//bioconda/bioconda-recipes/pull/55283) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 <!--END_SECTION:activity-->
 
 ---
