@@ -194,9 +194,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#37](https://github.com//Juke34/AliNe/pull/37) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-2. ❗️ Opened issue [#1](https://github.com//Transipedia/kmerator/issues/1) in [Transipedia/kmerator](https://github.com//Transipedia/kmerator)
-3. 🗣 Commented on [#53](https://github.com//NBISweden/AGAT/issues/53) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#540](https://github.com//NBISweden/AGAT/issues/540) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 💪 Opened PR [#37](https://github.com//Juke34/AliNe/pull/37) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+3. ❗️ Opened issue [#1](https://github.com//Transipedia/kmerator/issues/1) in [Transipedia/kmerator](https://github.com//Transipedia/kmerator)
 4. 🗣 Commented on [#53](https://github.com//NBISweden/AGAT/issues/53) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 5. 🗣 Commented on [#53](https://github.com//NBISweden/AGAT/issues/53) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
