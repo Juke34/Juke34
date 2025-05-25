@@ -194,11 +194,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#56365](https://github.com//bioconda/bioconda-recipes/pull/56365) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-2. 🗣 Commented on [#542](https://github.com//NBISweden/AGAT/issues/542) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🗣 Commented on [#539](https://github.com//NBISweden/AGAT/issues/539) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🎉 Merged PR [#37](https://github.com//Juke34/AliNe/pull/37) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-5. 🗣 Commented on [#540](https://github.com//NBISweden/AGAT/issues/540) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#56365](https://github.com//bioconda/bioconda-recipes/issues/56365) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+2. 💪 Opened PR [#56365](https://github.com//bioconda/bioconda-recipes/pull/56365) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+3. 🗣 Commented on [#542](https://github.com//NBISweden/AGAT/issues/542) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🗣 Commented on [#539](https://github.com//NBISweden/AGAT/issues/539) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🎉 Merged PR [#37](https://github.com//Juke34/AliNe/pull/37) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
 <!--END_SECTION:activity-->
 
 ---
