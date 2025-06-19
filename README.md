@@ -68,6 +68,15 @@
   <a href="https://github.com/NBISweden/AGAT">
     <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=NBISweden&repo=AGAT&description_lines_count=3&show_owner=true"/>
   </a>
+  <a href="https://github.com/Juke34/AliNe">
+    <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Juke34&repo=AliNe&description_lines_count=3&show_owner=true" />
+  </a>
+  <a href="https://github.com/jhayer/baargin">
+    <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=jhayer&repo=baargin&description_lines_count=3&show_owner=true" />
+  </a>
+  <a href="https://github.com/oushujun/EDTA">
+    <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=oushujun&repo=EDTA&description_lines_count=3&show_owner=true" />
+  </a>
   <a href="https://github.com/NBISweden/EMBLmyGFF3">
     <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=NBISweden&repo=EMBLmyGFF3&description_lines_count=3&show_owner=true" />
   </a>
@@ -77,23 +86,20 @@
   <a href="https://github.com/NBISweden/GUESSmyLT">
     <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=NBISweden&repo=GUESSmyLT&description_lines_count=3&show_owner=true" />
   </a>
+  <a href="https://github.com/SimCab-CHU/MobiCT">
+    <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=SimCab-CHU&repo=MobiCT&description_lines_count=3&show_owner=true" />
+  </a>
   <a href="https://github.com/NBISweden/pipelines-nextflow">
     <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=NBISweden&repo=pipelines-nextflow&description_lines_count=3&show_owner=true" />
   </a>
-  <a href="https://github.com/Juke34/AliNe">
-    <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Juke34&repo=AliNe&description_lines_count=3&show_owner=true" />
-  </a>
-  <a href="https://github.com/Juke34/SAPiN">
-    <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Juke34&repo=SAPiN&description_lines_count=3&show_owner=true" />
+  <a href="https://github.com/Juke34/RAIN">
+    <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Juke34&repo=RAIN&description_lines_count=3&show_owner=true" />
   </a>
   <a href="https://github.com/Juke34/SamReadViewer">
     <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Juke34&repo=SamReadViewer&description_lines_count=3&show_owner=true)](https://github.com/Juke34/SamReadViewer" />
   </a>
-  <a href="https://github.com/jhayer/baargin">
-    <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=jhayer&repo=baargin&description_lines_count=3&show_owner=true" />
-  </a>
-  <a href="https://github.com/oushujun/EDTA">
-    <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=oushujun&repo=EDTA&description_lines_count=3&show_owner=true" />
+  <a href="https://github.com/Juke34/SAPiN">
+    <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Juke34&repo=SAPiN&description_lines_count=3&show_owner=true" />
   </a>
   <a href="https://github.com/zhangrengang/TEsorter">
     <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=zhangrengang&repo=TEsorter&description_lines_count=3&show_owner=true" />
