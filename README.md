@@ -194,11 +194,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#31](https://github.com//Juke34/rain/issues/31) in [Juke34/rain](https://github.com//Juke34/rain)
-2. 🎉 Merged PR [#38](https://github.com//Juke34/AliNe/pull/38) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-3. 🗣 Commented on [#38](https://github.com//Juke34/AliNe/issues/38) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-4. 🗣 Commented on [#543](https://github.com//NBISweden/AGAT/issues/543) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. ❗️ Closed issue [#12](https://github.com//Juke34/rain/issues/12) in [Juke34/rain](https://github.com//Juke34/rain)
+1. 💪 Opened PR [#32](https://github.com//Juke34/rain/pull/32) in [Juke34/rain](https://github.com//Juke34/rain)
+2. ❗️ Opened issue [#31](https://github.com//Juke34/rain/issues/31) in [Juke34/rain](https://github.com//Juke34/rain)
+3. 🎉 Merged PR [#38](https://github.com//Juke34/AliNe/pull/38) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+4. 🗣 Commented on [#38](https://github.com//Juke34/AliNe/issues/38) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+5. 🗣 Commented on [#543](https://github.com//NBISweden/AGAT/issues/543) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 ---
