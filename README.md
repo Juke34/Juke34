@@ -200,11 +200,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com//Juke34/RADO_members/pull/18) in [Juke34/RADO_members](https://github.com//Juke34/RADO_members)
-2. 💪 Opened PR [#18](https://github.com//Juke34/RADO_members/pull/18) in [Juke34/RADO_members](https://github.com//Juke34/RADO_members)
-3. ❗️ Opened issue [#39](https://github.com//Juke34/rain/issues/39) in [Juke34/rain](https://github.com//Juke34/rain)
-4. ❗️ Opened issue [#38](https://github.com//Juke34/rain/issues/38) in [Juke34/rain](https://github.com//Juke34/rain)
-5. 🎉 Merged PR [#17](https://github.com//Juke34/RADO_members/pull/17) in [Juke34/RADO_members](https://github.com//Juke34/RADO_members)
+1. 🗣 Commented on [#547](https://github.com//NBISweden/AGAT/issues/547) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🎉 Merged PR [#18](https://github.com//Juke34/RADO_members/pull/18) in [Juke34/RADO_members](https://github.com//Juke34/RADO_members)
+3. 💪 Opened PR [#18](https://github.com//Juke34/RADO_members/pull/18) in [Juke34/RADO_members](https://github.com//Juke34/RADO_members)
+4. ❗️ Opened issue [#39](https://github.com//Juke34/rain/issues/39) in [Juke34/rain](https://github.com//Juke34/rain)
+5. ❗️ Opened issue [#38](https://github.com//Juke34/rain/issues/38) in [Juke34/rain](https://github.com//Juke34/rain)
 <!--END_SECTION:activity-->
 
 ---
