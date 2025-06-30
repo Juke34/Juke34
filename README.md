@@ -200,11 +200,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com//Juke34/RAIN/pull/45) in [Juke34/RAIN](https://github.com//Juke34/RAIN)
-2. 💪 Opened PR [#45](https://github.com//Juke34/rain/pull/45) in [Juke34/rain](https://github.com//Juke34/rain)
-3. 🎉 Merged PR [#2](https://github.com//Juke34/SAPiN/pull/2) in [Juke34/SAPiN](https://github.com//Juke34/SAPiN)
-4. 🗣 Commented on [#547](https://github.com//NBISweden/AGAT/issues/547) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🎉 Merged PR [#18](https://github.com//Juke34/RADO_members/pull/18) in [Juke34/RADO_members](https://github.com//Juke34/RADO_members)
+1. 🗣 Commented on [#547](https://github.com//NBISweden/AGAT/issues/547) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🎉 Merged PR [#45](https://github.com//Juke34/RAIN/pull/45) in [Juke34/RAIN](https://github.com//Juke34/RAIN)
+3. 💪 Opened PR [#45](https://github.com//Juke34/rain/pull/45) in [Juke34/rain](https://github.com//Juke34/rain)
+4. 🎉 Merged PR [#2](https://github.com//Juke34/SAPiN/pull/2) in [Juke34/SAPiN](https://github.com//Juke34/SAPiN)
+5. 🗣 Commented on [#547](https://github.com//NBISweden/AGAT/issues/547) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 ---
