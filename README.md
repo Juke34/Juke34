@@ -200,11 +200,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#52](https://github.com//jhayer/baargin/issues/52) in [jhayer/baargin](https://github.com//jhayer/baargin)
-2. ❗️ Closed issue [#547](https://github.com//NBISweden/AGAT/issues/547) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🗣 Commented on [#512](https://github.com//NBISweden/AGAT/issues/512) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. ❗️ Reopened issue [#512](https://github.com//NBISweden/AGAT/issues/512) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🗣 Commented on [#547](https://github.com//NBISweden/AGAT/issues/547) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. ❗️ Closed issue [#544](https://github.com//NBISweden/AGAT/issues/544) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. ❗️ Closed issue [#534](https://github.com//NBISweden/AGAT/issues/534) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. ❗️ Opened issue [#52](https://github.com//jhayer/baargin/issues/52) in [jhayer/baargin](https://github.com//jhayer/baargin)
+4. ❗️ Closed issue [#547](https://github.com//NBISweden/AGAT/issues/547) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🗣 Commented on [#512](https://github.com//NBISweden/AGAT/issues/512) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 ---
