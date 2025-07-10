@@ -200,11 +200,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#39](https://github.com//Juke34/AliNe/issues/39) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-2. 💪 Opened PR [#549](https://github.com//NBISweden/AGAT/pull/549) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🎉 Merged PR [#57456](https://github.com//bioconda/bioconda-recipes/pull/57456) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-4. ❗️ Closed issue [#540](https://github.com//NBISweden/AGAT/issues/540) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🗣 Commented on [#512](https://github.com//NBISweden/AGAT/issues/512) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#1](https://github.com//Juke34/awesome-genome-annotation/issues/1) in [Juke34/awesome-genome-annotation](https://github.com//Juke34/awesome-genome-annotation)
+2. 🎉 Merged PR [#1](https://github.com//Juke34/awesome-genome-annotation/pull/1) in [Juke34/awesome-genome-annotation](https://github.com//Juke34/awesome-genome-annotation)
+3. ❗️ Opened issue [#39](https://github.com//Juke34/AliNe/issues/39) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+4. 💪 Opened PR [#549](https://github.com//NBISweden/AGAT/pull/549) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🎉 Merged PR [#57456](https://github.com//bioconda/bioconda-recipes/pull/57456) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 <!--END_SECTION:activity-->
 
 ---
