@@ -200,11 +200,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#550](https://github.com//NBISweden/AGAT/issues/550) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. 💪 Opened PR [#57880](https://github.com//bioconda/bioconda-recipes/pull/57880) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-3. 🗣 Commented on [#1](https://github.com//Juke34/awesome-genome-annotation/issues/1) in [Juke34/awesome-genome-annotation](https://github.com//Juke34/awesome-genome-annotation)
-4. 🎉 Merged PR [#1](https://github.com//Juke34/awesome-genome-annotation/pull/1) in [Juke34/awesome-genome-annotation](https://github.com//Juke34/awesome-genome-annotation)
-5. ❗️ Opened issue [#39](https://github.com//Juke34/AliNe/issues/39) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+1. ❗️ Closed issue [#542](https://github.com//NBISweden/AGAT/issues/542) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. ❗️ Closed issue [#550](https://github.com//NBISweden/AGAT/issues/550) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🎉 Merged PR [#551](https://github.com//NBISweden/AGAT/pull/551) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🗣 Commented on [#550](https://github.com//NBISweden/AGAT/issues/550) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 💪 Opened PR [#551](https://github.com//NBISweden/AGAT/pull/551) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 ---
