@@ -200,10 +200,10 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#93](https://github.com//NBISweden/GAAS/issues/93) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
-2. 🗣 Commented on [#57554](https://github.com//bioconda/bioconda-recipes/issues/57554) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-3. 🗣 Commented on [#559](https://github.com//NBISweden/AGAT/issues/559) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🗣 Commented on [#556](https://github.com//NBISweden/AGAT/issues/556) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#559](https://github.com//NBISweden/AGAT/issues/559) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🗣 Commented on [#556](https://github.com//NBISweden/AGAT/issues/556) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. 🗣 Commented on [#558](https://github.com//NBISweden/AGAT/issues/558) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🗣 Commented on [#22](https://github.com//enasequence/sequencetools/issues/22) in [enasequence/sequencetools](https://github.com//enasequence/sequencetools)
 5. 🗣 Commented on [#558](https://github.com//NBISweden/AGAT/issues/558) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
