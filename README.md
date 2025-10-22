@@ -117,7 +117,7 @@
 * [Reproducible Research](https://southgreenplatform.github.io/training_reproducible_research/)
 * [Bacterial Comparative Genomics](https://southgreenplatform.github.io/training_bacterial_comparative_genomics/)
 * [Python](https://southgreenplatform.github.io/training_python/)
-* [Annotation](https://nbisweden.github.io/workshop-genome_annotation_elixir/)
+* [Genome Annotation](https://itrop.pages.ird.fr/training/training_genome_annotation/)
 
 ### Conda recipes
   
@@ -165,7 +165,8 @@
 * [Gene selection for abinitio tool training ](https://www.biostars.org/p/394385/#9542649) A tutorial on gene set filter/selection for training ab initio annotation tools
 * [Training GeneMark-EP](https://www.biostars.org/p/420356/) A tutorial on raining GeneMark-EP+ ab-initio tool
 * [De novo repeat library creation](https://www.biostars.org/p/411101/) A tutorial about creating de novo repeat library 
-* [fix-anaconda-licensing-issues](https://juke34.github.io/fix-anaconda-licensing-issues/en/) A Practical Guide to avoid the pitfalls of the anaconda license
+* [Fix-anaconda-licensing-issues](https://juke34.github.io/fix-anaconda-licensing-issues/en/) A Practical Guide to avoid the pitfalls of the anaconda license
+* [Shinylive_Quarto](https://forge.ird.fr/mivegec/dainat/shinylive_quarto) A guide to setup R Shiny applications as static web apps using Quarto and Shinylive
 
 ### Others
 
