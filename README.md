@@ -201,11 +201,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9672](https://github.com//openjournals/joss-reviews/issues/9672) in [openjournals/joss-reviews](https://github.com//openjournals/joss-reviews)
-2. ❌ Labeled PR [#61527](https://github.com//bioconda/bioconda-recipes/pull/61527) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-3. 💪 Opened PR [#61527](https://github.com//bioconda/bioconda-recipes/pull/61527) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-4. 💪 Opened PR [#577](https://github.com//NBISweden/AGAT/pull/577) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. ❗️ Closed issue [#574](https://github.com//NBISweden/AGAT/issues/574) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#61484](https://github.com//bioconda/bioconda-recipes/issues/61484) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+2. 🗣 Commented on [#9672](https://github.com//openjournals/joss-reviews/issues/9672) in [openjournals/joss-reviews](https://github.com//openjournals/joss-reviews)
+3. ❌ Labeled PR [#61527](https://github.com//bioconda/bioconda-recipes/pull/61527) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+4. 💪 Opened PR [#61527](https://github.com//bioconda/bioconda-recipes/pull/61527) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+5. 💪 Opened PR [#577](https://github.com//NBISweden/AGAT/pull/577) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 ---
