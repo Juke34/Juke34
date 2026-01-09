@@ -201,11 +201,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#579](https://github.com//NBISweden/AGAT/pull/579) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. ❌ Merged PR [#51](https://github.com//jhayer/baargin/pull/51) in [jhayer/baargin](https://github.com//jhayer/baargin)
-3. 🗣 Commented on [#61527](https://github.com//bioconda/bioconda-recipes/issues/61527) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-4. ❌ Closed PR [#61527](https://github.com//bioconda/bioconda-recipes/pull/61527) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-5. ❗️ Opened issue [#53](https://github.com//jhayer/baargin/issues/53) in [jhayer/baargin](https://github.com//jhayer/baargin)
+1. 💪 Opened PR [#61812](https://github.com//bioconda/bioconda-recipes/pull/61812) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+2. 💪 Opened PR [#579](https://github.com//NBISweden/AGAT/pull/579) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. ❌ Merged PR [#51](https://github.com//jhayer/baargin/pull/51) in [jhayer/baargin](https://github.com//jhayer/baargin)
+4. 🗣 Commented on [#61527](https://github.com//bioconda/bioconda-recipes/issues/61527) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+5. ❌ Closed PR [#61527](https://github.com//bioconda/bioconda-recipes/pull/61527) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 <!--END_SECTION:activity-->
 
 ---
