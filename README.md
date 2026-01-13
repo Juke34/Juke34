@@ -201,11 +201,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#61812](https://github.com//bioconda/bioconda-recipes/issues/61812) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-2. ❌ Closed PR [#579](https://github.com//NBISweden/AGAT/pull/579) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🗣 Commented on [#61812](https://github.com//bioconda/bioconda-recipes/issues/61812) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-4. ❌ Labeled PR [#61812](https://github.com//bioconda/bioconda-recipes/pull/61812) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-5. 💪 Opened PR [#61812](https://github.com//bioconda/bioconda-recipes/pull/61812) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+1. ❌ Unlabeled PR [#61812](https://github.com//bioconda/bioconda-recipes/pull/61812) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+2. 🗣 Commented on [#61812](https://github.com//bioconda/bioconda-recipes/issues/61812) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+3. ❌ Closed PR [#579](https://github.com//NBISweden/AGAT/pull/579) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🗣 Commented on [#61812](https://github.com//bioconda/bioconda-recipes/issues/61812) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+5. ❌ Labeled PR [#61812](https://github.com//bioconda/bioconda-recipes/pull/61812) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 <!--END_SECTION:activity-->
 
 ---
