@@ -202,10 +202,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com//Juke34/awesome-blog-bioinformatics/issues/1) in [Juke34/awesome-blog-bioinformatics](https://github.com//Juke34/awesome-blog-bioinformatics)
-2. 💪 Opened PR [#2](https://github.com//AnaisDenis/PMosquito/pull/2) in [AnaisDenis/PMosquito](https://github.com//AnaisDenis/PMosquito)
-3. ❗️ Opened issue [#1](https://github.com//AnaisDenis/PMosquito/issues/1) in [AnaisDenis/PMosquito](https://github.com//AnaisDenis/PMosquito)
-4. ❌ Unlabeled PR [#61812](https://github.com//bioconda/bioconda-recipes/pull/61812) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-5. 🗣 Commented on [#61812](https://github.com//bioconda/bioconda-recipes/issues/61812) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+2. 🗣 Commented on [#1](https://github.com//Juke34/awesome-blog-bioinformatics/issues/1) in [Juke34/awesome-blog-bioinformatics](https://github.com//Juke34/awesome-blog-bioinformatics)
+3. 💪 Opened PR [#2](https://github.com//AnaisDenis/PMosquito/pull/2) in [AnaisDenis/PMosquito](https://github.com//AnaisDenis/PMosquito)
+4. ❗️ Opened issue [#1](https://github.com//AnaisDenis/PMosquito/issues/1) in [AnaisDenis/PMosquito](https://github.com//AnaisDenis/PMosquito)
+5. ❌ Unlabeled PR [#61812](https://github.com//bioconda/bioconda-recipes/pull/61812) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 <!--END_SECTION:activity-->
 
 ---
