@@ -177,6 +177,9 @@
   <a href="https://juke34.github.io/knowledge/">
     <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Juke34&repo=knowledge&description_lines_count=3&show_owner=true" />
   </a>
+  <a href="https://github.com/Juke34/bioinfoblogs">
+    <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Juke34&repo=bioinfoblogs&description_lines_count=3&show_owner=true" />
+  </a>
 </div>
 
 ---
