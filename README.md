@@ -204,10 +204,10 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com//kelp/bluemastodon/issues/10) in [kelp/bluemastodon](https://github.com//kelp/bluemastodon)
-2. ❌ Labeled PR [#61812](https://github.com//bioconda/bioconda-recipes/pull/61812) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-3. ❌ Unlabeled PR [#61812](https://github.com//bioconda/bioconda-recipes/pull/61812) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-4. 🗣 Commented on [#1](https://github.com//Juke34/awesome-blog-bioinformatics/issues/1) in [Juke34/awesome-blog-bioinformatics](https://github.com//Juke34/awesome-blog-bioinformatics)
+1. ❌ Merged PR [#61812](https://github.com//bioconda/bioconda-recipes/pull/61812) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+2. ❗️ Opened issue [#10](https://github.com//kelp/bluemastodon/issues/10) in [kelp/bluemastodon](https://github.com//kelp/bluemastodon)
+3. ❌ Labeled PR [#61812](https://github.com//bioconda/bioconda-recipes/pull/61812) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+4. ❌ Unlabeled PR [#61812](https://github.com//bioconda/bioconda-recipes/pull/61812) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 5. 🗣 Commented on [#1](https://github.com//Juke34/awesome-blog-bioinformatics/issues/1) in [Juke34/awesome-blog-bioinformatics](https://github.com//Juke34/awesome-blog-bioinformatics)
 <!--END_SECTION:activity-->
 
