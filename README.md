@@ -204,11 +204,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#580](https://github.com//NBISweden/AGAT/issues/580) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. ❌ Merged PR [#61812](https://github.com//bioconda/bioconda-recipes/pull/61812) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-3. ❗️ Opened issue [#10](https://github.com//kelp/bluemastodon/issues/10) in [kelp/bluemastodon](https://github.com//kelp/bluemastodon)
-4. ❌ Labeled PR [#61812](https://github.com//bioconda/bioconda-recipes/pull/61812) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-5. ❌ Unlabeled PR [#61812](https://github.com//bioconda/bioconda-recipes/pull/61812) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+1. 🗣 Commented on [#581](https://github.com//NBISweden/AGAT/issues/581) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🗣 Commented on [#580](https://github.com//NBISweden/AGAT/issues/580) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. ❌ Merged PR [#61812](https://github.com//bioconda/bioconda-recipes/pull/61812) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+4. ❗️ Opened issue [#10](https://github.com//kelp/bluemastodon/issues/10) in [kelp/bluemastodon](https://github.com//kelp/bluemastodon)
+5. ❌ Labeled PR [#61812](https://github.com//bioconda/bioconda-recipes/pull/61812) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 <!--END_SECTION:activity-->
 
 ---
