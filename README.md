@@ -204,11 +204,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#54](https://github.com//s-andrews/FastQC/issues/54) in [s-andrews/FastQC](https://github.com//s-andrews/FastQC)
-2. 🗣 Commented on [#40](https://github.com//Juke34/AliNe/issues/40) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+1. 💪 Opened PR [#41](https://github.com//Juke34/AliNe/pull/41) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+2. 🗣 Commented on [#54](https://github.com//s-andrews/FastQC/issues/54) in [s-andrews/FastQC](https://github.com//s-andrews/FastQC)
 3. 🗣 Commented on [#40](https://github.com//Juke34/AliNe/issues/40) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-4. 🗣 Commented on [#581](https://github.com//NBISweden/AGAT/issues/581) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🗣 Commented on [#580](https://github.com//NBISweden/AGAT/issues/580) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🗣 Commented on [#40](https://github.com//Juke34/AliNe/issues/40) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+5. 🗣 Commented on [#581](https://github.com//NBISweden/AGAT/issues/581) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 ---
