@@ -204,10 +204,10 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41](https://github.com//Juke34/AliNe/issues/41) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-2. 🗣 Commented on [#40](https://github.com//Juke34/AliNe/issues/40) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-3. 💪 Opened PR [#41](https://github.com//Juke34/AliNe/pull/41) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-4. 🗣 Commented on [#54](https://github.com//s-andrews/FastQC/issues/54) in [s-andrews/FastQC](https://github.com//s-andrews/FastQC)
+1. ❗️ Closed issue [#40](https://github.com//Juke34/AliNe/issues/40) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+2. ❌ Merged PR [#41](https://github.com//Juke34/AliNe/pull/41) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+3. 🗣 Commented on [#41](https://github.com//Juke34/AliNe/issues/41) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+4. 🗣 Commented on [#41](https://github.com//Juke34/AliNe/issues/41) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
 5. 🗣 Commented on [#40](https://github.com//Juke34/AliNe/issues/40) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
 <!--END_SECTION:activity-->
 
