@@ -204,11 +204,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#91](https://github.com//NBISweden/EMBLmyGFF3/issues/91) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
-2. 🗣 Commented on [#570](https://github.com//NBISweden/AGAT/issues/570) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. ❗️ Closed issue [#39](https://github.com//Juke34/AliNe/issues/39) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-4. ❌ Merged PR [#42](https://github.com//Juke34/AliNe/pull/42) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-5. 💪 Opened PR [#42](https://github.com//Juke34/AliNe/pull/42) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+1. 💪 Opened PR [#51](https://github.com//Juke34/RAIN/pull/51) in [Juke34/RAIN](https://github.com//Juke34/RAIN)
+2. ❗️ Closed issue [#91](https://github.com//NBISweden/EMBLmyGFF3/issues/91) in [NBISweden/EMBLmyGFF3](https://github.com//NBISweden/EMBLmyGFF3)
+3. 🗣 Commented on [#570](https://github.com//NBISweden/AGAT/issues/570) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. ❗️ Closed issue [#39](https://github.com//Juke34/AliNe/issues/39) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+5. ❌ Merged PR [#42](https://github.com//Juke34/AliNe/pull/42) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
 <!--END_SECTION:activity-->
 
 ---
