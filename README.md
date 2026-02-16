@@ -204,11 +204,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#38](https://github.com//Juke34/RAIN/issues/38) in [Juke34/RAIN](https://github.com//Juke34/RAIN)
-2. ❗️ Closed issue [#49](https://github.com//Juke34/RAIN/issues/49) in [Juke34/RAIN](https://github.com//Juke34/RAIN)
-3. ❗️ Closed issue [#50](https://github.com//Juke34/RAIN/issues/50) in [Juke34/RAIN](https://github.com//Juke34/RAIN)
-4. ❌ Merged PR [#51](https://github.com//Juke34/RAIN/pull/51) in [Juke34/RAIN](https://github.com//Juke34/RAIN)
-5. 💪 Opened PR [#51](https://github.com//Juke34/RAIN/pull/51) in [Juke34/RAIN](https://github.com//Juke34/RAIN)
+1. 💪 Opened PR [#52](https://github.com//Juke34/RAIN/pull/52) in [Juke34/RAIN](https://github.com//Juke34/RAIN)
+2. ❗️ Closed issue [#38](https://github.com//Juke34/RAIN/issues/38) in [Juke34/RAIN](https://github.com//Juke34/RAIN)
+3. ❗️ Closed issue [#49](https://github.com//Juke34/RAIN/issues/49) in [Juke34/RAIN](https://github.com//Juke34/RAIN)
+4. ❗️ Closed issue [#50](https://github.com//Juke34/RAIN/issues/50) in [Juke34/RAIN](https://github.com//Juke34/RAIN)
+5. ❌ Merged PR [#51](https://github.com//Juke34/RAIN/pull/51) in [Juke34/RAIN](https://github.com//Juke34/RAIN)
 <!--END_SECTION:activity-->
 
 ---
