@@ -204,11 +204,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#93](https://github.com//NBISweden/GAAS/issues/93) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
-2. ❌ Merged PR [#44](https://github.com//Juke34/AliNe/pull/44) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-3. ❌ Merged PR [#45](https://github.com//Juke34/AliNe/pull/45) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-4. 💪 Opened PR [#45](https://github.com//Juke34/AliNe/pull/45) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-5. ❗️ Opened issue [#6](https://github.com//zzhofict/BWA-FastAlign/issues/6) in [zzhofict/BWA-FastAlign](https://github.com//zzhofict/BWA-FastAlign)
+1. 🗣 Commented on [#88](https://github.com//NBISweden/GAAS/issues/88) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
+2. ❌ Closed PR [#88](https://github.com//NBISweden/GAAS/pull/88) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
+3. ❗️ Closed issue [#76](https://github.com//NBISweden/GAAS/issues/76) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
+4. ❗️ Closed issue [#89](https://github.com//NBISweden/GAAS/issues/89) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
+5. 🗣 Commented on [#89](https://github.com//NBISweden/GAAS/issues/89) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
 <!--END_SECTION:activity-->
 
 ---
