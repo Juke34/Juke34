@@ -204,11 +204,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#44](https://github.com//Juke34/AliNe/pull/44) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-2. ❌ Merged PR [#45](https://github.com//Juke34/AliNe/pull/45) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-3. 💪 Opened PR [#45](https://github.com//Juke34/AliNe/pull/45) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-4. ❗️ Opened issue [#6](https://github.com//zzhofict/BWA-FastAlign/issues/6) in [zzhofict/BWA-FastAlign](https://github.com//zzhofict/BWA-FastAlign)
-5. 💪 Opened PR [#44](https://github.com//Juke34/AliNe/pull/44) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+1. 🗣 Commented on [#93](https://github.com//NBISweden/GAAS/issues/93) in [NBISweden/GAAS](https://github.com//NBISweden/GAAS)
+2. ❌ Merged PR [#44](https://github.com//Juke34/AliNe/pull/44) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+3. ❌ Merged PR [#45](https://github.com//Juke34/AliNe/pull/45) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+4. 💪 Opened PR [#45](https://github.com//Juke34/AliNe/pull/45) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+5. ❗️ Opened issue [#6](https://github.com//zzhofict/BWA-FastAlign/issues/6) in [zzhofict/BWA-FastAlign](https://github.com//zzhofict/BWA-FastAlign)
 <!--END_SECTION:activity-->
 
 ---
