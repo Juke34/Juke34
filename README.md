@@ -204,11 +204,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#53](https://github.com//Juke34/RAIN/issues/53) in [Juke34/RAIN](https://github.com//Juke34/RAIN)
-2. 🗣 Commented on [#584](https://github.com//NBISweden/AGAT/issues/584) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🗣 Commented on [#63164](https://github.com//bioconda/bioconda-recipes/issues/63164) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+1. 🗣 Commented on [#53](https://github.com//Juke34/RAIN/issues/53) in [Juke34/RAIN](https://github.com//Juke34/RAIN)
+2. ❗️ Opened issue [#53](https://github.com//Juke34/RAIN/issues/53) in [Juke34/RAIN](https://github.com//Juke34/RAIN)
+3. 🗣 Commented on [#584](https://github.com//NBISweden/AGAT/issues/584) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 4. 🗣 Commented on [#63164](https://github.com//bioconda/bioconda-recipes/issues/63164) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-5. 🗣 Commented on [#537](https://github.com//NBISweden/AGAT/issues/537) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🗣 Commented on [#63164](https://github.com//bioconda/bioconda-recipes/issues/63164) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 <!--END_SECTION:activity-->
 
 ---
