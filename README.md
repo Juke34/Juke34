@@ -204,11 +204,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#55](https://github.com//Juke34/RAIN/issues/55) in [Juke34/RAIN](https://github.com//Juke34/RAIN)
-2. 🗣 Commented on [#53](https://github.com//Juke34/RAIN/issues/53) in [Juke34/RAIN](https://github.com//Juke34/RAIN)
-3. 💪 Opened PR [#54](https://github.com//Juke34/RAIN/pull/54) in [Juke34/RAIN](https://github.com//Juke34/RAIN)
-4. 🗣 Commented on [#63598](https://github.com//bioconda/bioconda-recipes/issues/63598) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-5. 🗣 Commented on [#587](https://github.com//NBISweden/AGAT/issues/587) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. ❌ Merged PR [#54](https://github.com//Juke34/RAIN/pull/54) in [Juke34/RAIN](https://github.com//Juke34/RAIN)
+2. 🗣 Commented on [#55](https://github.com//Juke34/RAIN/issues/55) in [Juke34/RAIN](https://github.com//Juke34/RAIN)
+3. 🗣 Commented on [#53](https://github.com//Juke34/RAIN/issues/53) in [Juke34/RAIN](https://github.com//Juke34/RAIN)
+4. 💪 Opened PR [#54](https://github.com//Juke34/RAIN/pull/54) in [Juke34/RAIN](https://github.com//Juke34/RAIN)
+5. 🗣 Commented on [#63598](https://github.com//bioconda/bioconda-recipes/issues/63598) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
 <!--END_SECTION:activity-->
 
 ---
