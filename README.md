@@ -204,11 +204,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#588](https://github.com//NBISweden/AGAT/issues/588) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-2. ❗️ Closed issue [#588](https://github.com//NBISweden/AGAT/issues/588) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. ❌ Merged PR [#54](https://github.com//Juke34/RAIN/pull/54) in [Juke34/RAIN](https://github.com//Juke34/RAIN)
-4. 🗣 Commented on [#55](https://github.com//Juke34/RAIN/issues/55) in [Juke34/RAIN](https://github.com//Juke34/RAIN)
-5. 🗣 Commented on [#53](https://github.com//Juke34/RAIN/issues/53) in [Juke34/RAIN](https://github.com//Juke34/RAIN)
+1. ❗️ Closed issue [#468](https://github.com//NBISweden/AGAT/issues/468) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. ❗️ Closed issue [#587](https://github.com//NBISweden/AGAT/issues/587) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. ❗️ Closed issue [#586](https://github.com//NBISweden/AGAT/issues/586) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+4. 🗣 Commented on [#588](https://github.com//NBISweden/AGAT/issues/588) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. ❗️ Closed issue [#588](https://github.com//NBISweden/AGAT/issues/588) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 ---
