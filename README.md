@@ -204,11 +204,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#54850](https://github.com//bioconda/bioconda-recipes/pull/54850) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-2. ❗️ Closed issue [#581](https://github.com//NBISweden/AGAT/issues/581) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-3. 🗣 Commented on [#581](https://github.com//NBISweden/AGAT/issues/581) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🗣 Commented on [#587](https://github.com//NBISweden/AGAT/issues/587) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. 🗣 Commented on [#562](https://github.com//NBISweden/AGAT/issues/562) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. ❗️ Closed issue [#46](https://github.com//Juke34/AliNe/issues/46) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+2. ❌ Merged PR [#48](https://github.com//Juke34/AliNe/pull/48) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+3. 💪 Opened PR [#48](https://github.com//Juke34/AliNe/pull/48) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+4. ❌ Merged PR [#54850](https://github.com//bioconda/bioconda-recipes/pull/54850) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
+5. ❗️ Closed issue [#581](https://github.com//NBISweden/AGAT/issues/581) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 ---
