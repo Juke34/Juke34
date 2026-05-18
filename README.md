@@ -204,11 +204,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#46](https://github.com//Juke34/AliNe/issues/46) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-2. ❌ Merged PR [#48](https://github.com//Juke34/AliNe/pull/48) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-3. 💪 Opened PR [#48](https://github.com//Juke34/AliNe/pull/48) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-4. ❌ Merged PR [#54850](https://github.com//bioconda/bioconda-recipes/pull/54850) in [bioconda/bioconda-recipes](https://github.com//bioconda/bioconda-recipes)
-5. ❗️ Closed issue [#581](https://github.com//NBISweden/AGAT/issues/581) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+1. 🗣 Commented on [#594](https://github.com//NBISweden/AGAT/issues/594) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+2. 🗣 Commented on [#595](https://github.com//NBISweden/AGAT/issues/595) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+3. ❗️ Closed issue [#46](https://github.com//Juke34/AliNe/issues/46) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+4. ❌ Merged PR [#48](https://github.com//Juke34/AliNe/pull/48) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+5. 💪 Opened PR [#48](https://github.com//Juke34/AliNe/pull/48) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
 <!--END_SECTION:activity-->
 
 ---
