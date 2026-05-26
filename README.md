@@ -204,11 +204,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Assigned PR [#1](https://github.com//mikafontaine/malaria_HaemoproteusWW2/pull/1) in [mikafontaine/malaria_HaemoproteusWW2](https://github.com//mikafontaine/malaria_HaemoproteusWW2)
-2. 💪 Opened PR [#1](https://github.com//mikafontaine/malaria_HaemoproteusWW2/pull/1) in [mikafontaine/malaria_HaemoproteusWW2](https://github.com//mikafontaine/malaria_HaemoproteusWW2)
-3. 🗣 Commented on [#594](https://github.com//NBISweden/AGAT/issues/594) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-4. 🗣 Commented on [#595](https://github.com//NBISweden/AGAT/issues/595) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
-5. ❗️ Closed issue [#46](https://github.com//Juke34/AliNe/issues/46) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+1. ❌ Merged PR [#1](https://github.com//mikafontaine/malaria_HaemoproteusWW2/pull/1) in [mikafontaine/malaria_HaemoproteusWW2](https://github.com//mikafontaine/malaria_HaemoproteusWW2)
+2. ❌ Assigned PR [#1](https://github.com//mikafontaine/malaria_HaemoproteusWW2/pull/1) in [mikafontaine/malaria_HaemoproteusWW2](https://github.com//mikafontaine/malaria_HaemoproteusWW2)
+3. 💪 Opened PR [#1](https://github.com//mikafontaine/malaria_HaemoproteusWW2/pull/1) in [mikafontaine/malaria_HaemoproteusWW2](https://github.com//mikafontaine/malaria_HaemoproteusWW2)
+4. 🗣 Commented on [#594](https://github.com//NBISweden/AGAT/issues/594) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
+5. 🗣 Commented on [#595](https://github.com//NBISweden/AGAT/issues/595) in [NBISweden/AGAT](https://github.com//NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 ---
