@@ -204,11 +204,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com//MargauxLefebvre/ViroSeek/issues/11) in [MargauxLefebvre/ViroSeek](https://github.com//MargauxLefebvre/ViroSeek)
+1. ❌ Merged PR [#11](https://github.com//MargauxLefebvre/ViroSeek/pull/11) in [MargauxLefebvre/ViroSeek](https://github.com//MargauxLefebvre/ViroSeek)
 2. 🗣 Commented on [#11](https://github.com//MargauxLefebvre/ViroSeek/issues/11) in [MargauxLefebvre/ViroSeek](https://github.com//MargauxLefebvre/ViroSeek)
-3. 💪 Opened PR [#11](https://github.com//MargauxLefebvre/ViroSeek/pull/11) in [MargauxLefebvre/ViroSeek](https://github.com//MargauxLefebvre/ViroSeek)
-4. ❌ Merged PR [#1](https://github.com//mikafontaine/malaria_HaemoproteusWW2/pull/1) in [mikafontaine/malaria_HaemoproteusWW2](https://github.com//mikafontaine/malaria_HaemoproteusWW2)
-5. ❌ Assigned PR [#1](https://github.com//mikafontaine/malaria_HaemoproteusWW2/pull/1) in [mikafontaine/malaria_HaemoproteusWW2](https://github.com//mikafontaine/malaria_HaemoproteusWW2)
+3. 🗣 Commented on [#11](https://github.com//MargauxLefebvre/ViroSeek/issues/11) in [MargauxLefebvre/ViroSeek](https://github.com//MargauxLefebvre/ViroSeek)
+4. 💪 Opened PR [#11](https://github.com//MargauxLefebvre/ViroSeek/pull/11) in [MargauxLefebvre/ViroSeek](https://github.com//MargauxLefebvre/ViroSeek)
+5. ❌ Merged PR [#1](https://github.com//mikafontaine/malaria_HaemoproteusWW2/pull/1) in [mikafontaine/malaria_HaemoproteusWW2](https://github.com//mikafontaine/malaria_HaemoproteusWW2)
 <!--END_SECTION:activity-->
 
 ---
