@@ -245,21 +245,54 @@ TEsorter: an accurate and fast method to classify LTR-retrotransposons in plant 
 
 ### Awesomeness
 
+<table>
 
-<div class='container'>
-  <a href="https://github.com/Juke34/awesome-awesomeness-bioinformatics">
-    <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Juke34&repo=awesome-awesomeness-bioinformatics&description_lines_count=3&show_owner=true" />
-  </a>
-  <a href="https://juke34.github.io/awesome-genome-annotation/">
-    <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Juke34&repo=awesome-genome-annotation&description_lines_count=3&show_owner=true" />
-  </a>
-  <a href="https://github.com/Juke34/awesome-community-bioinformatics">
-    <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Juke34&repo=awesome-community-bioinformatics&description_lines_count=3&show_owner=true" />
-  </a>
-  <a href="https://github.com/Juke34/awesome-blog-bioinformatics">
-    <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Juke34&repo=awesome-blog-bioinformatics&description_lines_count=3&show_owner=true" />
-  </a>
-</div>
+<tr>
+<td width="33%">
+<h3><a href="https://github.com/Juke34/awesome-awesomeness-bioinformatics">awesome-awesomeness-bioinformatics</a></h3>
+A list of awesome awesomeness related to bioinformatics and associated fields.
+<br>
+<img src="https://img.shields.io/github/stars/Juke34/awesome-awesomeness-bioinformatics?style=social">
+<img src="https://img.shields.io/github/forks/Juke34/awesome-awesomeness-bioinformatics?style=social">
+<br>
+<img src="https://img.shields.io/github/languages/top/Juke34/awesome-awesomeness-bioinformatics">
+</td>
+
+<td width="33%">
+<h3><a href="https://juke34.github.io/awesome-genome-annotation/">awesome-genome-annotation</a></h3>
+Awesome genome/mitome/plastome/plastidome annotation tool list.
+<br>
+<img src="https://img.shields.io/github/stars/Juke34/awesome-genome-annotation?style=social">
+<img src="https://img.shields.io/github/forks/Juke34/awesome-genome-annotation?style=social">
+<br>
+<img src="https://img.shields.io/github/languages/top/Juke34/awesome-genome-annotation">
+</td>
+
+<td width="33%">
+<h3><a href="https://github.com/Juke34/awesome-community-bioinformatics">awesome-community-bioinformatics</a></h3>
+A list of awesome bioinformatics communities.
+<br>
+<img src="https://img.shields.io/github/stars/Juke34/awesome-community-bioinformatics?style=social">
+<img src="https://img.shields.io/github/forks/Juke34/awesome-community-bioinformatics?style=social">
+<br>
+<img src="https://img.shields.io/github/languages/top/Juke34/awesome-community-bioinformatics">
+</td>
+
+</tr>
+<tr>
+
+<td width="33%">
+<h3><a href="https://github.com/Juke34/awesome-blog-bioinformatics">awesome-blog-bioinformatics</a></h3>
+A curated list of awesome blog in bioinformatics and affiliated areas.
+<br>
+<img src="https://img.shields.io/github/stars/Juke34/awesome-blog-bioinformatics?style=social">
+<img src="https://img.shields.io/github/forks/Juke34/awesome-blog-bioinformatics?style=social">
+<br>
+<img src="https://img.shields.io/github/languages/top/Juke34/awesome-blog-bioinformatics">
+</td>
+  
+</tr>
+</table>
 
 ### Tutorials
 
@@ -293,7 +326,6 @@ My collection of cheat sheets / overviews / summaries and more.
 <br>
 <img src="https://img.shields.io/github/languages/top/Juke34/BiTeN">
 </td>
-
 
 <td width="33%">
 <h3><a href="https://github.com/Juke34/bioinfoblogs">bioinfoblogs</a></h3>
