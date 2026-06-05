@@ -63,48 +63,153 @@
 
 ### Tools (I developed or participated)
 
-<div class='container'>
+<table>
 
-  <a href="https://github.com/NBISweden/AGAT">
-    <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=NBISweden&repo=AGAT&description_lines_count=3&show_owner=true"/>
-  </a>
-  <a href="https://github.com/Juke34/AliNe">
-    <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Juke34&repo=AliNe&description_lines_count=3&show_owner=true" />
-  </a>
-  <a href="https://github.com/jhayer/baargin">
-    <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=jhayer&repo=baargin&description_lines_count=3&show_owner=true" />
-  </a>
-  <a href="https://github.com/oushujun/EDTA">
-    <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=oushujun&repo=EDTA&description_lines_count=3&show_owner=true" />
-  </a>
-  <a href="https://github.com/NBISweden/EMBLmyGFF3">
-    <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=NBISweden&repo=EMBLmyGFF3&description_lines_count=3&show_owner=true" />
-  </a>
-  <a href="https://github.com/NBISweden/GAAS">
-    <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=NBISweden&repo=GAAS&description_lines_count=3&show_owner=true" />
-  </a>
-  <a href="https://github.com/NBISweden/GUESSmyLT">
-    <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=NBISweden&repo=GUESSmyLT&description_lines_count=3&show_owner=true" />
-  </a>
-  <a href="https://github.com/SimCab-CHU/MobiCT">
-    <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=SimCab-CHU&repo=MobiCT&description_lines_count=3&show_owner=true" />
-  </a>
-  <a href="https://github.com/NBISweden/pipelines-nextflow">
-    <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=NBISweden&repo=pipelines-nextflow&description_lines_count=3&show_owner=true" />
-  </a>
-  <a href="https://github.com/Juke34/RAIN">
-    <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Juke34&repo=RAIN&description_lines_count=3&show_owner=true" />
-  </a>
-  <a href="https://github.com/Juke34/SamReadViewer">
-    <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Juke34&repo=SamReadViewer&description_lines_count=3&show_owner=true)](https://github.com/Juke34/SamReadViewer" />
-  </a>
-  <a href="https://github.com/Juke34/SAPiN">
-    <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Juke34&repo=SAPiN&description_lines_count=3&show_owner=true" />
-  </a>
-  <a href="https://github.com/zhangrengang/TEsorter">
-    <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=zhangrengang&repo=TEsorter&description_lines_count=3&show_owner=true" />
-  </a>
-</div>
+<tr>
+<td width="33%">
+<h3><a href="https://github.com/Juke34/AliNe">AliNe</a></h3>
+Comparative genomics and synteny analysis tool.
+<br>
+<img src="https://img.shields.io/github/stars/Juke34/AliNe?style=social">
+<img src="https://img.shields.io/github/forks/Juke34/AliNe?style=social">
+<br>
+<img src="https://img.shields.io/github/languages/top/Juke34/AliNe">
+</td>
+
+<td width="33%">
+<h3><a href="https://github.com/NBISweden/AGAT">AGAT</a></h3>
+Another Gff Analysis Toolkit.
+<br>
+<img src="https://img.shields.io/github/stars/NBISweden/AGAT?style=social">
+<img src="https://img.shields.io/github/forks/NBISweden/AGAT?style=social">
+<br>
+<img src="https://img.shields.io/github/languages/top/NBISweden/AGAT">
+</td>
+
+<td width="33%">
+<h3><a href="https://github.com/jhayer/baargin">baargin</a></h3>
+Bacterial Assembly and Antimicrobial Resistance Genes In NextFlow.
+<br>
+<img src="https://img.shields.io/github/stars/jhayer/baargin?style=social">
+<img src="https://img.shields.io/github/forks/jhayer/baargin?style=social">
+<br>
+<img src="https://img.shields.io/github/languages/top/jhayer/baargin">
+</td>
+
+</tr>
+<tr>
+  
+<td width="33%">
+<h3><a href="https://github.com/oushujun/EDTA">EDTA</a></h3>
+Extensive de-novo TE Annotator.
+<br>
+<img src="https://img.shields.io/github/stars/oushujun/EDTA?style=social">
+<img src="https://img.shields.io/github/forks/oushujun/EDTA?style=social">
+<br>
+<img src="https://img.shields.io/github/languages/top/oushujun/EDTA">
+</td>
+
+<td width="33%">
+<h3><a href="https://github.com/NBISweden/EMBLmyGFF3">EMBLmyGFF3</a></h3>
+An efficient way to convert gff3 annotation files into EMBL format ready to submit.
+<br>
+<img src="https://img.shields.io/github/stars/NBISweden/EMBLmyGFF3?style=social">
+<img src="https://img.shields.io/github/forks/NBISweden/EMBLmyGFF3?style=social">
+<br>
+<img src="https://img.shields.io/github/languages/top/NBISweden/EMBLmyGFF3">
+</td>
+
+<td width="33%">
+<h3><a href="https://github.com/NBISweden/GAAS">GAAS</a></h3>
+Genome Assembly and Annotation Service code.
+<br>
+<img src="https://img.shields.io/github/stars/NBISweden/GAAS?style=social">
+<img src="https://img.shields.io/github/forks/NBISweden/GAAS?style=social">
+<br>
+<img src="https://img.shields.io/github/languages/top/NBISweden/GAAS">
+</td>
+
+</tr>
+<tr>
+  
+<td width="33%">
+<h3><a href="https://github.com/NBISweden/GUESSmyLT">GUESSmyLT</a></h3>
+An efficient way to guess the library type of your RNA-Seq data.
+<br>
+<img src="https://img.shields.io/github/stars/NBISweden/GUESSmyLT?style=social">
+<img src="https://img.shields.io/github/forks/NBISweden/GUESSmyLT?style=social">
+<br>
+<img src="https://img.shields.io/github/languages/top/NBISweden/GUESSmyLT">
+</td>
+
+<td width="33%">
+<h3><a href="https://github.com/SimCab-CHU/MobiCT">MobiCT</a></h3>
+ctDNA Analysis pipeline.
+<br>
+<img src="https://img.shields.io/github/stars/SimCab-CHU/MobiCT?style=social">
+<img src="https://img.shields.io/github/forks/SimCab-CHU/MobiCT?style=social">
+<br>
+<img src="https://img.shields.io/github/languages/top/SimCab-CHU/MobiCT">
+</td>
+
+<td width="33%">
+<h3><a href="https://github.com/NBISweden/pipelines-nextflow">pipelines-nextflow</a></h3>
+A set of workflows written in Nextflow for Genome Annotation.
+<br>
+<img src="https://img.shields.io/github/stars/NBISweden/pipelines-nextflow?style=social">
+<img src="https://img.shields.io/github/forks/NBISweden/pipelines-nextflow?style=social">
+<br>
+<img src="https://img.shields.io/github/languages/top/NBISweden/pipelines-nextflow">
+</td>
+
+</tr>
+<tr>
+
+<td width="33%">
+<h3><a href="https://github.com/Juke34/RAIN">RAIN</a></h3>
+RNA Alterations Investigation using Nextflow with particular focus on A-to-I editing events.
+<br>
+<img src="https://img.shields.io/github/stars/Juke34/RAIN?style=social">
+<img src="https://img.shields.io/github/forks/Juke34/RAIN?style=social">
+<br>
+<img src="https://img.shields.io/github/languages/top/Juke34/RAIN">
+</td>
+
+<td width="33%">
+<h3><a href="https://github.com/Juke34/SamReadViewer">SamReadViewer</a></h3>
+Small utility to visualise read alignment directly from sam format without reference.
+<br>
+<img src="https://img.shields.io/github/stars/Juke34/SamReadViewer?style=social">
+<img src="https://img.shields.io/github/forks/Juke34/SamReadViewer?style=social">
+<br>
+<img src="https://img.shields.io/github/languages/top/Juke34/SamReadViewer">
+</td>
+
+<td width="33%">
+<h3><a href="https://github.com/Juke34/SAPiN">SAPiN</a></h3>
+Summarize Alignment Pile by Nucleotide.
+<br>
+<img src="https://img.shields.io/github/stars/Juke34/SAPiN?style=social">
+<img src="https://img.shields.io/github/forks/Juke34/SAPiN?style=social">
+<br>
+<img src="https://img.shields.io/github/languages/top/Juke34/SAPiN">
+</td>
+
+</tr>
+<tr>
+
+<td width="33%">
+<h3><a href="https://github.com/zhangrengang/TEsorter">TEsorter</a></h3>
+TEsorter: an accurate and fast method to classify LTR-retrotransposons in plant genomes.
+<br>
+<img src="https://img.shields.io/github/stars/zhangrengang/TEsorter?style=social">
+<img src="https://img.shields.io/github/forks/zhangrengang/TEsorter?style=social">
+<br>
+<img src="https://img.shields.io/github/languages/top/zhangrengang/TEsorter">
+</td>
+
+</tr>
+</table>
 
 ### Teaching
   
