@@ -230,9 +230,6 @@ TEsorter: an accurate and fast method to classify LTR-retrotransposons in plant 
 
 ### Cheat sheets and reviews
 
-<details>
-  <summary>See here</summary>
-  
 * [Bash cheat sheet](https://juke34.github.io/knowledge/programming/bash/bash_cheat_sheet/) A cheat sheet about bash
 * [Git cheat sheet](https://juke34.github.io/knowledge/programming/git/git/#tagging) A cheat sheet about Git
 * [Screen Cheat Sheet](https://juke34.github.io/knowledge/cluster/screen/) A cheat sheet about Screen
@@ -245,7 +242,6 @@ TEsorter: an accurate and fast method to classify LTR-retrotransposons in plant 
 * [Split a FASTA file](https://juke34.github.io/knowledge/bioinformatics/format/handling/split_fasta/) A review of different tools to split fasta
 * [The CIGAR string](https://juke34.github.io/knowledge/bioinformatics/format/specification/cigar/) A review the CIGAR string format
 * [Phasing genome assembly with Falcon](https://www.biostars.org/p/426259/) Overview on phasing genome assembly with Falcon
-</details>
 
 ### Awesomeness
 
@@ -275,17 +271,42 @@ TEsorter: an accurate and fast method to classify LTR-retrotransposons in plant 
 
 ### Others
 
-<div class='container'>
-  <a href="https://github.com/Juke34/BiTeN">
-    <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Juke34&repo=BiTeN&description_lines_count=3&show_owner=true" />
-  </a>
-  <a href="https://juke34.github.io/knowledge/">
-    <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Juke34&repo=knowledge&description_lines_count=3&show_owner=true" />
-  </a>
-  <a href="https://github.com/Juke34/bioinfoblogs">
-    <img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Juke34&repo=bioinfoblogs&description_lines_count=3&show_owner=true" />
-  </a>
-</div>
+<table>
+
+<tr>
+<td width="33%">
+<h3><a href="https://github.com/Juke34/BiTeN">BiTeN</a></h3>
+A Bioinformatics Nextflow Pipeline Template.
+<br>
+<img src="https://img.shields.io/github/stars/Juke34/BiTeN?style=social">
+<img src="https://img.shields.io/github/forks/Juke34/BiTeN?style=social">
+<br>
+<img src="https://img.shields.io/github/languages/top/Juke34/BiTeN">
+</td>
+
+<td width="33%">
+<h3><a href="https://juke34.github.io/knowledge/">knowledge</a></h3>
+My collection of cheat sheets / overviews / summaries and more.
+<br>
+<img src="https://img.shields.io/github/stars/Juke34/knowledge?style=social">
+<img src="https://img.shields.io/github/forks/Juke34/knowledge?style=social">
+<br>
+<img src="https://img.shields.io/github/languages/top/Juke34/BiTeN">
+</td>
+
+
+<td width="33%">
+<h3><a href="https://github.com/Juke34/bioinfoblogs">bioinfoblogs</a></h3>
+CI workflow to automatically publish selected RSS feeds to a Bluesky account (use case: https://bsky.app/profile/bioinfoblogs.bsky.social).
+<br>
+<img src="https://img.shields.io/github/stars/Juke34/bioinfoblogs?style=social">
+<img src="https://img.shields.io/github/forks/Juke34/bioinfoblogs?style=social">
+<br>
+<img src="https://img.shields.io/github/languages/top/Juke34/bioinfoblogs">
+</td>
+
+</tr>
+</table>
 
 ---
 
