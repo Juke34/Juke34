@@ -324,7 +324,7 @@ My collection of cheat sheets / overviews / summaries and more.
 <img src="https://img.shields.io/github/stars/Juke34/knowledge?style=social">
 <img src="https://img.shields.io/github/forks/Juke34/knowledge?style=social">
 <br>
-<img src="https://img.shields.io/github/languages/top/Juke34/BiTeN">
+<img src="https://img.shields.io/github/languages/top/Juke34/knowledge">
 </td>
 
 <td width="33%">
