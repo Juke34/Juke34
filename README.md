@@ -362,11 +362,11 @@ CI workflow to automatically publish selected RSS feeds to a Bluesky account (us
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#49](https://github.com//Juke34/AliNe/pull/49) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-2. 💪 Opened PR [#49](https://github.com//Juke34/AliNe/pull/49) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
-3. ❌ Closed PR [#55](https://github.com//Juke34/RAIN/pull/55) in [Juke34/RAIN](https://github.com//Juke34/RAIN)
-4. ❌ Merged PR [#11](https://github.com//MargauxLefebvre/ViroSeek/pull/11) in [MargauxLefebvre/ViroSeek](https://github.com//MargauxLefebvre/ViroSeek)
-5. 🗣 Commented on [#11](https://github.com//MargauxLefebvre/ViroSeek/issues/11) in [MargauxLefebvre/ViroSeek](https://github.com//MargauxLefebvre/ViroSeek)
+1. ❌ Merged PR [#3](https://github.com//Juke34/awesome-awesomeness-bioinformatics/pull/3) in [Juke34/awesome-awesomeness-bioinformatics](https://github.com//Juke34/awesome-awesomeness-bioinformatics)
+2. 💪 Opened PR [#3](https://github.com//Juke34/awesome-awesomeness-bioinformatics/pull/3) in [Juke34/awesome-awesomeness-bioinformatics](https://github.com//Juke34/awesome-awesomeness-bioinformatics)
+3. ❌ Merged PR [#49](https://github.com//Juke34/AliNe/pull/49) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+4. 💪 Opened PR [#49](https://github.com//Juke34/AliNe/pull/49) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
+5. ❌ Closed PR [#55](https://github.com//Juke34/RAIN/pull/55) in [Juke34/RAIN](https://github.com//Juke34/RAIN)
 <!--END_SECTION:activity-->
 
 ---
