@@ -362,8 +362,8 @@ CI workflow to automatically publish selected RSS feeds to a Bluesky account (us
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/MargauxLefebvre/ViroSeek/pull/12) in [MargauxLefebvre/ViroSeek](https://github.com/MargauxLefebvre/ViroSeek)
-2. ❌ Merged PR [#3](https://github.com//Juke34/awesome-awesomeness-bioinformatics/pull/3) in [Juke34/awesome-awesomeness-bioinformatics](https://github.com//Juke34/awesome-awesomeness-bioinformatics)
+1. 🎉 Merged PR [#12](https://github.com/MargauxLefebvre/ViroSeek/pull/12) in [MargauxLefebvre/ViroSeek](https://github.com/MargauxLefebvre/ViroSeek)
+2. 💪 Opened PR [#12](https://github.com/MargauxLefebvre/ViroSeek/pull/12) in [MargauxLefebvre/ViroSeek](https://github.com/MargauxLefebvre/ViroSeek)
 3. 💪 Opened PR [#3](https://github.com//Juke34/awesome-awesomeness-bioinformatics/pull/3) in [Juke34/awesome-awesomeness-bioinformatics](https://github.com//Juke34/awesome-awesomeness-bioinformatics)
 4. 💪 Opened PR [#49](https://github.com//Juke34/AliNe/pull/49) in [Juke34/AliNe](https://github.com//Juke34/AliNe)
 5. ❌ Closed PR [#55](https://github.com//Juke34/RAIN/pull/55) in [Juke34/RAIN](https://github.com//Juke34/RAIN)
