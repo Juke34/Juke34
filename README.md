@@ -362,11 +362,11 @@ CI workflow to automatically publish selected RSS feeds to a Bluesky account (us
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#601](https://github.com/NBISweden/AGAT/issues/601#issuecomment-5467726839) in [NBISweden/AGAT](https://github.com/NBISweden/AGAT)
-2. 🗣 Commented on [#601](https://github.com/NBISweden/AGAT/issues/601#issuecomment-5467679569) in [NBISweden/AGAT](https://github.com/NBISweden/AGAT)
-3. 🗣 Commented on [#600](https://github.com/NBISweden/AGAT/pull/600#issuecomment-5439635130) in [NBISweden/AGAT](https://github.com/NBISweden/AGAT)
-4. 🎉 Merged PR [#12](https://github.com/MargauxLefebvre/ViroSeek/pull/12) in [MargauxLefebvre/ViroSeek](https://github.com/MargauxLefebvre/ViroSeek)
-5. 💪 Opened PR [#12](https://github.com/MargauxLefebvre/ViroSeek/pull/12) in [MargauxLefebvre/ViroSeek](https://github.com/MargauxLefebvre/ViroSeek)
+1. 🗣 Commented on [#591](https://github.com/NBISweden/AGAT/issues/591#issuecomment-5476518466) in [NBISweden/AGAT](https://github.com/NBISweden/AGAT)
+2. 🔒 Closed issue [#599](https://github.com/NBISweden/AGAT/issues/599) in [NBISweden/AGAT](https://github.com/NBISweden/AGAT)
+3. 🗣 Commented on [#600](https://github.com/NBISweden/AGAT/pull/600#issuecomment-5476450120) in [NBISweden/AGAT](https://github.com/NBISweden/AGAT)
+4. 🚀 Published release [ViroSeek - v0.0.3](https://github.com/MargauxLefebvre/ViroSeek/releases/tag/v0.0.3) in [MargauxLefebvre/ViroSeek](https://github.com/MargauxLefebvre/ViroSeek)
+5. 🗣 Commented on [#601](https://github.com/NBISweden/AGAT/issues/601#issuecomment-5467726839) in [NBISweden/AGAT](https://github.com/NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 ---
