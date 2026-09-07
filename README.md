@@ -362,11 +362,11 @@ CI workflow to automatically publish selected RSS feeds to a Bluesky account (us
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#598](https://github.com/NBISweden/AGAT/issues/598#issuecomment-5538199461) in [NBISweden/AGAT](https://github.com/NBISweden/AGAT)
-2. 💪 Opened PR [#604](https://github.com/NBISweden/AGAT/pull/604) in [NBISweden/AGAT](https://github.com/NBISweden/AGAT)
-3. 🎉 Merged PR [#602](https://github.com/NBISweden/AGAT/pull/602) in [NBISweden/AGAT](https://github.com/NBISweden/AGAT)
-4. 🔒 Closed issue [#589](https://github.com/NBISweden/AGAT/issues/589) in [NBISweden/AGAT](https://github.com/NBISweden/AGAT)
-5. 🎉 Merged PR [#603](https://github.com/NBISweden/AGAT/pull/603) in [NBISweden/AGAT](https://github.com/NBISweden/AGAT)
+1. 🗣 Commented on [#560](https://github.com/NBISweden/AGAT/issues/560#issuecomment-5570888157) in [NBISweden/AGAT](https://github.com/NBISweden/AGAT)
+2. 🔓 Reopened issue [#560](https://github.com/NBISweden/AGAT/issues/560) in [NBISweden/AGAT](https://github.com/NBISweden/AGAT)
+3. 🗣 Commented on [#560](https://github.com/NBISweden/AGAT/issues/560#issuecomment-5570635603) in [NBISweden/AGAT](https://github.com/NBISweden/AGAT)
+4. 🔒 Closed issue [#560](https://github.com/NBISweden/AGAT/issues/560) in [NBISweden/AGAT](https://github.com/NBISweden/AGAT)
+5. 🔒 Closed issue [#601](https://github.com/NBISweden/AGAT/issues/601) in [NBISweden/AGAT](https://github.com/NBISweden/AGAT)
 <!--END_SECTION:activity-->
 
 ---
