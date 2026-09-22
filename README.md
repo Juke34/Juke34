@@ -336,7 +336,18 @@ CI workflow to automatically publish selected RSS feeds to a Bluesky account (us
 <br>
 <img src="https://img.shields.io/github/languages/top/Juke34/bioinfoblogs">
 </td>
+</tr>
 
+<tr>
+<td width="33%">
+<h3><a href="https://github.com/Juke34/assembly-stats">assembly-stats</a></h3>
+Bioinfo – Interactive snail plots for genome assembly statistics, easily shareable via GitHub Pages.
+<br>
+<img src="https://img.shields.io/github/stars/Juke34/assembly-stats?style=social">
+<img src="https://img.shields.io/github/forks/Juke34/assembly-stats?style=social">
+<br>
+<img src="https://img.shields.io/github/languages/top/Juke34/assembly-stats">
+</td>
 </tr>
 </table>
 
