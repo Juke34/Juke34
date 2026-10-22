@@ -223,6 +223,7 @@ TEsorter: an accurate and fast method to classify LTR-retrotransposons in plant 
 * [Bacterial Comparative Genomics](https://southgreenplatform.github.io/training_bacterial_comparative_genomics/)
 * [Python](https://southgreenplatform.github.io/training_python/)
 * [Genome Annotation](https://itrop.pages.ird.fr/training/training_genome_annotation/)
+* [Bioinformatics for Infectious Disease Ecology Research](https://jhayer.github.io/bioinfo_training_infectious_disease/pages/annotation/bakta.html)
 
 ### Conda recipes
   
