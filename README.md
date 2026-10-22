@@ -374,9 +374,9 @@ Bioinfo – Interactive snail plots for genome assembly statistics, easily share
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#128](https://github.com/WhereToPublish/WhereToPublish.github.io/issues/128) in [WhereToPublish/WhereToPublish.github.io](https://github.com/WhereToPublish/WhereToPublish.github.io)
-2. 🚀 Published release [AliNe - v1.6.5](https://github.com/Juke34/AliNe/releases/tag/v1.6.5) in [Juke34/AliNe](https://github.com/Juke34/AliNe)
-3. 🔓 Reopened issue [#560](https://github.com/NBISweden/AGAT/issues/560) in [NBISweden/AGAT](https://github.com/NBISweden/AGAT)
+1. 🗣 Commented on [#2058](https://github.com/bgruening/galaxytools/issues/2058#issuecomment-6335294263) in [bgruening/galaxytools](https://github.com/bgruening/galaxytools)
+2. 🔒 Closed issue [#128](https://github.com/WhereToPublish/WhereToPublish.github.io/issues/128) in [WhereToPublish/WhereToPublish.github.io](https://github.com/WhereToPublish/WhereToPublish.github.io)
+3. 🚀 Published release [AliNe - v1.6.5](https://github.com/Juke34/AliNe/releases/tag/v1.6.5) in [Juke34/AliNe](https://github.com/Juke34/AliNe)
 4. 🗣 Commented on [#560](https://github.com/NBISweden/AGAT/issues/560#issuecomment-5570635603) in [NBISweden/AGAT](https://github.com/NBISweden/AGAT)
 5. 🔒 Closed issue [#560](https://github.com/NBISweden/AGAT/issues/560) in [NBISweden/AGAT](https://github.com/NBISweden/AGAT)
 <!--END_SECTION:activity-->
