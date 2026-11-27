@@ -374,11 +374,11 @@ Bioinfo – Interactive snail plots for genome assembly statistics, easily share
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11509](https://github.com/openjournals/joss-reviews/issues/11509#issuecomment-6690453023) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
-2. 🗣 Commented on [#606](https://github.com/NBISweden/AGAT/issues/606#issuecomment-6611479417) in [NBISweden/AGAT](https://github.com/NBISweden/AGAT)
-3. 🗣 Commented on [#606](https://github.com/NBISweden/AGAT/issues/606#issuecomment-6607458252) in [NBISweden/AGAT](https://github.com/NBISweden/AGAT)
-4. 🗣 Commented on [#11153](https://github.com/openjournals/joss-reviews/issues/11153#issuecomment-6523617408) in [openjournals/joss-reviews](https://github.com/openjournals/joss-reviews)
-5. 🗣 Commented on [#2058](https://github.com/bgruening/galaxytools/issues/2058#issuecomment-6335294263) in [bgruening/galaxytools](https://github.com/bgruening/galaxytools)
+1. 🚀 Published release [AliNe - v1.6.6](https://github.com/Juke34/AliNe/releases/tag/v1.6.6) in [Juke34/AliNe](https://github.com/Juke34/AliNe)
+2. 🎉 Merged PR [#51](https://github.com/Juke34/AliNe/pull/51) in [Juke34/AliNe](https://github.com/Juke34/AliNe)
+3. 💪 Opened PR [#51](https://github.com/Juke34/AliNe/pull/51) in [Juke34/AliNe](https://github.com/Juke34/AliNe)
+4. ❌ Closed PR [#50](https://github.com/Juke34/AliNe/pull/50) in [Juke34/AliNe](https://github.com/Juke34/AliNe)
+5. 💪 Opened PR [#50](https://github.com/Juke34/AliNe/pull/50) in [Juke34/AliNe](https://github.com/Juke34/AliNe)
 <!--END_SECTION:activity-->
 
 ---
